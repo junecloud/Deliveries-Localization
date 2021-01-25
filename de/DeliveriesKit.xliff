@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="../Strings/en.lproj/Add.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Add.Barcode.Header" xml:space="preserve">
+        <source>Scan a barcode</source>
+        <target>Scanne einen Barcode</target>
+        <note>Heading for an button used to scan a barcode on a package or label</note>
+      </trans-unit>
+      <trans-unit id="Add.Best.Header" xml:space="preserve">
+        <source>Choose the best match</source>
+        <target>Wähle den passenden Vorschlag</target>
+        <note>Heading for a list of suggested deliveries to add, based on the input</note>
+      </trans-unit>
+      <trans-unit id="Add.Clipboard.Header" xml:space="preserve">
+        <source>Add from your clipboard</source>
+        <target>Aus der Zwischenablage hinzufügen</target>
+        <note>Heading for a list of suggested deliveries to add, based on the contents of the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Add.Edit.Header" xml:space="preserve">
+        <source>Edit an existing delivery</source>
+        <target>Bestehende Lieferung bearbeiten</target>
+        <note>Heading for a list of existing deliveries that can be edited</note>
+      </trans-unit>
+      <trans-unit id="Add.Edit.Password.Footer" xml:space="preserve">
+        <source>Passwords are saved securely in the keychain.</source>
+        <target>Kennwörter werden verschlüsselt gesichert.</target>
+        <note>Footer text that appears below settings that include a password field</note>
+      </trans-unit>
+      <trans-unit id="Add.Edit.Placeholder.Footer" xml:space="preserve">
+        <source>A placeholder is a way to manually keep track of deliveries from services we don’t support directly. Enter as much information as you like as a reminder to check on this package later.</source>
+        <target>Ein Platzhalter ist eine Möglichkeit manuell eine Liferung eines Dienstes zu verfolgen, den wir nicht unterstüützen. Fügen Sie so viele Informationen hinzu, wie Sie mögen.</target>
+        <note>Footer text that appears below settings for a placeholder delivery</note>
+      </trans-unit>
+      <trans-unit id="Add.Edit.Title" xml:space="preserve">
+        <source>Edit Delivery</source>
+        <target>Bearbeiten</target>
+        <note>Title for a view used to edit a delivery</note>
+      </trans-unit>
+      <trans-unit id="Add.Edit.Title.Format" xml:space="preserve">
+        <source>Edit Delivery: %@</source>
+        <target>Bearbeiten: %@</target>
+        <note>Title for a view used to edit a delivery. 'Edit Delivery: {delivery name}, for example 'Edit Delivery: Running Shoes' or 'Edit Delivery: 1Z1234567890'</note>
+      </trans-unit>
+      <trans-unit id="Add.Help.Button" xml:space="preserve">
+        <source>Learn more ways to add deliveries</source>
+        <target>Lernen Sie weitere Wege um Lieferungen hinzuzufügen</target>
+        <note>Button that shows helpful information about additional ways to add new deliveries</note>
+      </trans-unit>
+      <trans-unit id="Add.Import.Header" xml:space="preserve">
+        <source>Import from a web site</source>
+        <target>Von einer Webseite importieren</target>
+        <note>Heading for a list of web site that deliveries can be imported from</note>
+      </trans-unit>
+      <trans-unit id="Add.Input.Placeholder" xml:space="preserve">
+        <source>Enter a tracking number, web address, shipping company, or other information</source>
+        <target>Füge eine Liefernummer, URL, Lieferfirma oder andere informationen ein</target>
+        <note>Placeholder text briefly explaining what types of information can be entered in the Add Delivery text field</note>
+      </trans-unit>
+      <trans-unit id="Add.Manual.Header" xml:space="preserve">
+        <source>Manually add a delivery</source>
+        <target>Füge manuell eine Lieferung hinzu</target>
+        <note>Heading for a button used to manually add a delivery</note>
+      </trans-unit>
+      <trans-unit id="Add.Multiple.Header" xml:space="preserve">
+        <source>Add multiple deliveries</source>
+        <target>Füge mehrere Lieferungen hinzu</target>
+        <note>Heading for a button used to add multiple deliveries at once</note>
+      </trans-unit>
+      <trans-unit id="Add.Multiple.Select.Header" xml:space="preserve">
+        <source>Select deliveries to add</source>
+        <target>Lieferungen, zum hinzufügen, auswählen</target>
+        <note>Heading for a section where multiple deliveries can be selected to add</note>
+      </trans-unit>
+      <trans-unit id="Add.Multiple.Title" xml:space="preserve">
+        <source>Add Deliveries</source>
+        <target>Lieferungen hinzufügen</target>
+        <note>Title for a view used to add multiple deliveries at once</note>
+      </trans-unit>
+      <trans-unit id="Add.Placeholder.Header" xml:space="preserve">
+        <source>Create a placeholder</source>
+        <target>Erstelle einen Platzhalter</target>
+        <note>Heading for a button used to create a placeholder delivery</note>
+      </trans-unit>
+      <trans-unit id="Add.ScanBarcode.Button" xml:space="preserve">
+        <source>Scan Barcode</source>
+        <target>Barcode scannen</target>
+        <note>Button to open a camera view for scanning barcodes</note>
+      </trans-unit>
+      <trans-unit id="Add.Service.Header" xml:space="preserve">
+        <source>Choose a service</source>
+        <target>Dienst auswählen</target>
+        <note>Heading for a list of delivery services to choose from that match the input</note>
+      </trans-unit>
+      <trans-unit id="Add.Services.All" xml:space="preserve">
+        <source>All services</source>
+        <target>Alle Dienste</target>
+        <note>Heading for a list of all available shipping services</note>
+      </trans-unit>
+      <trans-unit id="Add.Services.All.Button" xml:space="preserve">
+        <source>Show All Services</source>
+        <target>Alle Dienste anzeigen</target>
+        <note>Button to show all available shipping services</note>
+      </trans-unit>
+      <trans-unit id="Add.Services.Best.Format" xml:space="preserve">
+        <source>Best guesses for %@</source>
+        <target>Beste Vorschläge für %@</target>
+        <note>Heading for a list of shipping services that are most likely to match the tracking number: Best guesses for {tracking number}, for example 'Best guesses for ABC12345678'</note>
+      </trans-unit>
+      <trans-unit id="Add.Services.Empty" xml:space="preserve">
+        <source>No Results Found</source>
+        <target>Keine Ergebnisse gefunden</target>
+        <note>Message shown when no matching shipping services were found</note>
+      </trans-unit>
+      <trans-unit id="Add.Services.Favorites" xml:space="preserve">
+        <source>Favorites</source>
+        <target>Favoriten</target>
+        <note>Heading for a list of only the most used shipping services</note>
+      </trans-unit>
+      <trans-unit id="Add.Services.Favorites.Button" xml:space="preserve">
+        <source>Show Favorites</source>
+        <target>Favoriten anzeigen</target>
+        <note>Button to show only the most used shipping services</note>
+      </trans-unit>
+      <trans-unit id="Add.Title" xml:space="preserve">
+        <source>Add Delivery</source>
+        <target>Hinzufügen</target>
+        <note>Title for a view used to add a new delivery</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Beta.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Beta.Expired.Message" xml:space="preserve">
+        <source>Please visit the site to check for a new version. If a newer version is not available, in most cases you can safely delete the beta version and download the latest version from the Mac App Store.</source>
+        <target>Bitte besuchen Sie die Webseite um zu überprüfen, ob eine neue Version verfügbar ist. Falls es keine neue Version gibt, können Sie in den meisten Fällen einfach die Beta löschen und die aktuelle Version aus dem Mac App Store laden.</target>
+        <note>Message for an alert explaining that the beta is expired</note>
+      </trans-unit>
+      <trans-unit id="Beta.Expired.Title" xml:space="preserve">
+        <source>This beta has expired.</source>
+        <target>Diese Beta ist abgelaufen.</target>
+        <note>Title for an alert shown when the beta has expired</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Camera.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
+        <source>Turn off torch</source>
+        <target>Taschenlampe abschalten</target>
+        <note>Button to turn off the torch (flashlight), used by VoiceOver</note>
+      </trans-unit>
+      <trans-unit id="Camera.Torch.On.VoiceOver" xml:space="preserve">
+        <source>Turn on torch</source>
+        <target>Taschenlampe anschalten</target>
+        <note>Button to turn on the torch (flashlight), used by VoiceOver</note>
+      </trans-unit>
+      <trans-unit id="Camera.Unavailable.Message" xml:space="preserve">
+        <source>Open the Settings app and make sure Camera access is allowed.</source>
+        <target>Bitte überprüfen Sie die Einstellungen app und stellen Sie sicher, dass der Zugriff auf die Kamera erlaubt ist.</target>
+        <note>Message shown whem the camera is not available, explaning how to fix the problem</note>
+      </trans-unit>
+      <trans-unit id="Camera.Unavailable.Multitasking" xml:space="preserve">
+        <source>The camera is not available when more than one app is open</source>
+        <target>Die Kamera ist nicht verfügbar, wenn mehr als eine App offen ist.</target>
+        <note>Message explaining that the camera is not available because multiple apps are open</note>
+      </trans-unit>
+      <trans-unit id="Camera.Unavailable.Title" xml:space="preserve">
+        <source>Camera not available</source>
+        <target>Kamera nicht verfügbar</target>
+        <note>Title for a message shown then the camera is not available</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Deliveries.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Deliveries.ClipboardPrompt.Message" xml:space="preserve">
+        <source>It looks like you have a tracking number on your clipboard. Tap to add it.</source>
+        <target>Anscheinend haben Sie eine Liefernummer in ihrem Clipboard. Tippen Sie um sie hinzuzufügen.</target>
+        <note>Message for a popup alert when a tracking number is detected on the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.ClipboardPrompt.Title.Format" xml:space="preserve">
+        <source>%@ delivery detected</source>
+        <target>%@ Lieferung gefunden</target>
+        <note>Title for a popup alert when a tracking number is detected on the clipboard: {shipping company name} delivery detected, for example 'UPS delivery detected'</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Demo.Unavailable" xml:space="preserve">
+        <source>This feature is not available in demo mode.</source>
+        <target>Diese Funktion steht im Demo-Modus nicht zur Verfügung.</target>
+        <note>Message explaining that a feature is not available in a demo version of the app</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.DuplicateApp.Message" xml:space="preserve">
+        <source>It looks like you have an older version of the app installed. You may run into problems if you keep both versions. To delete the older version, click the Reveal button below, then drag the icon to the Trash.</source>
+        <target>Es scheint, Sie haben eine ältere Version der App installiert. Wenn Sie beide behalten, kann es zu Problemen kommen. Um die ältere Version zu löschen, klicken Sie den Zeigen Button und bewegen das Icon dann in den Papierkorb.</target>
+        <note>Message for an alert explaining that a duplicate copy of the app was detected</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.DuplicateApp.Removed.Message" xml:space="preserve">
+        <source>The duplicate app is no longer installed.</source>
+        <target>Die doppelte App ist nicht mehr installiert.</target>
+        <note>Message for an alert explaining that a duplicate copy of the app has been removed</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.DuplicateApp.Removed.Title" xml:space="preserve">
+        <source>Duplicate App Removed</source>
+        <target>Verdoppelte App entfernt</target>
+        <note>Title for an alert explaining that a duplicate copy of the app has been removed</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.DuplicateApp.Title" xml:space="preserve">
+        <source>Duplicate App Found</source>
+        <target>Doppelte App gefunden</target>
+        <note>Title for an alert explaining that a duplicate copy of the app was detected</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Empty" xml:space="preserve">
+        <source>You do not have any deliveries</source>
+        <target>Sie haben keine Lieferungen</target>
+        <note>Message shown in an empty view when there are no deliveries</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Empty.Upcoming" xml:space="preserve">
+        <source>You don’t have any upcoming deliveries.</source>
+        <target>Sie haben keine baldigen Lieferungen.</target>
+        <note>Message shown in an empty view when there are no upcoming deliveries</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.ExportDeliveries.Button" xml:space="preserve">
+        <source>Export All Deliveries</source>
+        <target>Alle Lieferungen exportieren</target>
+        <note>Button to export all deliveries</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.InstalledServiceUpdate.Message.iOS" xml:space="preserve">
+        <source>Let us know if you continue to have problems. You can reset service updates by opening the Settings, tapping Advanced, then turning off the “Beta service updates” switch.</source>
+        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können den Service resetten, in dem Sie in den Einstellungen unter Erweitert, den Switch für "Beta service updates" abschalten.</target>
+        <note>Message for an alert shown when a beta service update has finished installing, used on iOS</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS" xml:space="preserve">
+        <source>Let us know if you continue to have problems. You can reset service updates by opening the Preferences, clicking Advanced, then unchecking the “Beta service updates” box.</source>
+        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können den Service resetten, in dem Sie in den Einstellungen unter Erweitert das Häkchen bei "Beta service updates" entfernen.</target>
+        <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.InstalledServiceUpdate.Title.Format" xml:space="preserve">
+        <source>Installed service update %@</source>
+        <target>Service Aktualisierung installier: %@</target>
+        <note>Title for an alert shown when a beta service update has finished installing: Installed service update {version number}</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.LimitMessage" xml:space="preserve">
+        <source>You’ve reached the maximum number of active deliveries. To add more, archive or delete some of your current deliveries first.</source>
+        <target>Sie haben die maximale Anzahl an aktiven Lieferungen erreicht. Archivieren oder löschen Sie bestehende um weitere hinzufügen zu können.</target>
+        <note>Message for an alert explaining that the maximum number of active deliveries has been reached, and it will be necessary to archive or delete deliveries before adding more</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.LimitTitle" xml:space="preserve">
+        <source>Limit Reached</source>
+        <target>Limit erreicht</target>
+        <note>Title for an alert explaining that the maximum number of active deliveries has been reached</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.RepairData.Button" xml:space="preserve">
+        <source>Repair</source>
+        <target>Reparieren</target>
+        <note>Button to confirm that the database should be repaired</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.RepairData.Message" xml:space="preserve">
+        <source>Deliveries will attempt to repair your database. This may help if some services are missing from the app, or if some of your deliveries have a generic appearance of black text on a white background.</source>
+        <target>Lieferungen wird versuchen Ihre Datenbank zu reparieren. Dies kann helfen, falls Dienste in der App fehlen oder falls Lieferungen ein generisches Aussehen mit schwarzem Text auf einem weißen Hintergrund haben.</target>
+        <note>Message for an alert confirming whether the database should be repaired, including examples of when this might be useful</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.RepairData.Title" xml:space="preserve">
+        <source>Repair your database?</source>
+        <target>Datenbank reparieren?</target>
+        <note>Title for an alert confirming whether the database should be repaired</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Restart.Button" xml:space="preserve">
+        <source>Restart</source>
+        <target>Neustart</target>
+        <note>Button to quit and relaunch the app</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Restart.Message" xml:space="preserve">
+        <source>This may be necessary after installing an update, or if the app was moved while it was open.</source>
+        <target>Dies ist notwendig nachdem ein Update installiert wurde oder die App verschoben wurde, während sie offen ist.</target>
+        <note>Message for an alert explaining why the app needs to restart</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Restart.Title" xml:space="preserve">
+        <source>Deliveries needs to restart.</source>
+        <target>Lieferungen muss neu gestartet werden.</target>
+        <note>Title for an alert explaining that the app needs to restart</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Reveal.Button" xml:space="preserve">
+        <source>Reveal</source>
+        <target>Zeigen</target>
+        <note>Button to reveal an item in Finder</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Search.Active" xml:space="preserve">
+        <source>Active</source>
+        <target>Aktiv</target>
+        <note>Search filter for only active deliveries</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Search.All" xml:space="preserve">
+        <source>All</source>
+        <target>Alle</target>
+        <note>Search filter for all deliveries</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Search.Archive" xml:space="preserve">
+        <source>Archived</source>
+        <target>Archiv</target>
+        <note>Search filter for only archived deliveries</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Title" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>Lieferungen</target>
+        <note>The name of the app</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Update.Exception" xml:space="preserve">
+        <source>Deliveries is unable to refresh due to a problem with the current service update. Troubleshooting may be able to fix the problem automatically. If not, you can report the problem to Junecloud.</source>
+        <target>Lieferungen konnte aufgrund eines Problems mit dem aktuellen Service update sich nicht aktualisieren. Problembehandlung kann dieses Problem vielleicht automatisch beheben. Falls nicht, können Sie dieses Problem an Junecloud melden.</target>
+        <note>Message shown when there was a major error updating a delivery</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Update.Resume" xml:space="preserve">
+        <source>Open the app to resume background updates.</source>
+        <target>Bitte öffnen Sie die App, damit diese sich aktualisieren kann.</target>
+        <note>Notification that may appear when there's a problem with Background App Refresh</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.Welcome.Title" xml:space="preserve">
+        <source>Welcome</source>
+        <target>Willkommen</target>
+        <note>Title for the welcome pages window</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Delivery.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
+        <source>Archive</source>
+        <target>Archiv</target>
+        <note>Action to archive a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Copy" xml:space="preserve">
+        <source>Copy</source>
+        <target>Kopieren</target>
+        <note>Action to copy a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target>Löschen</target>
+        <note>Action to delete a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Edit" xml:space="preserve">
+        <source>Edit</source>
+        <target>Bearbeiten</target>
+        <note>Action to edit a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Export" xml:space="preserve">
+        <source>Export</source>
+        <target>Exportieren</target>
+        <note>Action to export a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.MarkComplete" xml:space="preserve">
+        <source>Mark Delivered</source>
+        <target>Als geliefert markieren</target>
+        <note>Action to mark a delivery as delivered</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.OpenInApp" xml:space="preserve">
+        <source>Open in Deliveries</source>
+        <target>In Lieferungen öffnen</target>
+        <note>Action to open a delivery in the main app</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.OpenInBrowser.Format" xml:space="preserve">
+        <source>Open in %@</source>
+        <target>In %@ öffnen</target>
+        <note>Action to open the delivery in the default web browser: Open in {browser name}, for example 'Open in Safari'</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Refresh" xml:space="preserve">
+        <source>Refresh</source>
+        <target>Aktualisieren</target>
+        <note>Action to refresh a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.RefreshAll" xml:space="preserve">
+        <source>Refresh All</source>
+        <target>Alle aktualisieren</target>
+        <note>Action to sync and refresh all deliveries</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Restore" xml:space="preserve">
+        <source>Restore</source>
+        <target>Wiederherstellen</target>
+        <note>Action to restore a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Share" xml:space="preserve">
+        <source>Share</source>
+        <target>Teilen</target>
+        <note>Action to share a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.ShowPackage" xml:space="preserve">
+        <source>Show Package</source>
+        <target>Paket anzeigen</target>
+        <note>Action to open a menu where a package can be selected</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.ShowPackage.Menu" xml:space="preserve">
+        <source>Show Package…</source>
+        <target>Paket anzeigen …</target>
+        <note>Action to open a menu where a package can be selected</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.SignIn" xml:space="preserve">
+        <source>Sign In</source>
+        <target>Anmelden</target>
+        <note>Action to sign in to an account</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.SignIn.Menu" xml:space="preserve">
+        <source>Sign In…</source>
+        <target>Anmelden …</target>
+        <note>Action to sign in to an account, used in a menu on macOS</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Tips" xml:space="preserve">
+        <source>Suggestions</source>
+        <target>Vorschläge</target>
+        <note>Action to open a view with suggestions on how to fix a problem</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Troubleshoot" xml:space="preserve">
+        <source>Troubleshoot</source>
+        <target>Fehlersuche</target>
+        <note>Action to troubleshoot a delivery</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.Troubleshoot.Menu" xml:space="preserve">
+        <source>Troubleshoot…</source>
+        <target>Fehlersuche …</target>
+        <note>Action to troubleshoot a delivery, used in a menu on macOS</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Action.ViewOnline" xml:space="preserve">
+        <source>View Online</source>
+        <target>Online anzeigen</target>
+        <note>Action to view a delivery's tracking information in a web browser</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Badge.Format" xml:space="preserve">
+        <source>%@ of %@</source>
+        <target>%@ von %@</target>
+        <note>Short indicator used when a delivery has more than one package: {selected number} of {total number}, for example '1 of 3' or '1/3'</note>
+      </trans-unit>
+      <trans-unit id="Delivery.ItemSeparator" xml:space="preserve">
+        <source>, </source>
+        <target>, </target>
+        <note>Separator for a list of items, for example: 'Running Shoes, AirPods, Charger'</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Name.Format" xml:space="preserve">
+        <source>%@: %@</source>
+        <target>%@: %@</target>
+        <note>Format used for the item name when there is more than one package: '{item name}: {package name}'</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Share.Credit" xml:space="preserve">
+        <source>Shared with Deliveries for %@, available on the App Store</source>
+        <target>Geteilt mit Lieferungen für %@, erhätlich im App Store</target>
+        <note>Message included when sharing a delivery, explaining where the shared content came from</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Share.Title.Format" xml:space="preserve">
+        <source>Delivery from %@</source>
+        <target>Lieferung von %@</target>
+        <note>Title used when sharing a delivery: Delivery from {service name}, for example 'Delivery from UPS'</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Share.Title.Format.Multiple" xml:space="preserve">
+        <source>%@ deliveries</source>
+        <target>%@ Lieferungen</target>
+        <note>Title used when sharing multiple deliveries: {number} deliveries, for example '3 deliveries'</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Share.Title.Format.MultipleFrom" xml:space="preserve">
+        <source>%@ deliveries from %@</source>
+        <target>%@ Lieferungen von %@</target>
+        <note>Title used when sharing multiple deliveries from a single shipping company: {number} deliveries from {service name}, for example '3 deliveries from UPS'</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Share.Untitled" xml:space="preserve">
+        <source>Delivery</source>
+        <target>Lieferung</target>
+        <note>Generic title used when sharing a delivery that does not have a name</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Share.Untitled.Multiple" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>Lieferungen</target>
+        <note>Generic title used when sharing deliveries</note>
+      </trans-unit>
+      <trans-unit id="Delivery.ShareCount.Format" xml:space="preserve">
+        <source>This file contains %@ deliveries. The first 50 are shown.</source>
+        <target>Diese Datei enthält %@ Lieferungen. Die ersten 50 werden angezeigt.</target>
+        <note>Message explaining that a file contains more deliveries than the preview can show: This file contains {number} deliveries. The first 50 are shown.</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Source.Email.Format" xml:space="preserve">
+        <source>“%@” from %@</source>
+        <target>“%@” von %@</target>
+        <note>“{message name}” from {email address}</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Source.Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <target>Unbekannt</target>
+        <note>A person whose name is not known</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Source.Untitled" xml:space="preserve">
+        <source>Untitled</source>
+        <target>Ohne Titel</target>
+        <note>A web page or message without a title</note>
+      </trans-unit>
+      <trans-unit id="Delivery.Source.Website.Format" xml:space="preserve">
+        <source>“%@”</source>
+        <target>“%@”</target>
+        <note>“{web page title}”</note>
+      </trans-unit>
+      <trans-unit id="Delivery.UnknownItem" xml:space="preserve">
+        <source>Unknown Item</source>
+        <target>Unbekannter Artikel</target>
+        <note>Title used for a delivery that does not have an item name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/DeliveryStatus.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="DeliveryStatus.Busy" xml:space="preserve">
+        <source>Updating…</source>
+        <target>Aktualisiere …</target>
+        <note>Short string indicating an update is in progress</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Contacting.Format" xml:space="preserve">
+        <source>Contacting %@…</source>
+        <target>%@ abfragen …</target>
+        <note>Short message indicating that a service is being contacted: Contacting {service name}…, for example 'Contacting UPS…'</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Delivered" xml:space="preserve">
+        <source>Delivered</source>
+        <target>Geliefert</target>
+        <note>Short message indicating an item has been delivered</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.DeliveredDate.Format" xml:space="preserve">
+        <source>Delivered %@</source>
+        <target>Geliefert %@</target>
+        <note>Short message indicating the date an item was delivered: Delivered {day}, for example 'Delivered Today' or 'Delivered June 10'</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error" xml:space="preserve">
+        <source>Error</source>
+        <target>Fehler</target>
+        <note>Short indicator that a delivery has an error</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.CheckSettings" xml:space="preserve">
+        <source>Make sure the information you entered is correct, or check back later. It may take a day or two until tracking information is available.</source>
+        <target>Stellen Sie sicher, das die Informationen korrekt sind oder schauen Sie später erneut nach. Es kann ein bis zwi Tage dauern bis Lieferinformationen vorhanden sind.</target>
+        <note>Error message used when it is not known whether the tracking number is valid. It's possible the settings may be wrong, or it may be that the tracking system does not have any information yet.</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Connection" xml:space="preserve">
+        <source>Couldn’t connect</source>
+        <target>Keine Verbindung</target>
+        <note>Short message explaining the last update failed, due to an internet connection error</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Connection.Detail" xml:space="preserve">
+        <source>Try again later</source>
+        <target>Später erneut versuchen</target>
+        <note>More information explaining what to do about an internet connection error</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.NotAvailable" xml:space="preserve">
+        <source>Tracking information is not currently available.</source>
+        <target>Aktuell sind keine Informationen für die Verfolgung verfügbar</target>
+        <note>Error message used when a delivery previously updated successfully, but tracking information is no longer available. Most likely this is a temporary problem that will resolve itself later.</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.NotFound" xml:space="preserve">
+        <source>Not found</source>
+        <target>Nicht gefunden</target>
+        <note>Short message indicating that tracking information could not be found</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Online" xml:space="preserve">
+        <source>This shipment can only be viewed online.</source>
+        <target>Diese Lieferung kann nur online angezeigt werden.</target>
+        <note>Short message explaining that information is only available in a web view</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.SignIn" xml:space="preserve">
+        <source>Sign in required</source>
+        <target>Anmeldung erforderlich</target>
+        <note>Short message explaining that it's necessary to sign in to an account</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.SignIn.Detail" xml:space="preserve">
+        <source>Sign in to update this delivery.</source>
+        <target>Melden Sie sich an um diese Lieferung zu aktualisieren.</target>
+        <note>More information explaining what to do about a sign in error</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Subscription" xml:space="preserve">
+        <source>Subscription required</source>
+        <target>Abo notwendig</target>
+        <note>Short message indicating that a subscription is required</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Subscription.Detail" xml:space="preserve">
+        <source>Subscribe to update this shipment.</source>
+        <target>Schließen Sie ein Abo ab um Aktualisierungen zu erhalten.</target>
+        <note>Error message used to explain that the delivery cannot be updated without an active subscription</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Unknown" xml:space="preserve">
+        <source>This service is not recognized by this version of Deliveries.</source>
+        <target>Dieser Dienst wird in der aktuellen Version von Lieferungen nicht erkannt.</target>
+        <note>Message used for an unknown error, usually because the delivery was created in a newer version of the app</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Unsupported" xml:space="preserve">
+        <source>This service is not supported.</source>
+        <target>Dieser Dienst wird nicht unterstützt</target>
+        <note>Short message explaining that a service is no longer supported</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Unsupported.Detail" xml:space="preserve">
+        <source>Tracking information for this shipment cannot be shown directly in Deliveries.</source>
+        <target>Informationen zur Verfolgung dieser Lieferungen können nicht direkt in Lieferungen angezeigt werden.</target>
+        <note>Message explaining that more information cannot be shown in the app because the shipping company does not allow it</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.ValidNumber" xml:space="preserve">
+        <source>The tracking number you entered seems to be valid, so check back later. It may take a day or two until tracking information is available.</source>
+        <target>Die Liefernummer, die Sie eingefügt haben, scheint korrekt zu sein, bitte schauen Sie später erneut danach. Es kann ein bis zwei Tage dauern, bis Informationen verfügbar sind.</target>
+        <note>Error message used when the tracking number appears to be valid. Most likely the settings are correct, but the tracking system does not have any information yet.</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.ExpectedCountdown.Format" xml:space="preserve">
+        <source>Delivered in %@</source>
+        <target>Geliefert in %@</target>
+        <note>Short message indicating the number of days until an item is expected to be delivered: Delivered in {number of days}, for example 'Delivered in 1 day' or 'Delivered in 10 days'</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.ExpectedCountdown.Shipping.Format" xml:space="preserve">
+        <source>Shipped in %@</source>
+        <target>Verschickt in %@</target>
+        <note>Short message indicating the number of days until an item is expected to be shipped: Shipped in {number of days}, for example 'Shipped in 1 day' or 'Shipped in 10 days'</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.ExpectedDate.Format" xml:space="preserve">
+        <source>Delivered by %@</source>
+        <target>Geliefert bis %@</target>
+        <note>Short message indicating the date an item is expected to be delivered by: Delivered by {day}, for example 'Delivered by Tomorrow' or 'Delivered by June 10'</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.ExpectedDate.Shipping.Format" xml:space="preserve">
+        <source>Shipped by %@</source>
+        <target>Versandt bis %@</target>
+        <note>Short message indicating the date an item is expected to be shipped by: Shipped by {day}, for example 'Shipped by Tomorrow' or 'Shipped by June 10'</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.ExpectedDate.Unknown" xml:space="preserve">
+        <source>Delivery date unknown</source>
+        <target>Lieferdatum unbekannt</target>
+        <note>Short message indicating the expected delivery date is unknown</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.NoMore" xml:space="preserve">
+        <source>No additional information</source>
+        <target>Keine zusätzlichen Informationen</target>
+        <note>Short message indicating no more information is available</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Refreshed.Format" xml:space="preserve">
+        <source>Refreshed %@</source>
+        <target>Letzte Überprüfung %@</target>
+        <note>Short message explaining when the last refresh was. 'Refreshed {date}', for example 'Refreshed a moment ago' or 'Refreshed 3 minutes ago'</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Refreshed.Never" xml:space="preserve">
+        <source>Never updated</source>
+        <target>Noch nie aktualisiert</target>
+        <note>Short message explaining the data has never been updated</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Stale" xml:space="preserve">
+        <source>This information may be out of date.</source>
+        <target>Diese Informationen sind veraltet.</target>
+        <note>Message indicating that the information may not be up to date</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.StatusUpdated.Format" xml:space="preserve">
+        <source>Status updated %@</source>
+        <target>Status aktualisiert %@</target>
+        <note>Short message explaining when the status was updated. 'Status updated {date}, for example 'Status updated Today' or 'Status updated June 10'</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Location.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Location.Adjust" xml:space="preserve">
+        <source>Drag this pin to the correct location</source>
+        <target>Ziehen Sie die Stecknadel an die richtige Position</target>
+        <note>Message explaining that the map pin can be moved to adjust the location</note>
+      </trans-unit>
+      <trans-unit id="Location.Error.Connection" xml:space="preserve">
+        <source>Couldn’t connect</source>
+        <target>Keine Verbindung</target>
+        <note>Short message shown when a location cannot be found due to an internet connection error</note>
+      </trans-unit>
+      <trans-unit id="Location.Error.Format" xml:space="preserve">
+        <source>%@: %@</source>
+        <target>%@: %@</target>
+        <note>Format used to show map location errors: '{location name}: {error message}'</note>
+      </trans-unit>
+      <trans-unit id="Location.Error.NotFound" xml:space="preserve">
+        <source>This location could not be found</source>
+        <target>Dieser Ort wurde nicht gefunden</target>
+        <note>Short message shown when a location cannot be found on the map</note>
+      </trans-unit>
+      <trans-unit id="Location.Reset.Button" xml:space="preserve">
+        <source>Reset Location</source>
+        <target>Ort neu setzen</target>
+        <note>Button used to confirm that the location should be reset</note>
+      </trans-unit>
+      <trans-unit id="Location.Reset.Message.iOS" xml:space="preserve">
+        <source>This location was set manually. Tap and hold the pin to adjust it further, or tap “Reset Location” to move it back.</source>
+        <target>Diese Position wurde manuell angepasst. Tippe und halte einen Pin um ihn weiter anzupassen oder tippe „Ort neu setzen“ um die alte Position zu erhalten.</target>
+        <note>Message for an alert explaining that the location was manually adjusted, on iOS</note>
+      </trans-unit>
+      <trans-unit id="Location.Reset.Message.macOS" xml:space="preserve">
+        <source>This location was set manually. Drag the pin to adjust it further, or click “Reset Location” to move it back.</source>
+        <target>Dieser Ort wurde manuell gewählt. Ziehen sie den Pin um ihn weiter anzupassen oder klicken Sie auf „Ort zurücksetzen“ um ihn zurückzusetzen.</target>
+        <note>Message for an alert explaining that the location was manually adjusted, on macOS</note>
+      </trans-unit>
+      <trans-unit id="Location.Reset.Title" xml:space="preserve">
+        <source>Reset location?</source>
+        <target>Ort zurücksetzen?</target>
+        <note>Title for an alert confirming the location should be reset</note>
+      </trans-unit>
+      <trans-unit id="Location.Set" xml:space="preserve">
+        <source>Set Location</source>
+        <target>Standort einstellen</target>
+        <note>Button that can be used to place a pin on the map for a location that could not be found</note>
+      </trans-unit>
+      <trans-unit id="Location.Unknown" xml:space="preserve">
+        <source>Location unknown</source>
+        <target>Unbekannter Ort</target>
+        <note>Short message shown when the location is unknown</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Mail.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Mail.AddNew.Button" xml:space="preserve">
+        <source>Add New</source>
+        <target>Neu hinzufügen</target>
+        <note>Title for a button to add a new a contact</note>
+      </trans-unit>
+      <trans-unit id="Mail.Clipboard.Button" xml:space="preserve">
+        <source>Copy to Clipboard</source>
+        <target>In Zwischenablage kopieren</target>
+        <note>Button to copy information to the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Mail.ConfirmOff.Button" xml:space="preserve">
+        <source>Turn Off</source>
+        <target>Abschalten</target>
+        <note>Button for an alert</note>
+      </trans-unit>
+      <trans-unit id="Mail.ConfirmOff.Message" xml:space="preserve">
+        <source>Shipments sent to your forwarding address will no longer be added to your account. If you turn it back on later, you’ll get a new address.</source>
+        <target>Sendungen, die an ihre Weiterleitungsadresse geschickt werden, werden nicht mehr ihrem Account hinuzugefügt. Falls Sie dies erneut anschalten wollen, erhalten Sie eine neue Adresse.</target>
+        <note>Message for an alert</note>
+      </trans-unit>
+      <trans-unit id="Mail.ConfirmOff.Title" xml:space="preserve">
+        <source>Turn off Mail to Deliveries?</source>
+        <target>Mail zu Lieferungen abschalten?</target>
+        <note>Title for an alert</note>
+      </trans-unit>
+      <trans-unit id="Mail.Contacts.Button" xml:space="preserve">
+        <source>Add to Contacts</source>
+        <target>Als Kontakt hinzufügen</target>
+        <note>Button to add contact information to the address book</note>
+      </trans-unit>
+      <trans-unit id="Mail.Description" xml:space="preserve">
+        <source>Mail to Deliveries allows you to forward emails with tracking information to add them to Deliveries. Your forwarding address is linked to your Junecloud account, so messages sent from any email address will be added to your account.</source>
+        <target>Mail zu Lieferungen erlaubt es Ihnen E-Mails mit Verfolgungsinformationen weiterzuleiten um sie Lieferungen hinzuzufügen. Ihre Weiterleitungsadresse ist mit ihrem Jundecloud Account verlinkt, so dass Nachrichten, die an diese Adresse geschickt werden, ihrem Account hinzugefügt werden.</target>
+        <note>Description of how the Mail to Deliveries feature works</note>
+      </trans-unit>
+      <trans-unit id="Mail.Off.Button" xml:space="preserve">
+        <source>Turn Off Mail to Deliveries</source>
+        <target>Mail zu Lieferungen abschalten?</target>
+        <note>Message for an alert, explaining how to update Contacts permission</note>
+      </trans-unit>
+      <trans-unit id="Mail.On.Button" xml:space="preserve">
+        <source>Turn On Mail to Deliveries</source>
+        <target>Mail zu Lieferungen anschalten</target>
+        <note>Message for an alert, explaining how to update Contacts permission</note>
+      </trans-unit>
+      <trans-unit id="Mail.Permission.Message.iOS" xml:space="preserve">
+        <source>Tap Open Settings and make sure Contacts is on.</source>
+        <target>Berühren Sie Einstellungen öffnen und stellen Sie sicher, das Kontakte an ist.</target>
+        <note>Message for an alert, explaining how to update Contacts permission, on iOS</note>
+      </trans-unit>
+      <trans-unit id="Mail.Permission.Message.macOS" xml:space="preserve">
+        <source>Click ‘Open System Preferences’ to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
+        <target>Klicken Sie 'Öffne Systemeinstellungen' um zu den Systemeinstellungen Sicherheit zu gelangen. Wählen Sie das Datenschutz Tab und wählen Sie Kontakte aus. Stellen Sie sicher, das neben Lieferungen ein Häkchen ist.</target>
+        <note>Message for an alert, explaining how to update Contacts permission, on macOS</note>
+      </trans-unit>
+      <trans-unit id="Mail.Permission.Title" xml:space="preserve">
+        <source>Deliveries needs permission to access your contacts</source>
+        <target>Lieferungen braucht die Erlaubnis auf Ihre Kontakte zuzugreifen</target>
+        <note>Title for an alert</note>
+      </trans-unit>
+      <trans-unit id="Mail.Success.Message.Format" xml:space="preserve">
+        <source>When you’re entering an address in Mail, start typing “%@” and then select the address.</source>
+        <target>Wenn Sie eine Adresse in Mail eintragen, starten Sie mit “%@” und wählen diese Adresse.</target>
+        <note>Message for an alert. %@ will be replaced with the name of the contact, for example “Deliveries”</note>
+      </trans-unit>
+      <trans-unit id="Mail.Success.New.Title" xml:space="preserve">
+        <source>“%@” has been added to your contacts</source>
+        <target>“%@” wurde ihren Kontakten hinzugefügt</target>
+        <note>Title for an alert. %@ will be replaced with the name of the contact, for example “Deliveries”</note>
+      </trans-unit>
+      <trans-unit id="Mail.Success.Updated.Title" xml:space="preserve">
+        <source>Your “%@” contact has been updated</source>
+        <target>Ihr “%@” Kontakt wurde aktualisiert</target>
+        <note>Title for an alert. %@ will be replaced with the name of the contact, for example “Deliveries”</note>
+      </trans-unit>
+      <trans-unit id="Mail.Title" xml:space="preserve">
+        <source>Mail to Deliveries</source>
+        <target>Mail zu Lieferungen</target>
+        <note>Name for a feature that allows forwarding an email message to add it to the Deliveries app</note>
+      </trans-unit>
+      <trans-unit id="Mail.Update.Button" xml:space="preserve">
+        <source>Update</source>
+        <target>Update</target>
+        <note>Title for a button to update a contact</note>
+      </trans-unit>
+      <trans-unit id="Mail.Update.Message.Format" xml:space="preserve">
+        <source>Would you like to update the email address of your contact “%@”, or add a new contact?</source>
+        <target>Möchten Sie die E-Mail-Adresse für ihren Kontakt “%@” aktualisieren oder einen neuen hinzufügen?</target>
+        <note>Message for an alert. %@ will be replaced with the name of a contact, for example “Deliveries”</note>
+      </trans-unit>
+      <trans-unit id="Mail.Update.Title" xml:space="preserve">
+        <source>You already have a contact with a Mail to Deliveries address</source>
+        <target>Sie haben bereits einen Kontakt mit einer Mail zu Lieferungen Adresse</target>
+        <note>Title for an alert</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Menu.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Menu.Export" xml:space="preserve">
+        <source>Export…</source>
+        <target>Exportieren …</target>
+        <note>Menu item to export an object</note>
+      </trans-unit>
+      <trans-unit id="Menu.Export.All" xml:space="preserve">
+        <source>Export All…</source>
+        <target>Alle exportieren …</target>
+        <note>Menu item to export all objects (rather than just the selected objects)</note>
+      </trans-unit>
+      <trans-unit id="Menu.Export.Selection" xml:space="preserve">
+        <source>Export Selection…</source>
+        <target>Auswahl exportieren …</target>
+        <note>Menu item used to export the selected objects (rather than exporting all objects)</note>
+      </trans-unit>
+      <trans-unit id="Menu.Find" xml:space="preserve">
+        <source>Find…</source>
+        <target>Suchen …</target>
+        <note>Menu item to start a search</note>
+      </trans-unit>
+      <trans-unit id="Menu.GenericBrowser" xml:space="preserve">
+        <source>Browser</source>
+        <target>Browser</target>
+        <note>Generic name for a web browser used when the actual name is unknown</note>
+      </trans-unit>
+      <trans-unit id="Menu.New" xml:space="preserve">
+        <source>New…</source>
+        <target>Neu …</target>
+        <note>Menu item to add a new object</note>
+      </trans-unit>
+      <trans-unit id="Menu.Next" xml:space="preserve">
+        <source>Next</source>
+        <target>Weiter</target>
+        <note>Menu item to select the next object in a list</note>
+      </trans-unit>
+      <trans-unit id="Menu.Open" xml:space="preserve">
+        <source>Open…</source>
+        <target>Öffnen …</target>
+        <note>Menu item to open a file</note>
+      </trans-unit>
+      <trans-unit id="Menu.OpenLink" xml:space="preserve">
+        <source>Open Link</source>
+        <target>Link öffnen</target>
+        <note>Menu to open a link in a web browser</note>
+      </trans-unit>
+      <trans-unit id="Menu.PageSetup" xml:space="preserve">
+        <source>Page Setup…</source>
+        <target>Papierformat …</target>
+        <note>Menu item to open Page Setup to change print settings</note>
+      </trans-unit>
+      <trans-unit id="Menu.Paste" xml:space="preserve">
+        <source>Paste</source>
+        <target>Einsetzen</target>
+        <note>Menu item to paste the clipboard contents</note>
+      </trans-unit>
+      <trans-unit id="Menu.Previous" xml:space="preserve">
+        <source>Previous</source>
+        <target>Zurück</target>
+        <note>Menu item to select the previous object in a list</note>
+      </trans-unit>
+      <trans-unit id="Menu.Print" xml:space="preserve">
+        <source>Print…</source>
+        <target>Drucken …</target>
+        <note>Menu item to print</note>
+      </trans-unit>
+      <trans-unit id="Menu.SendFeedback" xml:space="preserve">
+        <source>Send Feedback</source>
+        <target>Feedback schicken</target>
+        <note>Menu item to open a window to send feedback</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Service.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Service.Adobe" xml:space="preserve">
+        <source>Adobe</source>
+        <target>Adobe</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Amazon" xml:space="preserve">
+        <source>Amazon</source>
+        <target>Amazon</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonAT" xml:space="preserve">
+        <source>Amazon.at</source>
+        <target>Amazon.at</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonCA" xml:space="preserve">
+        <source>Amazon.ca</source>
+        <target>Amazon.ca</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonDE" xml:space="preserve">
+        <source>Amazon.de</source>
+        <target>Amazon.de</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonES" xml:space="preserve">
+        <source>Amazon.es</source>
+        <target>Amazon.es</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonFR" xml:space="preserve">
+        <source>Amazon.fr</source>
+        <target>Amazon.fr</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonIN" xml:space="preserve">
+        <source>Amazon.in</source>
+        <target>Amazon.in</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonIT" xml:space="preserve">
+        <source>Amazon.it</source>
+        <target>Amazon.it</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonJP" xml:space="preserve">
+        <source>Amazon.co.jp</source>
+        <target>Amazon.co.jp</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonUK" xml:space="preserve">
+        <source>Amazon.co.uk</source>
+        <target>Amazon.co.uk</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonURL" xml:space="preserve">
+        <source>Amazon – by tracking link</source>
+        <target>Amazon – via Sendungsverfolgung</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AmazonUS" xml:space="preserve">
+        <source>Amazon.com</source>
+        <target>Amazon.com</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Apple" xml:space="preserve">
+        <source>Apple</source>
+        <target>Apple</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AppleHK" xml:space="preserve">
+        <source>Apple – Hong Kong</source>
+        <target>Apple – Hong Kong</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AppleJP" xml:space="preserve">
+        <source>Apple – Japan</source>
+        <target>Apple – Japan</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Aramex" xml:space="preserve">
+        <source>Aramex</source>
+        <target>Aramex</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AramexShop" xml:space="preserve">
+        <source>Aramex – Shop and Ship</source>
+        <target>Aramex – Shop and Ship</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.AustraliaPost" xml:space="preserve">
+        <source>Australia Post</source>
+        <target>Australia Post</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.CanadaPost" xml:space="preserve">
+        <source>Canada Post</source>
+        <target>Canada Post</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Chronopost" xml:space="preserve">
+        <source>Chronopost</source>
+        <target>Chronopost</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.ChronopostFR" xml:space="preserve">
+        <source>Chronopost – France</source>
+        <target>Chronopost – Frankreich</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.ConsignNo.Label" xml:space="preserve">
+        <source>Consign. No.</source>
+        <target>Sendungsnr.</target>
+        <note>Short label for a consignment number (a specific type of tracking number)</note>
+      </trans-unit>
+      <trans-unit id="Service.DHL" xml:space="preserve">
+        <source>DHL</source>
+        <target>DHL</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.DHLDE" xml:space="preserve">
+        <source>DHL – Germany</source>
+        <target>DHL – Deutschland</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.DHLExpress" xml:space="preserve">
+        <source>DHL – Express</source>
+        <target>DHL – Express</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.DHLUSGlobalMail" xml:space="preserve">
+        <source>DHL – US GlobalMail</source>
+        <target>DHL – USA GlobalMail</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.DPD" xml:space="preserve">
+        <source>DPD</source>
+        <target>DPD</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.DPDDE" xml:space="preserve">
+        <source>DPD – Germany</source>
+        <target>DPD – Deutschland</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.DPDUK" xml:space="preserve">
+        <source>DPD – UK</source>
+        <target>DPD – UK</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Date.Label" xml:space="preserve">
+        <source>Date</source>
+        <target>Datum</target>
+        <note>Short label for a date</note>
+      </trans-unit>
+      <trans-unit id="Service.Email.Label" xml:space="preserve">
+        <source>Email</source>
+        <target>E-Mail</target>
+        <note>Short label for an email address</note>
+      </trans-unit>
+      <trans-unit id="Service.FedEx" xml:space="preserve">
+        <source>FedEx</source>
+        <target>FedEx</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.GLS" xml:space="preserve">
+        <source>GLS</source>
+        <target>GLS</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.GoogleWallet" xml:space="preserve">
+        <source>Google Wallet</source>
+        <target>Google Wallet</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Hermes" xml:space="preserve">
+        <source>Hermes</source>
+        <target>Hermes</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.HermesDE" xml:space="preserve">
+        <source>Hermes – Germany</source>
+        <target>Hermes – Deutschland</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.HongkongPost" xml:space="preserve">
+        <source>Hongkong Post</source>
+        <target>Hongkong Post</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.ItemName.Label" xml:space="preserve">
+        <source>Item Name</source>
+        <target>Gegenstand</target>
+        <note>Short label for an item name used to identify a delivery; anything can be entered in this field</note>
+      </trans-unit>
+      <trans-unit id="Service.JapanPost" xml:space="preserve">
+        <source>Japan Post</source>
+        <target>Japan Post</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.LaPoste" xml:space="preserve">
+        <source>LaPoste</source>
+        <target>LaPoste</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.LaPosteFR" xml:space="preserve">
+        <source>La Poste – France</source>
+        <target>La Poste – Frankreich</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.LaserShip" xml:space="preserve">
+        <source>LaserShip</source>
+        <target>LaserShip</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.OnTrac" xml:space="preserve">
+        <source>OnTrac</source>
+        <target>OnTrac</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.OrderNo.Label" xml:space="preserve">
+        <source>Order No.</source>
+        <target>Auftragsnr.</target>
+        <note>Short label for an order number</note>
+      </trans-unit>
+      <trans-unit id="Service.Parcelforce" xml:space="preserve">
+        <source>Parcelforce</source>
+        <target>Parcelforce</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Password.Label" xml:space="preserve">
+        <source>Password</source>
+        <target>Kennwort</target>
+        <note>Short label for a password</note>
+      </trans-unit>
+      <trans-unit id="Service.Placeholder" xml:space="preserve">
+        <source>Placeholder</source>
+        <target>Platzhalter</target>
+        <note>Name for a special placeholder delivery type that can be used when the shipping company is not yet known, or to manually keep track of a shipment from an unsupported service</note>
+      </trans-unit>
+      <trans-unit id="Service.Post" xml:space="preserve">
+        <source>Post</source>
+        <target>Post</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.PostAT" xml:space="preserve">
+        <source>Post – Austria</source>
+        <target>Post – Österreich</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.PostNL" xml:space="preserve">
+        <source>PostNL</source>
+        <target>PostNL</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.PostNord" xml:space="preserve">
+        <source>PostNord</source>
+        <target>PostNord</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.PostNordDK" xml:space="preserve">
+        <source>PostNord – Denmark</source>
+        <target>PostNord – Dänemark</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.PostNordSE" xml:space="preserve">
+        <source>PostNord – Sweden</source>
+        <target>PostNord – Schweden</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.PostalCode.Label" xml:space="preserve">
+        <source>Postal Code</source>
+        <target>PLZ</target>
+        <note>Short label for a postal code</note>
+      </trans-unit>
+      <trans-unit id="Service.PosteItaliane" xml:space="preserve">
+        <source>Poste Italiane</source>
+        <target>Poste Italiane</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Posten" xml:space="preserve">
+        <source>Posten</source>
+        <target>Posten</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.PostenNO" xml:space="preserve">
+        <source>Posten – Norway</source>
+        <target>Posten – Norwegen</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Purolator" xml:space="preserve">
+        <source>Purolator</source>
+        <target>Purolator</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.ReferenceNo.Label" xml:space="preserve">
+        <source>Ref. No.</source>
+        <target>Referenznr.</target>
+        <note>Short label for a reference number (a specific type of tracking number)</note>
+      </trans-unit>
+      <trans-unit id="Service.RoyalMail" xml:space="preserve">
+        <source>Royal Mail</source>
+        <target>Royal Mail</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Sagawa" xml:space="preserve">
+        <source>Sagawa Express</source>
+        <target>Sagawa Express</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Service.Label" xml:space="preserve">
+        <source>Service</source>
+        <target>Dienst</target>
+        <note>Short label for the selected shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Source.Label" xml:space="preserve">
+        <source>Source</source>
+        <target>Ursprung</target>
+        <note>Label used to identify the source of a delivery (where it was added from), like a web site or an email message</note>
+      </trans-unit>
+      <trans-unit id="Service.SwissPost" xml:space="preserve">
+        <source>Swiss Post</source>
+        <target>Die Post – Schweiz</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.TNT" xml:space="preserve">
+        <source>TNT</source>
+        <target>TNT</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.TNTAU" xml:space="preserve">
+        <source>TNT Express – Australia</source>
+        <target>TNT Express – Australien</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.TNTConsignNo" xml:space="preserve">
+        <source>TNT – by consignment number</source>
+        <target>TNT – durch Sendungsnummer</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.TNTReferenceNo" xml:space="preserve">
+        <source>TNT – by reference number</source>
+        <target>TNT – durch Referenznummer</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.TrackingNo.Label" xml:space="preserve">
+        <source>Tracking No.</source>
+        <target>Liefernummer</target>
+        <note>Short label for a tracking number</note>
+      </trans-unit>
+      <trans-unit id="Service.UPS" xml:space="preserve">
+        <source>UPS</source>
+        <target>UPS</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.UPSMI" xml:space="preserve">
+        <source>UPS Mail Innovations</source>
+        <target>UPS Mail Innovations</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.USPS" xml:space="preserve">
+        <source>U.S. Postal Service</source>
+        <target>U.S. Postal Service</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Unknown" xml:space="preserve">
+        <source>Unknown</source>
+        <target>Unbekannt</target>
+        <note>Name used when the shipping service is not recognized, probably because it synced in from a newer version of the app</note>
+      </trans-unit>
+      <trans-unit id="Service.UnknownSetting.Label" xml:space="preserve">
+        <source>Setting</source>
+        <target>Einstellungen</target>
+        <note>Generic label used for a setting of an unknown type</note>
+      </trans-unit>
+      <trans-unit id="Service.WebSite.Label" xml:space="preserve">
+        <source>Web Site</source>
+        <target>Web-Site</target>
+        <note>Short label for a web site address</note>
+      </trans-unit>
+      <trans-unit id="Service.Yamato" xml:space="preserve">
+        <source>Yamato Transport</source>
+        <target>Yamato Transport</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+      <trans-unit id="Service.Yodel" xml:space="preserve">
+        <source>Yodel</source>
+        <target>Yodel</target>
+        <note>Name of a shipping service</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Setting.BetaServiceUpdates.Explanation" xml:space="preserve">
+        <source>Beta service updates let you try fixes for problems while they‘re still being tested. In some cases they may cause unexpected problems.</source>
+        <target>Durch Beta Dienst Updates können Sie Fehlerbehebungen laden, die noch in der Testphase sind. In einzelnen Fällen kann dies zur Problemen führen.</target>
+        <note>Message explaining why beta service updates may be useful</note>
+      </trans-unit>
+      <trans-unit id="Setting.BetaServiceUpdates.Label" xml:space="preserve">
+        <source>Beta service updates</source>
+        <target>Beta Dienst Updates</target>
+        <note>Label for a setting that determines whether beta service updates will be installed</note>
+      </trans-unit>
+      <trans-unit id="Setting.BetaServiceUpdates.Unavailable" xml:space="preserve">
+        <source>Beta service updates are no longer available for this version of Deliveries.</source>
+        <target>Beta Dienst Updates werden nicht mehr für diese Version von Lieferungen bereitgestellt.</target>
+        <note>Message explaining that beta service updates are not available for this version of the app</note>
+      </trans-unit>
+      <trans-unit id="Setting.Calendar.Error" xml:space="preserve">
+        <source>Deliveries needs to access your calendars to add estimated delivery dates to them. Tap Open Settings, then tap Privacy, and make sure Calendars is on.</source>
+        <target>Lieferungen braucht Zugriff auf ihren Kalender um voraussichtliche Lieferdaten hinzuzufügen. Offnen Sie Einstellungen, dann Datenschutz und stellen Sie sicher, dass Kalender angeschaltet ist.</target>
+        <note>Error message explaining that Deliveries needs access to the user's calendars in order to enable the setting to add events to a calendar automatically</note>
+      </trans-unit>
+      <trans-unit id="Setting.Calendar.Label" xml:space="preserve">
+        <source>Add to Calendar</source>
+        <target>Zum Kalender hinzufügen</target>
+        <note>Label for a setting to automatically add events to a calendar</note>
+      </trans-unit>
+      <trans-unit id="Setting.Notifications.Background.Footer" xml:space="preserve">
+        <source>Background App Refresh is required for notifications. Tap Open Settings and make sure Background App Refresh is on.</source>
+        <target>Hintergrundaktualisierungen werden benötigt um Mitteilungen anzuzeigen. Klicken Sie auf Einstellungen und stellen Sie sicher, dass diese erlaubt sind.</target>
+        <note>Message at the bottom of the Notifications view explaining that Background App Refresh is currently off and must be enabled</note>
+      </trans-unit>
+      <trans-unit id="Setting.Notifications.Label" xml:space="preserve">
+        <source>Background Notifications</source>
+        <target>Hintergrundaktualisierungen</target>
+        <note>Label for the setting to enable background notifications</note>
+      </trans-unit>
+      <trans-unit id="Setting.Notifications.Options.Footer" xml:space="preserve">
+        <source>Tap Open Settings to adjust notification options, including sounds and badges.</source>
+        <target>Klicken Sie auf Einstellungen um Mitteilungseinstellungen, inklusive Töne und Kennzeichen, anzupassen.</target>
+        <note>Message at the bottom of the Notifications view explaining that additional options are available in the Settings app</note>
+      </trans-unit>
+      <trans-unit id="Setting.Notifications.Permission.Footer" xml:space="preserve">
+        <source>Deliveries needs your permission to display notifications. Tap Open Settings, then tap Notifications, and make sure Allow Notifications is on.</source>
+        <target>Lieferungen braucht ihre Erlaubnis um Mitteilungen anzuzeigen. Tippen Sie auf „Einstellungen öffnen“, dann tippen Sie auf Mitteilungen und stellen Sie dann sicher, dass „Mitteilungen erlauben“ angeschaltet ist.</target>
+        <note>Message at the bottom of the Notifications view explaining that the app does not have permission to show notifications</note>
+      </trans-unit>
+      <trans-unit id="Setting.Notifications.Title" xml:space="preserve">
+        <source>Notifications</source>
+        <target>Mitteilungen</target>
+        <note>Title for the notification settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.ServiceUpdate.Label" xml:space="preserve">
+        <source>Installed service update:</source>
+        <target>Installiertes Dienstupdate:</target>
+        <note>Label indicating the service update number that is currently installed</note>
+      </trans-unit>
+      <trans-unit id="Setting.Sort.DeliveryDate" xml:space="preserve">
+        <source>Delivery Date</source>
+        <target>Lieferdatum</target>
+        <note>Sort setting value: items are ordered by delivery date</note>
+      </trans-unit>
+      <trans-unit id="Setting.Sort.Label" xml:space="preserve">
+        <source>Sort By</source>
+        <target>Ordnen nach</target>
+        <note>Label for sorting options</note>
+      </trans-unit>
+      <trans-unit id="Setting.Sort.LastChanged" xml:space="preserve">
+        <source>Last Changed</source>
+        <target>Letzte Aktualisierung</target>
+        <note>Sort setting value: items are ordered by when the status last changed</note>
+      </trans-unit>
+      <trans-unit id="Setting.Sort.Manually" xml:space="preserve">
+        <source>Manually</source>
+        <target>Manuell</target>
+        <note>Sort setting value: items are ordered manually</note>
+      </trans-unit>
+      <trans-unit id="Settings.Advanced.Title" xml:space="preserve">
+        <source>Advanced</source>
+        <target>Erweitert</target>
+        <note>Title for advanced settings view</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="BetaAccess.Title" xml:space="preserve">
+        <source>Deliveries Beta Access</source>
+        <target>Lieferungen Beta Zugriff</target>
+        <note>Title for a view related to beta access</note>
+      </trans-unit>
+      <trans-unit id="Extension.Instructions.iOS" xml:space="preserve">
+        <source>To subscribe, open Deliveries, tap the Settings icon, then tap Subscription.</source>
+        <target>Um ein Abo abzuschließen, öffne Lieferungen, klicke Settings und klicke Abo.</target>
+        <note>Brief explanation of how to open the app and find the Subscription view on iOS. This message appears in the Share extension when there's not an active subscription.</note>
+      </trans-unit>
+      <trans-unit id="Feature.One" xml:space="preserve">
+        <source>Track your packages in one place</source>
+        <target>Verfolgen Sie Ihre Pakete an einem Ort</target>
+        <note>Item in a list of subscription features</note>
+      </trans-unit>
+      <trans-unit id="Feature.One.Legacy" xml:space="preserve">
+        <source>Add deliveries by forwarding an email with Junecloud sync</source>
+        <target>Fügen Sie Lieferungen per E-Mail Weiterleitung mit Jundecloud Sync hinzu</target>
+        <note>Item in a list of subscription features</note>
+      </trans-unit>
+      <trans-unit id="Feature.Three" xml:space="preserve">
+        <source>Quickly add shipments from web sites, emails, barcodes, and more</source>
+        <target>Schnelles Hinzufügen von Lieferungen aus Webseiten, Emails, Barcodes und vielem mehr</target>
+        <note>Item in a list of subscription features</note>
+      </trans-unit>
+      <trans-unit id="Feature.Three.Legacy" xml:space="preserve">
+        <source>Support future development</source>
+        <target>Unterstützten Sie die Weiterentwicklung</target>
+        <note>Item in a list of subscription features</note>
+      </trans-unit>
+      <trans-unit id="Feature.Two" xml:space="preserve">
+        <source>Automatically add delivery dates to your calendar</source>
+        <target>Fügen Sie Lieferungen automatisch Ihrem Kalender hinzu</target>
+        <note>Item in a list of subscription features</note>
+      </trans-unit>
+      <trans-unit id="Feature.Two.Legacy" xml:space="preserve">
+        <source>Edit deliveries from any web browser with Junecloud sync</source>
+        <target>Ändern Sie Lieferungen in jedem Browser mit Junecloud Sync</target>
+        <note>Item in a list of subscription features</note>
+      </trans-unit>
+      <trans-unit id="Subscribe.FinePrint" xml:space="preserve">
+        <source>Your subscription will renew automatically. You can cancel at any time. Tracking services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</source>
+        <target>Ihr Abo verlängert sich automatisch. Sie können es jederzeit kündigen. Lieferdiense können jederzeit hinzukommen oder entfallen und Jundecloud LLC übernimmt keine Garantien für die Verfügbarkeit bestimmter Dienste. Mehr Informationen finden Sie in unseren [AGB](deliveries://legal/terms) und [Datenschutzbestimmungen](deliveries://legal/privacy) (beide nur auf Englisch verfügbar).</target>
+        <note>Details at the bottom of the subscription view. Text in brackets will be automatically converted to links using Markdown formatting.</note>
+      </trans-unit>
+      <trans-unit id="Subscribe.Message" xml:space="preserve">
+        <source>Subscribe to unlock all the features of Deliveries for iPhone, iPad, Apple Watch, and Mac.</source>
+        <target>Schließen Sie ein Abo ab um alle Funktionen von Lieferungen für iPhone, iPad, Apple Watch und Mac zu erhalten.</target>
+        <note>Subscribe message</note>
+      </trans-unit>
+      <trans-unit id="Subscribe.Message.Legacy" xml:space="preserve">
+        <source>Since you previously purchased Deliveries, you can continue to use most features from earlier versions, and many new ones.</source>
+        <target>Da sie eine vorherige Version von Lieferungen gekauft haben, können Sie die meisten Funktionen der früheren Versionen weiter nutzen - und viele neue.</target>
+        <note>Subscribe legacy message</note>
+      </trans-unit>
+      <trans-unit id="Subscribe.Title" xml:space="preserve">
+        <source>Subscribe to Deliveries</source>
+        <target>Lieferungen abonnieren</target>
+        <note>Title for a view where a subscription can be purchased</note>
+      </trans-unit>
+      <trans-unit id="ThankYou.Message" xml:space="preserve">
+        <source>Thank you for your support.</source>
+        <target>Vielen Dank für Ihre Unterstützung.</target>
+        <note>Subscription thank you message</note>
+      </trans-unit>
+      <trans-unit id="ThankYou.Message.Beta" xml:space="preserve">
+        <source>Thank you for being a beta tester.</source>
+        <target>Danke, das Sie ein Beta Tester sind.</target>
+        <note>Thank you message for beta testers</note>
+      </trans-unit>
+      <trans-unit id="ThankYou.Message.Exception" xml:space="preserve">
+        <source>We were unable to verify your subscription status. Since this was our mistake, you’ve been given a temporary subscription for a short time while we sort out the problem.</source>
+        <target>Wir könnten Ihren Abo Status nicht verifizieren. Da dies unser Fehler ist, haben wir für Sie ein vorübergehendes Abo freigeschaltet, während wir das Problem lösen.</target>
+        <note>In some cases a temporary subscription may be granted if there's an error checking the subscription status. This is a message shown to explain what happened.</note>
+      </trans-unit>
+      <trans-unit id="ThankYou.Message.Legacy" xml:space="preserve">
+        <source>Deliveries is changing to a subscription service. Since you previously purchased the app, most of the features you’re used to will remain unlocked. You have also been given a complimentary subscription based on your purchase date.
+
+When your complimentary subscription expires, you’ll need to pay for a subscription to use Junecloud sync. We also plan to add new features in the future that will require a subscription. If you decide not to purchase a subscription, you’ll still be able to add new deliveries, use iCloud sync, and more.</source>
+        <target>Lieferungen wird zu einem Abo Dienst. Da Sie die App gekauft hatten bleiben die meisten Funktionen freigeschaltet. Sie haben außerdem ein kostenloses Abo basierend auf ihrem Kaufdatum erhalten.
+
+Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Junecloud Sync weiter zu nutzen. Wir planen weitere Funktionen, welche das Abo benötigen werden. Falls Sie sich gegen ein Abo entscheiden können Sie weiter Lieferungen hinzufügen, den iCloud Sync und viele andere Funktionen verwenden.</target>
+        <note>Subscription thank you message for legacy purchases</note>
+      </trans-unit>
+      <trans-unit id="com.junecloud.Deliveries.sub.legacy" xml:space="preserve">
+        <source>Complimentary Subscription</source>
+        <target>Gratis Abo</target>
+        <note>Legacy subscription name</note>
+      </trans-unit>
+      <trans-unit id="com.junecloud.Deliveries.sub.month" xml:space="preserve">
+        <source>Deliveries Monthly Subscription</source>
+        <target>Monatliches Lieferungen Abo</target>
+        <note>Monthly subscription name</note>
+      </trans-unit>
+      <trans-unit id="com.junecloud.Deliveries.sub.year" xml:space="preserve">
+        <source>Deliveries Yearly Subscription</source>
+        <target>Jährliches Lieferungen Abo</target>
+        <note>Yearly subscription name</note>
+      </trans-unit>
+      <trans-unit id="com.junecloud.Exception" xml:space="preserve">
+        <source>Complimentary Subscription</source>
+        <target>Vorübergehendes Gratis Abo</target>
+        <note>In some cases a temporary subscription may be granted if there's an error checking the subscription status. This is the name used for that type of subscription.</note>
+      </trans-unit>
+      <trans-unit id="com.junecloud.mac.Deliveries.sub.legacy" xml:space="preserve">
+        <source>Complimentary Subscription</source>
+        <target>Gratis Abo</target>
+        <note>Legacy subscription name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Troubleshoot.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
+        <source>The problem was most likely a temporary issue with the shipping service, or something we fixed in the latest service update.</source>
+        <target>Das Problem war vermutlich vorübergehend ein Problem mit dem Lieferdienst oder wir haben es mit unserem letzten Dienstupdate behoben.</target>
+        <note>Message shown when troubleshooting is complete, and the problem appears to have been fixed</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Complete.Message.ServiceUpdate" xml:space="preserve">
+        <source>It looks like this problem was fixed in the latest service update.</source>
+        <target>Anscheinend wurde das Problem mit dem letzten Dienstupdate behoben.</target>
+        <note>Message shown when troubleshooting is complete, and the problem was fixed by downloading a new service update</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Complete.Title" xml:space="preserve">
+        <source>Complete</source>
+        <target>Fertig</target>
+        <note>Title for a view when troubleshooting is complete</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Error.Message" xml:space="preserve">
+        <source>Try again later.</source>
+        <target>Bitte versuchen Sie es später.</target>
+        <note>A generic error message used when no other information is available</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Error.Title" xml:space="preserve">
+        <source>Unable to Send Report</source>
+        <target>Der Bericht konnte nicht gesendet werden</target>
+        <note>Title for a view when a troubleshooting report could not be sent</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Explanation" xml:space="preserve">
+        <source>If there’s a problem updating this delivery, troubleshooting may be able to fix it. If not, you can report the problem to Junecloud.</source>
+        <target>Falls ein Problem bei der Aktualisierung dieser Lieferung auftritt, kann die Fehlersuche dies vielleicht reparieren. Falls nicht, können Sie dieses Problem an Junecloud melden.</target>
+        <note>Message explaining what the troubleshooting process does</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Progress" xml:space="preserve">
+        <source>Gathering data…</source>
+        <target>Sammle Daten …</target>
+        <note>Short message shown when troubleshooting is currently in progress</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Progress.Sending" xml:space="preserve">
+        <source>Sending report…</source>
+        <target>Schicke Bericht …</target>
+        <note>Short message shown when a troubleshooting report is being sent</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Report.Message" xml:space="preserve">
+        <source>Review the information below before you send it. Select Comments to add additional information. In some cases personal information may be sent—select Logs to view and edit that information if you prefer. Your data will be sent securely via HTTPS.</source>
+        <target>Überprüfen Sie die Information, bevor sie gesendet werden. Wählen Sie Kommentare um weitere Informationen hinzuzufügen. In manchen Fällen können persönliche Daten mitgesendet werden - wählen Sie Logs um die Informationen anzuzeigen und diese zu bearbeiten. Ihre Daten werden über eine gesicherte HTTPS Verbindung gesendet.</target>
+        <note>Message shown above a list of all the troubleshooting report data that has been collected</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Report.Title" xml:space="preserve">
+        <source>Report</source>
+        <target>Bericht</target>
+        <note>Title for a view showing a troubleshooting report</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Sent.Message" xml:space="preserve">
+        <source>Thank you for your report. We’ll look into the problem and do our best to get it fixed.</source>
+        <target>Danke für Ihren Bericht. Wir werden das Problem analysieren und versuchen es zu lösen.</target>
+        <note>Message shown when a troubleshooting report is successfully sent</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Sent.Message.Informational" xml:space="preserve">
+        <source>Thank you for your report.</source>
+        <target>Vielen Dank für Ihren Bericht.</target>
+        <note>Message shown when a report is successfully sent. This is used for informational reports rather than reports of a problem.</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Sent.Title" xml:space="preserve">
+        <source>Report Sent</source>
+        <target>Bericht gesendet</target>
+        <note>Title for a view when a report is successfully sent</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Title" xml:space="preserve">
+        <source>Troubleshoot</source>
+        <target>Fehlersuche</target>
+        <note>Title for a view used for troubleshooting</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Validate.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Validate.Error.Database" xml:space="preserve">
+        <source>Validation failed due to a database error.</source>
+        <target>Validierung ist aufgrund eines Datenbankproblems fehlgeschlagen.</target>
+        <note>Error message when the delivery settings cannot be validated due to a database error</note>
+      </trans-unit>
+      <trans-unit id="Validate.Error.Unsupported" xml:space="preserve">
+        <source>This service is not supported.</source>
+        <target>Dieser Service wird nicht unterstützt</target>
+        <note>Error message when trying to save a delivery from a service that is not supported</note>
+      </trans-unit>
+      <trans-unit id="Validate.Invalid.OrderNo" xml:space="preserve">
+        <source>Enter a valid order number.</source>
+        <target>Fügen Sie eine valide Bestellnummer ein.</target>
+        <note>Error message when the order number that was entered is invalid</note>
+      </trans-unit>
+      <trans-unit id="Validate.Invalid.OrderNo.Amazon" xml:space="preserve">
+        <source>Enter an order number, not a tracking number.</source>
+        <target>Fügen Sie eine Bestellnummer ein, keine Lieferungsnummer.</target>
+        <note>Error message when an order number is required, but it seems like a tracking number was entered instead</note>
+      </trans-unit>
+      <trans-unit id="Validate.Invalid.TrackingNo" xml:space="preserve">
+        <source>Enter a valid tracking number.</source>
+        <target>Fügen Sie eine valide Lieferungsnummer ein.</target>
+        <note>Error message when the tracking number that was entered is invalid</note>
+      </trans-unit>
+      <trans-unit id="Validate.Invalid.Website" xml:space="preserve">
+        <source>Enter a valid web site.</source>
+        <target>Fügen Sie eine valide URL ein.</target>
+        <note>Error message when the web site address that was entered is invalid</note>
+      </trans-unit>
+      <trans-unit id="Validate.Invalid.Website.Amazon" xml:space="preserve">
+        <source>Enter a link to a “Track Package” page on Amazon.</source>
+        <target>Sie müssen einen Link zu einer „Lieferung verfolgen“ Seite bei Amazon eingeben.</target>
+        <note>Error message when a link to an Amazon tracking page is missing or invalid</note>
+      </trans-unit>
+      <trans-unit id="Validate.Missing.ConsignNo" xml:space="preserve">
+        <source>Enter a consignment number.</source>
+        <target>Fügen Sie eine Kommissionsnummer ein.</target>
+        <note>Error message when a consignment number (a specific type of tracking number) is missing</note>
+      </trans-unit>
+      <trans-unit id="Validate.Missing.Email" xml:space="preserve">
+        <source>Enter an email address.</source>
+        <target>Fügen Sie eine E-Mail-Adresse ein.</target>
+        <note>Error message when an email address is missing</note>
+      </trans-unit>
+      <trans-unit id="Validate.Missing.Generic" xml:space="preserve">
+        <source>Fill out all required fields.</source>
+        <target>Füllen Sie alle Pflichtfelder aus.</target>
+        <note>Generic error message when one or more settings are missing</note>
+      </trans-unit>
+      <trans-unit id="Validate.Missing.OrderNo" xml:space="preserve">
+        <source>Enter an order number.</source>
+        <target>Fügen Sie eine Bestellnummer ein.</target>
+        <note>Error message when an order number is missing</note>
+      </trans-unit>
+      <trans-unit id="Validate.Missing.PostalCode" xml:space="preserve">
+        <source>Enter a postal code.</source>
+        <target>Fügen Sie eine PLZ ein.</target>
+        <note>Error message when a postal code (or zip code) is missing</note>
+      </trans-unit>
+      <trans-unit id="Validate.Missing.ReferenceNo" xml:space="preserve">
+        <source>Enter a reference number.</source>
+        <target>Fügen Sie eine Referenznummer ein.</target>
+        <note>Error message when a reference number (a specific type of tracking number) is missing</note>
+      </trans-unit>
+      <trans-unit id="Validate.Missing.TrackingNo" xml:space="preserve">
+        <source>Enter a tracking number.</source>
+        <target>Fügen Sie eine Lieferungsnummer ein.</target>
+        <note>Error message when a tracking number is missing</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>DeliveriesKit</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="../Strings/en.lproj/Button.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Button.Add" xml:space="preserve">
+        <source>Add</source>
+        <target>追加</target>
+        <note>Button to add a new item</note>
+      </trans-unit>
+      <trans-unit id="Button.Back" xml:space="preserve">
+        <source>Back</source>
+        <target>戻る</target>
+        <note>Button to return to the previous view</note>
+      </trans-unit>
+      <trans-unit id="Button.Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target>キャンセル</target>
+        <note>Button to cancel an action</note>
+      </trans-unit>
+      <trans-unit id="Button.Clear" xml:space="preserve">
+        <source>Clear</source>
+        <target>消去</target>
+        <note>Button to clear the current value</note>
+      </trans-unit>
+      <trans-unit id="Button.Continue" xml:space="preserve">
+        <source>Continue</source>
+        <target>続ける</target>
+        <note>Button to continue to the next step</note>
+      </trans-unit>
+      <trans-unit id="Button.Done" xml:space="preserve">
+        <source>Done</source>
+        <target>完了</target>
+        <note>Button to dismiss a view, when the user is finished with it</note>
+      </trans-unit>
+      <trans-unit id="Button.Hide" xml:space="preserve">
+        <source>Hide</source>
+        <target>隠す</target>
+        <note>Button to hide the selected item</note>
+      </trans-unit>
+      <trans-unit id="Button.More" xml:space="preserve">
+        <source>More</source>
+        <target>その他</target>
+        <note>Button to open a menu of additional actions for the current item</note>
+      </trans-unit>
+      <trans-unit id="Button.NotNow" xml:space="preserve">
+        <source>Not Now</source>
+        <target>今はしない</target>
+        <note>Button to cancel an action, making it clear it will be possible to do this again later</note>
+      </trans-unit>
+      <trans-unit id="Button.OK" xml:space="preserve">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Button to dismiss an alert</note>
+      </trans-unit>
+      <trans-unit id="Button.OpenSettings" xml:space="preserve">
+        <source>Open Settings</source>
+        <target>設定を開く</target>
+        <note>Button to show related settings in the Settings app on iOS</note>
+      </trans-unit>
+      <trans-unit id="Button.OpenSystemPreferences" xml:space="preserve">
+        <source>Open System Preferences</source>
+        <target>Open System Preferences</target>
+        <note>Button to show related settings in the System Preferences app on macOS</note>
+      </trans-unit>
+      <trans-unit id="Button.Quit" xml:space="preserve">
+        <source>Quit</source>
+        <target>終了</target>
+        <note>Button used in an alert to quit the app</note>
+      </trans-unit>
+      <trans-unit id="Button.Save" xml:space="preserve">
+        <source>Save</source>
+        <target>保存</target>
+        <note>Button to save the current changes</note>
+      </trans-unit>
+      <trans-unit id="Button.Search" xml:space="preserve">
+        <source>Search</source>
+        <target>検索</target>
+        <note>Button to begin a search</note>
+      </trans-unit>
+      <trans-unit id="Button.Select" xml:space="preserve">
+        <source>Select</source>
+        <target>選択</target>
+        <note>Button that changes a list of items to select or edit mode</note>
+      </trans-unit>
+      <trans-unit id="Button.Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target>設定</target>
+        <note>Button to open the settings view</note>
+      </trans-unit>
+      <trans-unit id="Button.ShowLess" xml:space="preserve">
+        <source>Show less</source>
+        <target>表示を減らす</target>
+        <note>Button that shows fewer rows in a table</note>
+      </trans-unit>
+      <trans-unit id="Button.ShowMore" xml:space="preserve">
+        <source>Show more</source>
+        <target>表示を増やす</target>
+        <note>Button that shows more rows in a table</note>
+      </trans-unit>
+      <trans-unit id="Button.VisitSite" xml:space="preserve">
+        <source>Visit Site</source>
+        <target>サイトを見る</target>
+        <note>Button used in an alert to open a web site with more information</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Crash.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Crash.AlwaysSend.Button" xml:space="preserve">
+        <source>Always Send</source>
+        <target>Always Send</target>
+        <note>Button to automatically send all crash reports</note>
+      </trans-unit>
+      <trans-unit id="Crash.DontSend.Button" xml:space="preserve">
+        <source>Don’t Send</source>
+        <target>Don’t Send</target>
+        <note>Button to ignore a crash report, without sending it</note>
+      </trans-unit>
+      <trans-unit id="Crash.Message" xml:space="preserve">
+        <source>Would you like to send a report so we can fix the problem?</source>
+        <target>Would you like to send a report so we can fix the problem?</target>
+        <note>Message for an laert shown after the app has crashed</note>
+      </trans-unit>
+      <trans-unit id="Crash.Send.Button" xml:space="preserve">
+        <source>Send Report</source>
+        <target>Send Report</target>
+        <note>Button to send a crash report</note>
+      </trans-unit>
+      <trans-unit id="Crash.Title.Format" xml:space="preserve">
+        <source>%@ Quit Unexpectedly</source>
+        <target>%@ Quit Unexpectedly</target>
+        <note>Title for an alert shown after the app has crashed: '{app name} quit unexpectedly', for example 'Deliveries quit unexpectedly'</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Data.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Data.DeleteArchive.Button" xml:space="preserve">
+        <source>Delete Archive</source>
+        <target>アーカイブを空にする</target>
+        <note>Button to delete all archived items</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteArchive.Confirm.Button" xml:space="preserve">
+        <source>Delete</source>
+        <target>削除</target>
+        <note>Button to confirm that all archived items should be deleted</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteArchive.Message" xml:space="preserve">
+        <source>Are you sure you want to delete your archive? All of your archived items will be permanently deleted.</source>
+        <target>本当にアーカイブを空にしますか？アーカイブにある項目を完全に削除します。この操作は取り消せません。</target>
+        <note>Message for an alert confirming whether to delete all archived items</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteArchive.Title" xml:space="preserve">
+        <source>Delete Archive</source>
+        <target>アーカイブを空にする</target>
+        <note>Title for an alert related to deleting archived items</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteCookies.Button" xml:space="preserve">
+        <source>Delete Cookies</source>
+        <target>Delete Cookies</target>
+        <note>Button to delete web site cookies</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteCookies.Success.Message" xml:space="preserve">
+        <source>Your cookies have been removed.</source>
+        <target>Your cookies have been removed.</target>
+        <note>Message for an alert shown when web site cookies are successfully deleted</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteCookies.Title" xml:space="preserve">
+        <source>Delete Cookies</source>
+        <target>Delete Cookies</target>
+        <note>Title for an alert related to deleting web site cookies</note>
+      </trans-unit>
+      <trans-unit id="Data.DeletePasswords.Button" xml:space="preserve">
+        <source>Delete Passwords</source>
+        <target>保存したパスワードを削除</target>
+        <note>Button to delete saved passwords</note>
+      </trans-unit>
+      <trans-unit id="Data.DeletePasswords.Confirm.Button" xml:space="preserve">
+        <source>Delete</source>
+        <target>削除</target>
+        <note>Button to confirm that saved passwords should be deleted</note>
+      </trans-unit>
+      <trans-unit id="Data.DeletePasswords.Error.Message" xml:space="preserve">
+        <source>Some of your passwords could not be deleted. Please try again.</source>
+        <target>いくつかのパスワードを削除することができませんでした。再試行してください。</target>
+        <note>Message explaining that some saved passwords could not be deleted</note>
+      </trans-unit>
+      <trans-unit id="Data.DeletePasswords.Message" xml:space="preserve">
+        <source>Are you sure you want to delete your saved passwords?</source>
+        <target>本当保存してある、すべてのパスワードを削除しますか？</target>
+        <note>Message for an alert confirming that saved passwords should be deleted</note>
+      </trans-unit>
+      <trans-unit id="Data.DeletePasswords.Success.All.Message" xml:space="preserve">
+        <source>All of your saved passwords have been deleted.</source>
+        <target>すべての保存したパスワードが削除されました。</target>
+        <note>Message confirming that all saved passwords were successfully deleted</note>
+      </trans-unit>
+      <trans-unit id="Data.DeletePasswords.Success.Most.Message" xml:space="preserve">
+        <source>All of your saved passwords have been deleted, except for your junecloud.com sync password.</source>
+        <target>junecloud.comの同期パスワード以外、すべての保存したパスワードが削除されました。</target>
+        <note>Message confirming that all saved passwords were successfully deleted, except for the Junecloud sync password</note>
+      </trans-unit>
+      <trans-unit id="Data.DeletePasswords.Title" xml:space="preserve">
+        <source>Delete Passwords</source>
+        <target>保存したパスワードを削除</target>
+        <note>Title for an alert related to deleting saved passwords</note>
+      </trans-unit>
+      <trans-unit id="Data.Error.Loading.Title" xml:space="preserve">
+        <source>There was an error loading your data</source>
+        <target>There was an error loading your data</target>
+        <note>Title for a database error while loading</note>
+      </trans-unit>
+      <trans-unit id="Data.Error.Saving.Title" xml:space="preserve">
+        <source>There was an error saving your data</source>
+        <target>There was an error saving your data</target>
+        <note>Title for a database error while saving</note>
+      </trans-unit>
+      <trans-unit id="Data.Error.Suggestion.iOS" xml:space="preserve">
+        <source>If you continue to see this error, please try deleting and reinstalling the app, or visit junecloud.com/support for help.</source>
+        <target>このエラー画面が表示された場合は、一度アプリケーションを削除後に再度App Storeよりインストールを行ってください。もしくは junecloud.com/support (英語) をご覧ください。</target>
+        <note>Recovery suggestion for a database error on iOS</note>
+      </trans-unit>
+      <trans-unit id="Data.Error.Suggestion.macOS" xml:space="preserve">
+        <source>If you continue to see this error, please try resetting your data, or visit junecloud.com/support for help.</source>
+        <target>エラーが出続ける場合は一旦リセットをするか junecloud.com/support （英語）をご参照ください。</target>
+        <note>Recovery suggestion for a database error on macOS</note>
+      </trans-unit>
+      <trans-unit id="Data.QuickLook.NotFound" xml:space="preserve">
+        <source>This item could not be found.</source>
+        <target>This item could not be found.</target>
+        <note>Message shown when Quick Look is not able to load an item</note>
+      </trans-unit>
+      <trans-unit id="Data.Reset.Button" xml:space="preserve">
+        <source>Reset</source>
+        <target>リセット</target>
+        <note>Button to confirm that the database should be reset</note>
+      </trans-unit>
+      <trans-unit id="Data.Reset.Error.Message" xml:space="preserve">
+        <source>There was a problem resetting your data. You may want to try again, or delete and reinstall the app. If you continue to have problems, contact us at junecloud.com/support for help.</source>
+        <target>あなたのデータをリセットする際に問題が発生しました。再試行してください。もしくはアプリケーションを再インストールする必要があります。引き続き問題が発生する場合は、 junecloud.com/support （英語）をご参照ください。</target>
+        <note>Message for an alert explaining that the database could not be reset</note>
+      </trans-unit>
+      <trans-unit id="Data.Reset.Error.Title" xml:space="preserve">
+        <source>Your data has been reset</source>
+        <target>データがリセットされました</target>
+        <note>Title for an alert explaining that the database could not be reset</note>
+      </trans-unit>
+      <trans-unit id="Data.Reset.Message" xml:space="preserve">
+        <source>This will delete all of your data and preferences. If your data is not synced with iCloud or Junecloud, it will be lost. If you’re not sure, contact us at junecloud.com/support for help.</source>
+        <target>iCloudやJunecloudで同期しているすべてのデータをすべてリセットします。何かわからないことがある場合は junecloud.com/support （英語）をご参照ください。</target>
+        <note>Message for an alert confirming whether the database should be reset, with an explanation that data will be lost if it is not synced online, and a URL for help</note>
+      </trans-unit>
+      <trans-unit id="Data.Reset.Success.Message" xml:space="preserve">
+        <source>Your data and preferences have been deleted.</source>
+        <target>Your data and preferences have been deleted.</target>
+        <note>Message for an alert explaining that the database was reset successfully</note>
+      </trans-unit>
+      <trans-unit id="Data.Reset.Success.Title" xml:space="preserve">
+        <source>Your data has been reset</source>
+        <target>データがリセットされました</target>
+        <note>Title for an alert confirming that the database was reset successfully</note>
+      </trans-unit>
+      <trans-unit id="Data.Reset.Title" xml:space="preserve">
+        <source>Reset your data?</source>
+        <target>データをリセットしていいですか？</target>
+        <note>Title for an alert confirming whether the database should be reset</note>
+      </trans-unit>
+      <trans-unit id="Data.ResetCloudKit.Button" xml:space="preserve">
+        <source>Reset</source>
+        <target>リセット</target>
+        <note>Button used to confirm that iCloud sync data should be reset</note>
+      </trans-unit>
+      <trans-unit id="Data.ResetCloudKit.Message" xml:space="preserve">
+        <source>If you're having problems with iCloud syncing, you may need to reset it. This will delete the app’s sync data from iCloud, then re-sync everything in the app back to iCloud.</source>
+        <target>If you're having problems with iCloud syncing, you may need to reset it. This will delete the app’s sync data from iCloud, then re-sync everything in the app back to iCloud.</target>
+        <note>Message for an alert confirming whether iCloud sync data should be reset, explaining what will happen</note>
+      </trans-unit>
+      <trans-unit id="Data.ResetCloudKit.Title" xml:space="preserve">
+        <source>Reset iCloud Sync</source>
+        <target>Reset iCloud Sync</target>
+        <note>Title for an alert confirming whether iCloud sync data should be reset</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Date.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Date.Countdown.Day" xml:space="preserve">
+        <source>day</source>
+        <target>日間</target>
+        <note>Label below a number of days countdown, for example '1 day'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Day.Format" xml:space="preserve">
+        <source>%@ day</source>
+        <target>%@ day</target>
+        <note>Number of days countdown: {number} day, for example '1 day'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Days" xml:space="preserve">
+        <source>days</source>
+        <target>日間</target>
+        <note>Label below a number of days countdown, for example '8 days'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Days.Format" xml:space="preserve">
+        <source>%@ days</source>
+        <target>%@日間</target>
+        <note>Number of days countdown: {number} days, for example '8 days'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Month" xml:space="preserve">
+        <source>month</source>
+        <target>ヶ月</target>
+        <note>Label below a number of months countdown, for example '1 month'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Month.Format" xml:space="preserve">
+        <source>%@ month</source>
+        <target>%@ヶ月</target>
+        <note>Number of months countdown: {number} month, for example '1 month'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Month.watchOS" xml:space="preserve">
+        <source>mo.</source>
+        <target>ヶ月</target>
+        <note>Very short label below a number of months countdown when space is limited, for example '1 mo.'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Months" xml:space="preserve">
+        <source>months</source>
+        <target>ヶ月</target>
+        <note>Label below a number of months countdown, for example '3 months'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Months.Format" xml:space="preserve">
+        <source>%@ months</source>
+        <target>%@ヶ月</target>
+        <note>Number of months countdown: {number} months, for example '3 months'</note>
+      </trans-unit>
+      <trans-unit id="Date.Countdown.Months.watchOS" xml:space="preserve">
+        <source>mos.</source>
+        <target>ヶ月</target>
+        <note>Very short label below a number of months countdown when space is limited, for example '3 mos.'</note>
+      </trans-unit>
+      <trans-unit id="Date.Elapsed.Format" xml:space="preserve">
+        <source>%@ ago</source>
+        <target>%@前</target>
+        <note>{time period} ago, for example '3 minutes ago' or '1 hour ago'</note>
+      </trans-unit>
+      <trans-unit id="Date.Elapsed.Moment" xml:space="preserve">
+        <source>a moment ago</source>
+        <target>すこし前</target>
+        <note>Elapsed time less than a minute</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Setting.About.Title" xml:space="preserve">
+        <source>About</source>
+        <target>情報</target>
+        <note>Title for the about view (credits)</note>
+      </trans-unit>
+      <trans-unit id="Setting.AppIcon.Title" xml:space="preserve">
+        <source>App Icon</source>
+        <target>App Icon</target>
+        <note>Title for a view where the app icon can be changed</note>
+      </trans-unit>
+      <trans-unit id="Setting.CloudKit" xml:space="preserve">
+        <source>iCloud</source>
+        <target>iCloud</target>
+        <note>Name for the iCloud sync service</note>
+      </trans-unit>
+      <trans-unit id="Setting.CloudKit.Help.Button" xml:space="preserve">
+        <source>Learn How to Enable iCloud</source>
+        <target>Learn How to Enable iCloud</target>
+        <note>Button to open a view that explains how to enable iCloud</note>
+      </trans-unit>
+      <trans-unit id="Setting.CloudKitSettings.Button" xml:space="preserve">
+        <source>Open iCloud Settings</source>
+        <target>Open iCloud Settings</target>
+        <note>Button to open a view with iCloud settings</note>
+      </trans-unit>
+      <trans-unit id="Setting.CombinedSync" xml:space="preserve">
+        <source>iCloud + Junecloud</source>
+        <target>iCloud + Junecloud</target>
+        <note>Short string indicating both iCloud and Junecloud sync are enabled</note>
+      </trans-unit>
+      <trans-unit id="Setting.CreateAccount.Button.iOS" xml:space="preserve">
+        <source>Create a New Account</source>
+        <target>Create a New Account</target>
+        <note>Button to open a view for creating a new account, used on iOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.CreateAccount.Button.macOS" xml:space="preserve">
+        <source>Create Account</source>
+        <target>Create Account</target>
+        <note>Button to open a view for creating a new account, used on macOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.DateLabel" xml:space="preserve">
+        <source>Date</source>
+        <target>配達日</target>
+        <note>Label for a date setting</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteArchive.Format" xml:space="preserve">
+        <source>After %@ Days</source>
+        <target>%@日後に削除</target>
+        <note>Value for deleting archived items: After {number} Days, for example 'After 90 Days'</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteArchive.Label" xml:space="preserve">
+        <source>Delete Archived Items</source>
+        <target>Delete Archived Items</target>
+        <note>Label for a setting that specifies when archived items should be automatically deleted (for example after one year or six months)</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteArchive.Manual" xml:space="preserve">
+        <source>Manually</source>
+        <target>手動</target>
+        <note>Value for deleting archived items: only delete items manually</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteArchive.SixMonths" xml:space="preserve">
+        <source>After 6 Months</source>
+        <target>半年後に削除</target>
+        <note>Value for deleting archived items: after six months</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteArchive.Year" xml:space="preserve">
+        <source>After a Year</source>
+        <target>1年後に削除</target>
+        <note>Value for deleting archived items: after a year</note>
+      </trans-unit>
+      <trans-unit id="Setting.Email.Label" xml:space="preserve">
+        <source>Email</source>
+        <target>電子メール</target>
+        <note>Short label for an email input field</note>
+      </trans-unit>
+      <trans-unit id="Setting.Feedback.Subject.Format" xml:space="preserve">
+        <source>%@ Feedback</source>
+        <target>%@ Feedback</target>
+        <note>Subject line for an email message with feedback: '{app name} Feedback', for example 'Deliveries Feedback'</note>
+      </trans-unit>
+      <trans-unit id="Setting.Feedback.Title" xml:space="preserve">
+        <source>Send Feedback</source>
+        <target>Send Feedback</target>
+        <note>Title for a view to send feedback</note>
+      </trans-unit>
+      <trans-unit id="Setting.General.Title" xml:space="preserve">
+        <source>General</source>
+        <target>一般</target>
+        <note>Title for the general settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.Help.Button" xml:space="preserve">
+        <source>Learn about these settings</source>
+        <target>Learn about these settings</target>
+        <note>Button to open a help view with more information</note>
+      </trans-unit>
+      <trans-unit id="Setting.Help.Title" xml:space="preserve">
+        <source>Help</source>
+        <target>ヘルプ</target>
+        <note>Title for the help view</note>
+      </trans-unit>
+      <trans-unit id="Setting.Junecloud" xml:space="preserve">
+        <source>Junecloud</source>
+        <target>Junecloud</target>
+        <note>Name for the Junecloud sync service</note>
+      </trans-unit>
+      <trans-unit id="Setting.JunecloudSettings.Button" xml:space="preserve">
+        <source>Open Junecloud Settings</source>
+        <target>Open Junecloud Settings</target>
+        <note>Button to open a view with Junecloud sync settings</note>
+      </trans-unit>
+      <trans-unit id="Setting.JunecloudSync.Register.Message" xml:space="preserve">
+        <source>Create a new Junecloud account.</source>
+        <target>Create a new Junecloud account.</target>
+        <note>Message shown above a form to create a new Junecloud account</note>
+      </trans-unit>
+      <trans-unit id="Setting.JunecloudSync.SignIn.Message" xml:space="preserve">
+        <source>Sign in to your Junecloud account.</source>
+        <target>Sign in to your Junecloud account.</target>
+        <note>Message shown above a form to sign in to a Junecloud account</note>
+      </trans-unit>
+      <trans-unit id="Setting.JunecloudSync.Title" xml:space="preserve">
+        <source>Junecloud Sync</source>
+        <target>Junecloud同期サービス</target>
+        <note>Title for a view used to sign in to Junecloud Sync</note>
+      </trans-unit>
+      <trans-unit id="Setting.KeyboardShortcuts.Title" xml:space="preserve">
+        <source>Shortcuts</source>
+        <target>ショートカット</target>
+        <note>Title for the keyboard shortcuts settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.Label.Format" xml:space="preserve">
+        <source>%@:</source>
+        <target>%@：</target>
+        <note>A format used (usually on macOS) when a separator, like a colon (:) should appear after a setting label. '{setting label}:', for example 'Sort By:' or 'Sync:'</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Enable.Label" xml:space="preserve">
+        <source>Enable logging</source>
+        <target>Enable logging</target>
+        <note>Label for a setting to enable logging</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Message.iOS" xml:space="preserve">
+        <source>If something isn't working right, turn on logs and recreate the problem. Then return here, tap Share Logs, then “Send to Junecloud”.</source>
+        <target>If something isn't working right, turn on logs and recreate the problem. Then return here, tap Share Logs, then “Send to Junecloud”.</target>
+        <note>Message explaining when debug logs might be useful and how to share them, used on iOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Message.macOS" xml:space="preserve">
+        <source>If something isn't working right, turn on logs and recreate the problem. Then return here, click Show Logs, and send the files to us.</source>
+        <target>If something isn't working right, turn on logs and recreate the problem. Then return here, click Show Logs, and send the files to us.</target>
+        <note>Message explaining when debug logs might be useful and how to share them, used on macOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Share.Button" xml:space="preserve">
+        <source>Share Logs</source>
+        <target>Share Logs</target>
+        <note>Button to share log files</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Show.Button" xml:space="preserve">
+        <source>Show Logs</source>
+        <target>Show Logs</target>
+        <note>Button to reveal log files in a file browser</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Title" xml:space="preserve">
+        <source>Logs</source>
+        <target>ログ</target>
+        <note>Title for debug log settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Unavailable.Message" xml:space="preserve">
+        <source>Currently there aren’t any logs to send. Make sure logs are enabled, use the app to recreate your problem, and then try again later.</source>
+        <target>Currently there aren’t any logs to send. Make sure logs are enabled, use the app to recreate your problem, and then try again later.</target>
+        <note>Message for an alert explaining that no log files have been created yet</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Unavailable.Title" xml:space="preserve">
+        <source>Logs are not available yet</source>
+        <target>Logs are not available yet</target>
+        <note>Title for an alert explaining that no log files have been created yet</note>
+      </trans-unit>
+      <trans-unit id="Setting.ManageAccount.Button" xml:space="preserve">
+        <source>Manage Your Account</source>
+        <target>Manage Your Account</target>
+        <note>Button to open a view for managing account settings</note>
+      </trans-unit>
+      <trans-unit id="Setting.ManageData.Button" xml:space="preserve">
+        <source>Manage Your Data</source>
+        <target>Manage Your Data</target>
+        <note>Button to open a view or web page where user data can be managed</note>
+      </trans-unit>
+      <trans-unit id="Setting.ManageData.Delete.Header" xml:space="preserve">
+        <source>Delete</source>
+        <target>削除</target>
+        <note>Heading for a group of settings and buttons related to deleting user data</note>
+      </trans-unit>
+      <trans-unit id="Setting.ManageData.Export.Header" xml:space="preserve">
+        <source>Export</source>
+        <target>書き出す</target>
+        <note>Heading for a group of settings and buttons related to exporting or saving user data</note>
+      </trans-unit>
+      <trans-unit id="Setting.ManageData.Footer" xml:space="preserve">
+        <source>To manage data synced with iCloud or Junecloud, go to the Sync section of Settings.</source>
+        <target>To manage data synced with iCloud or Junecloud, go to the Sync section of Settings.</target>
+        <note>Footer text for the Manage Your Data view, explaining that data related to sync services can be managed in the Sync section</note>
+      </trans-unit>
+      <trans-unit id="Setting.ManageData.Title" xml:space="preserve">
+        <source>Manage Your Data</source>
+        <target>Manage Your Data</target>
+        <note>Title for a view for managing user data, like deleting or exporting all previously saved items</note>
+      </trans-unit>
+      <trans-unit id="Setting.MissingOne.Error" xml:space="preserve">
+        <source>%@ is required.</source>
+        <target>%@は、必要</target>
+        <note>Error message when a required setting is not filled in: {setting name} is required</note>
+      </trans-unit>
+      <trans-unit id="Setting.MissingThree.Error" xml:space="preserve">
+        <source>%@, %@, and %@ are required.</source>
+        <target>%@と、%@と、%@も必要</target>
+        <note>Error message when three required settings are not filled in: {setting name}, {setting name}, and {setting name} are required</note>
+      </trans-unit>
+      <trans-unit id="Setting.MissingTwo.Error" xml:space="preserve">
+        <source>%@ and %@ are required.</source>
+        <target>%@と、%@も必要</target>
+        <note>Error message when two required settings are not filled in: {setting name} and {setting name} are required</note>
+      </trans-unit>
+      <trans-unit id="Setting.Name.Label" xml:space="preserve">
+        <source>Name</source>
+        <target>名前</target>
+        <note>Short label for a field to enter a person's name</note>
+      </trans-unit>
+      <trans-unit id="Setting.None" xml:space="preserve">
+        <source>None</source>
+        <target>なし</target>
+        <note>Setting is set to none, no selection</note>
+      </trans-unit>
+      <trans-unit id="Setting.Off" xml:space="preserve">
+        <source>Off</source>
+        <target>オフ</target>
+        <note>Setting state is off</note>
+      </trans-unit>
+      <trans-unit id="Setting.On" xml:space="preserve">
+        <source>On</source>
+        <target>オン</target>
+        <note>Setting state is on</note>
+      </trans-unit>
+      <trans-unit id="Setting.OnePassword.Button" xml:space="preserve">
+        <source>Look Up in 1Password</source>
+        <target>1Passwordで見る</target>
+        <note>Button to look up a password in the app 1Password</note>
+      </trans-unit>
+      <trans-unit id="Setting.Optional" xml:space="preserve">
+        <source>Optional</source>
+        <target>任意</target>
+        <note>Message indicating the setting is optional, not required</note>
+      </trans-unit>
+      <trans-unit id="Setting.Password.Label" xml:space="preserve">
+        <source>Password</source>
+        <target>パスワード</target>
+        <note>Short label for a password input field</note>
+      </trans-unit>
+      <trans-unit id="Setting.PasswordMismatch.Error" xml:space="preserve">
+        <source>Both password fields must match.</source>
+        <target>パスワード欄は、一致する必要があります。</target>
+        <note>Error message shown while creating an account when the two password fields do not match</note>
+      </trans-unit>
+      <trans-unit id="Setting.Preferences.Title" xml:space="preserve">
+        <source>Preferences</source>
+        <target>Preferences</target>
+        <note>Title for the preferences window on macOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.ResetPassword.Button" xml:space="preserve">
+        <source>Reset Your Password</source>
+        <target>パスワードリセット</target>
+        <note>Button to reset a password</note>
+      </trans-unit>
+      <trans-unit id="Setting.Restore.Message" xml:space="preserve">
+        <source>Confirm your settings to continue.</source>
+        <target>Confirm your settings to continue.</target>
+        <note>Message for a view where previously used settings can be restored</note>
+      </trans-unit>
+      <trans-unit id="Setting.Restore.Title" xml:space="preserve">
+        <source>Restore Settings</source>
+        <target>Restore Settings</target>
+        <note>Title for a view where previously used settings can be restored</note>
+      </trans-unit>
+      <trans-unit id="Setting.SendToJunecloud.Button" xml:space="preserve">
+        <source>Send to Junecloud</source>
+        <target>Send to Junecloud</target>
+        <note>Button to send data to Junecloud</note>
+      </trans-unit>
+      <trans-unit id="Setting.SendToJunecloud.Error.Title" xml:space="preserve">
+        <source>Unable to send mail</source>
+        <target>Unable to send mail</target>
+        <note>Title for an alert shown when an email message could not be sent</note>
+      </trans-unit>
+      <trans-unit id="Setting.SendToJunecloud.Unavailable" xml:space="preserve">
+        <source>To send email, open the Mail app and set up an account first.</source>
+        <target>To send email, open the Mail app and set up an account first.</target>
+        <note>Error message explaining that a Mail account must be set up before email messages can be sent</note>
+      </trans-unit>
+      <trans-unit id="Setting.Settings.Title" xml:space="preserve">
+        <source>Settings</source>
+        <target>設定</target>
+        <note>Title for the main settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.SignIn.Button" xml:space="preserve">
+        <source>Sign In</source>
+        <target>サインイン</target>
+        <note>Button to sign in to an account</note>
+      </trans-unit>
+      <trans-unit id="Setting.SignedIn.Message.Format" xml:space="preserve">
+        <source>Signed in as %@</source>
+        <target>%@でサインインされています。</target>
+        <note>Message showing the account that is currently signing in: Signed in as {email address}, for example 'Signed in as mike@example.com'</note>
+      </trans-unit>
+      <trans-unit id="Setting.SiriShortcuts.Suggested.Header" xml:space="preserve">
+        <source>Suggested Shortcuts</source>
+        <target>ショートカット候補</target>
+        <note>Heading for a list of suggested Siri Shortcuts that can be added</note>
+      </trans-unit>
+      <trans-unit id="Setting.SiriShortcuts.Title" xml:space="preserve">
+        <source>Siri Shortcuts</source>
+        <target>Siri ショートカット</target>
+        <note>Title for the Siri Shortcuts settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.SiriShortcuts.Yours.Header" xml:space="preserve">
+        <source>Your Shortcuts</source>
+        <target>Your Shortcuts</target>
+        <note>Heading for a list of Siri Shortcuts that the user has set up for their own use</note>
+      </trans-unit>
+      <trans-unit id="Setting.Subscription.Error" xml:space="preserve">
+        <source>This feature requires a subscription.</source>
+        <target>This feature requires a subscription.</target>
+        <note>Error message shown when a feature requires a subscription and there is no active subscription</note>
+      </trans-unit>
+      <trans-unit id="Setting.Sync.Title" xml:space="preserve">
+        <source>Sync</source>
+        <target>同期</target>
+        <note>Title for sync settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.Terms.Agree.Button" xml:space="preserve">
+        <source>I Agree</source>
+        <target>同意</target>
+        <note>Button used to agree to the Terms of Service</note>
+      </trans-unit>
+      <trans-unit id="Setting.Terms.Title" xml:space="preserve">
+        <source>Terms of Service</source>
+        <target>使用許諾契約</target>
+        <note>Title for a Terms of Service page, a list of conditions the user must agree to before continuing</note>
+      </trans-unit>
+      <trans-unit id="Setting.Unknown" xml:space="preserve">
+        <source>⋯</source>
+        <target>⋯</target>
+        <note>Setting state is unknown or loading</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="BetaAccess.Active" xml:space="preserve">
+        <source>Beta Access Active</source>
+        <target>Beta Access Active</target>
+        <note>Short message indicating that beta subscription access is currently active</note>
+      </trans-unit>
+      <trans-unit id="BetaAccess.Expired" xml:space="preserve">
+        <source>Beta Access Expired</source>
+        <target>Beta Access Expired</target>
+        <note>Short message indicating that beta subscription access has expired</note>
+      </trans-unit>
+      <trans-unit id="Discount.Format" xml:space="preserve">
+        <source>Save %@ with a yearly subscription.</source>
+        <target>Save %@ with a yearly subscription.</target>
+        <note>Explanation of how much a yearly subscription saves compared to a monthly subscription: Save {percentage} with a yearly subscription.</note>
+      </trans-unit>
+      <trans-unit id="Expired.Message" xml:space="preserve">
+        <source>Your %@ expired %@.</source>
+        <target>Your %@ expired %@.</target>
+        <note>Subscription status: Your {subscription name} expired {date}</note>
+      </trans-unit>
+      <trans-unit id="Expires.Message" xml:space="preserve">
+        <source>Expires on %@</source>
+        <target>Expires on %@</target>
+        <note>Subscription status: Expires on {date}</note>
+      </trans-unit>
+      <trans-unit id="LearnMore.Alternate.Button" xml:space="preserve">
+        <source>Learn More About Subscriptions</source>
+        <target>Learn More About Subscriptions</target>
+        <note>Button to open a view with additional information about subscriptions</note>
+      </trans-unit>
+      <trans-unit id="LearnMore.Button" xml:space="preserve">
+        <source>Learn More</source>
+        <target>Learn More</target>
+        <note>Button to open a view with additional information about subscriptions</note>
+      </trans-unit>
+      <trans-unit id="Manage.Button" xml:space="preserve">
+        <source>Manage Subscription</source>
+        <target>Manage Subscription</target>
+        <note>Button to open a view in the App Store where subscriptions can be changed or canceled</note>
+      </trans-unit>
+      <trans-unit id="MissingReceipt.Message" xml:space="preserve">
+        <source>Your purchase could not be verified. Install the latest version from the Mac App Store and open it at least once to make your receipt available.</source>
+        <target>Your purchase could not be verified. Install the latest version from the Mac App Store and open it at least once to make your receipt available.</target>
+        <note>Missing receipt message</note>
+      </trans-unit>
+      <trans-unit id="MissingReceipt.Title" xml:space="preserve">
+        <source>Missing Receipt</source>
+        <target>Missing Receipt</target>
+        <note>Missing receipt title</note>
+      </trans-unit>
+      <trans-unit id="Period.PerMonth" xml:space="preserve">
+        <source> / month</source>
+        <target> / month</target>
+        <note>Indicator of how often a subscription renews. Appears after a price, for example '$0.99 / month'</note>
+      </trans-unit>
+      <trans-unit id="Period.PerYear" xml:space="preserve">
+        <source> / year</source>
+        <target> / year</target>
+        <note>Indicator of how often a subscription renews. Appears after a price, for example '$3.99 / year'</note>
+      </trans-unit>
+      <trans-unit id="Renews.Message" xml:space="preserve">
+        <source>Renews on %@</source>
+        <target>Renews on %@</target>
+        <note>Subscription status: Renews on {date}</note>
+      </trans-unit>
+      <trans-unit id="Restore.Button" xml:space="preserve">
+        <source>Restore Purchases</source>
+        <target>Restore Purchases</target>
+        <note>Button to restore any previous purchases made for this app</note>
+      </trans-unit>
+      <trans-unit id="Restore.Failed.Message" xml:space="preserve">
+        <source>No active subscription was found for your Apple ID.</source>
+        <target>No active subscription was found for your Apple ID.</target>
+        <note>Restore purchases failed message</note>
+      </trans-unit>
+      <trans-unit id="Restore.Failed.Title" xml:space="preserve">
+        <source>No Subscription Found</source>
+        <target>No Subscription Found</target>
+        <note>Restore purchases failed title</note>
+      </trans-unit>
+      <trans-unit id="State.Active" xml:space="preserve">
+        <source>Active</source>
+        <target>アーカイブ</target>
+        <note>Subscription state: active</note>
+      </trans-unit>
+      <trans-unit id="State.Busy" xml:space="preserve">
+        <source>⋯</source>
+        <target>⋯</target>
+        <note>Subscription state: busy, currently unknown</note>
+      </trans-unit>
+      <trans-unit id="State.Expired" xml:space="preserve">
+        <source>Expired</source>
+        <target>Expired</target>
+        <note>Subscription state: expired, no longer available</note>
+      </trans-unit>
+      <trans-unit id="State.Legacy" xml:space="preserve">
+        <source>Legacy</source>
+        <target>Legacy</target>
+        <note>Subscription state: legacy, the app was purchased before subscriptions</note>
+      </trans-unit>
+      <trans-unit id="State.None" xml:space="preserve">
+        <source>None</source>
+        <target>なし</target>
+        <note>Subscription state: none, no subscription</note>
+      </trans-unit>
+      <trans-unit id="State.Pending" xml:space="preserve">
+        <source>Pending</source>
+        <target>Pending</target>
+        <note>Subscription state: pending, recently purchased but not finalized</note>
+      </trans-unit>
+      <trans-unit id="Subscribe.Button" xml:space="preserve">
+        <source>Subscribe</source>
+        <target>Subscribe</target>
+        <note>Button to open the subscription view to purchase a subscription</note>
+      </trans-unit>
+      <trans-unit id="Subscribe.Message.Separator" xml:space="preserve">
+        <source> </source>
+        <target> </target>
+        <note>A character that appears between two sentences, for example a space. This may be used to combine Expired.Message, Subscribe.Message.Legacy, and Subscribe.Message.</note>
+      </trans-unit>
+      <trans-unit id="Subscribed.Title" xml:space="preserve">
+        <source>Subscribed</source>
+        <target>Subscribed</target>
+        <note>Title for the subscription view when a subscription is active</note>
+      </trans-unit>
+      <trans-unit id="Title" xml:space="preserve">
+        <source>Subscription</source>
+        <target>Subscription</target>
+        <note>Title for the subscription view</note>
+      </trans-unit>
+      <trans-unit id="Transaction.Failed.Message" xml:space="preserve">
+        <source>Your transaction could not be completed.</source>
+        <target>Your transaction could not be completed.</target>
+        <note>Transaction failed message</note>
+      </trans-unit>
+      <trans-unit id="Transaction.Failed.Title" xml:space="preserve">
+        <source>Transaction Failed</source>
+        <target>Transaction Failed</target>
+        <note>Transaction failed title</note>
+      </trans-unit>
+      <trans-unit id="TryAgain.Button" xml:space="preserve">
+        <source>Try Again</source>
+        <target>Try Again</target>
+        <note>Button to try again when there's an error</note>
+      </trans-unit>
+      <trans-unit id="Unavailable.Internet.Message" xml:space="preserve">
+        <source>App Store purchases are not available. Make sure you have a working internet connection, or try again later.</source>
+        <target>App Store purchases are not available. Make sure you have a working internet connection, or try again later.</target>
+        <note>Subscriptions unavailable message, possibly due to internet connection</note>
+      </trans-unit>
+      <trans-unit id="Unavailable.Message" xml:space="preserve">
+        <source>App Store purchases are not available.</source>
+        <target>App Store purchases are not available.</target>
+        <note>Subscriptions unavailable message</note>
+      </trans-unit>
+      <trans-unit id="Unavailable.Title" xml:space="preserve">
+        <source>Subscriptions Unavailable</source>
+        <target>Subscriptions Unavailable</target>
+        <note>Subscriptions unavailable title</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Update.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Update.Busy" xml:space="preserve">
+        <source>Updating…</source>
+        <target>更新中・・・</target>
+        <note>Short string indicating an update is in progress</note>
+      </trans-unit>
+      <trans-unit id="Update.Busy.CloudKit" xml:space="preserve">
+        <source>Syncing with iCloud…</source>
+        <target>iCloudと同期中・・・</target>
+        <note>Short message indicating syncing with iCloud is in progress</note>
+      </trans-unit>
+      <trans-unit id="Update.Busy.Junecloud" xml:space="preserve">
+        <source>Syncing with Junecloud…</source>
+        <target>Junecloudと同期中・・・</target>
+        <note>Short message indicating syncing with Junecloud is in progress</note>
+      </trans-unit>
+      <trans-unit id="Update.Busy.Phone" xml:space="preserve">
+        <source>Syncing with iPhone…</source>
+        <target>Syncing with iPhone…</target>
+        <note>Short message indicating syncing with iPhone is in progress</note>
+      </trans-unit>
+      <trans-unit id="Update.Busy.Watch" xml:space="preserve">
+        <source>Syncing with Watch…</source>
+        <target>Syncing with Watch…</target>
+        <note>Short message indicating syncing with Apple Watch is in progress</note>
+      </trans-unit>
+      <trans-unit id="Update.Error.Confirm.Format" xml:space="preserve">
+        <source>A message has been sent to %@ to confirm your address. Check your email and follow the instructions to activate your Junecloud Sync account.</source>
+        <target>A message has been sent to %@ to confirm your address. Check your email and follow the instructions to activate your Junecloud Sync account.</target>
+        <note>Message indicating an email has been sent with instructions for confirming a Junecloud sync account. %@ will be replaced with the email address</note>
+      </trans-unit>
+      <trans-unit id="Update.Error.Connection" xml:space="preserve">
+        <source>Couldn’t connect</source>
+        <target>接続できません</target>
+        <note>Short message explaining the last update failed, due to an internet connection error</note>
+      </trans-unit>
+      <trans-unit id="Update.Error.Subscription" xml:space="preserve">
+        <source>Subscription required</source>
+        <target>Subscription required</target>
+        <note>Short message explaining that a subscription is required</note>
+      </trans-unit>
+      <trans-unit id="Update.Preparing" xml:space="preserve">
+        <source>One moment…</source>
+        <target>しばらくお待ちください。</target>
+        <note>Short message indicating loading is in progress</note>
+      </trans-unit>
+      <trans-unit id="Update.Unavailable.CloudKit" xml:space="preserve">
+        <source>iCloud is unavailable</source>
+        <target>iCloudは使用できません</target>
+        <note>Short message indicating iCloud is unavailable</note>
+      </trans-unit>
+      <trans-unit id="Update.Updated.Format" xml:space="preserve">
+        <source>Updated %@</source>
+        <target>更新：%@</target>
+        <note>Short message explaining when the last update was. 'Updated {date}', for example 'Updated a moment ago' or 'Updated 3 minutes ago'</note>
+      </trans-unit>
+      <trans-unit id="Update.Updated.Never" xml:space="preserve">
+        <source>Never updated</source>
+        <target>未更新</target>
+        <note>Short message explaining the data has never been updated</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Web.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Web.Action.OpenInSafari" xml:space="preserve">
+        <source>Open in Safari</source>
+        <target>サファリで開く</target>
+        <note>Action to open the current web page in Safari</note>
+      </trans-unit>
+      <trans-unit id="Web.Error.Connection" xml:space="preserve">
+        <source>Couldn’t Connect</source>
+        <target>接続できません</target>
+        <note>Title for an error when a web page failed to load</note>
+      </trans-unit>
+      <trans-unit id="Web.Loading" xml:space="preserve">
+        <source>Updating…</source>
+        <target>更新中・・・</target>
+        <note>Short message indicating that a web page is loading</note>
+      </trans-unit>
+      <trans-unit id="Web.SavePassword.Button" xml:space="preserve">
+        <source>Save Password</source>
+        <target>パスワードを保存</target>
+        <note>Button used to save a password entered on a web page</note>
+      </trans-unit>
+      <trans-unit id="Web.SavePassword.Message" xml:space="preserve">
+        <source>Passwords are saved securely in the keychain.</source>
+        <target>キーチェーンにパスワードを安全に保存します。</target>
+        <note>Message for an alert explaining that if a password is saved, it will be saved securely in the keychain</note>
+      </trans-unit>
+      <trans-unit id="Web.SavePassword.Title" xml:space="preserve">
+        <source>Would you like to save this password?</source>
+        <target>このパスワードを保存しますか?</target>
+        <note>Title for an alert asking whether to save a password</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>JunecloudKit</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

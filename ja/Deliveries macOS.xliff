@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Deliveries Add/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Add to Deliveries</source>
+        <target>デリバリーズに追加</target>
+        <note>The name of the Share extension</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>Deliveries Add</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries Express/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Deliveries Express</source>
+        <target>デリバリーズ エクスプレス</target>
+        <note>The name of the background app</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Deliveries Express</source>
+        <target>デリバリーズ エクスプレス</target>
+        <note>The name of the background app</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
+        <source>Deliveries needs your permission to add estimated delivery dates to your calendar.</source>
+        <target>デリバリーズは カレンダーをに予定を追加するための許可が必要です。</target>
+        <note>Calendars usage description</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries Native Messenger/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>Deliveries Native Messenger</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries Quick Look Plug-In/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>Deliveries Quick Look Plug-In</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries Quick Look/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
+        <source>Deliveries Quick Look</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>Deliveries Quick Look</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries Spotlight Plug-In/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>Deliveries Spotlight Plug-In</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="Deliveries document" xml:space="preserve">
+        <source>Deliveries document</source>
+        <target>デリバリーズの書類</target>
+        <note>File type for .deliveries files</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries Spotlight/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
+        <source>Deliveries Spotlight</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>Deliveries Spotlight</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries Today/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>デリバリーズ</target>
+        <note>The name of the Today widget</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>Deliveries</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+      <trans-unit id="com.apple.notificationcenter.widget.description" xml:space="preserve">
+        <source>Quick access to all your deliveries.</source>
+        <target>Quick access to all your deliveries.</target>
+        <note>Description of the Today widget</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries/Base.lproj/Deliveries.storyboard" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="EDv-Ru-j9Z.label" xml:space="preserve">
+        <source>More</source>
+        <target>さらに見る</target>
+        <note>Class = "NSToolbarItem"; label = "More"; ObjectID = "EDv-Ru-j9Z";</note>
+      </trans-unit>
+      <trans-unit id="EDv-Ru-j9Z.paletteLabel" xml:space="preserve">
+        <source>More</source>
+        <target>さらに見る</target>
+        <note>Class = "NSToolbarItem"; paletteLabel = "More"; ObjectID = "EDv-Ru-j9Z";</note>
+      </trans-unit>
+      <trans-unit id="HJ2-yE-Ajm.label" xml:space="preserve">
+        <source>Add</source>
+        <target>追加</target>
+        <note>Class = "NSToolbarItem"; label = "Add"; ObjectID = "HJ2-yE-Ajm";</note>
+      </trans-unit>
+      <trans-unit id="HJ2-yE-Ajm.paletteLabel" xml:space="preserve">
+        <source>Add</source>
+        <target>追加</target>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Add"; ObjectID = "HJ2-yE-Ajm";</note>
+      </trans-unit>
+      <trans-unit id="HQT-c7-Hch.title" xml:space="preserve" translate="no">
+        <source>Text Cell</source>
+        <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HQT-c7-Hch"; Note = "no-translate";</note>
+      </trans-unit>
+      <trans-unit id="Mb2-v6-5Z1.label" xml:space="preserve">
+        <source>Search</source>
+        <target>検索</target>
+        <note>Class = "NSToolbarItem"; label = "Search"; ObjectID = "Mb2-v6-5Z1";</note>
+      </trans-unit>
+      <trans-unit id="Mb2-v6-5Z1.paletteLabel" xml:space="preserve">
+        <source>Search</source>
+        <target>検索</target>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "Mb2-v6-5Z1";</note>
+      </trans-unit>
+      <trans-unit id="dgi-55-2Yb.title" xml:space="preserve" translate="no">
+        <source>You do not have any deliveries</source>
+        <note>Class = "NSTextFieldCell"; title = "You do not have any deliveries"; ObjectID = "dgi-55-2Yb"; Note = "no-translate";</note>
+      </trans-unit>
+      <trans-unit id="hSg-w4-Avf.paletteLabel" xml:space="preserve" translate="no">
+        <source>Custom Space</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Custom Space"; ObjectID = "hSg-w4-Avf"; Note = "no-translate";</note>
+      </trans-unit>
+      <trans-unit id="ycQ-DP-4Yx.title" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>デリバリーズ</target>
+        <note>Class = "NSWindow"; title = "Deliveries"; ObjectID = "ycQ-DP-4Yx";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries/Base.lproj/JUNGeneralPreferencesView.xib" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="7fS-gY-9JB.title" xml:space="preserve">
+        <source>Manually</source>
+        <target>手動</target>
+        <note>Class = "NSMenuItem"; title = "Manually"; ObjectID = "7fS-gY-9JB";</note>
+      </trans-unit>
+      <trans-unit id="15a-ks-aM1.title" xml:space="preserve">
+        <source>After 6 months</source>
+        <target>半年後に削除</target>
+        <note>Class = "NSMenuItem"; title = "After 6 months"; ObjectID = "15a-ks-aM1";</note>
+      </trans-unit>
+      <trans-unit id="924.title" xml:space="preserve">
+        <source>Update in the background</source>
+        <target>アップデートを自動的に確認</target>
+        <note>Class = "NSButtonCell"; title = "Update in the background"; ObjectID = "924";</note>
+      </trans-unit>
+      <trans-unit id="Gec-ce-Cqv.title" xml:space="preserve">
+        <source>Manually</source>
+        <target>手動</target>
+        <note>Class = "NSMenuItem"; title = "Manually"; ObjectID = "Gec-ce-Cqv";</note>
+      </trans-unit>
+      <trans-unit id="PEx-Jj-Uz9.title" xml:space="preserve">
+        <source>After a year</source>
+        <target>1年後に削除</target>
+        <note>Class = "NSMenuItem"; title = "After a year"; ObjectID = "PEx-Jj-Uz9";</note>
+      </trans-unit>
+      <trans-unit id="Rhf-f3-od5.title" xml:space="preserve" translate="no">
+        <source> </source>
+        <note>Class = "NSMenuItem"; title = " "; ObjectID = "Rhf-f3-od5"; Note = "no-translate";</note>
+      </trans-unit>
+      <trans-unit id="Vbx-tf-MCi.title" xml:space="preserve">
+        <source>Delete archive:</source>
+        <target>アーカイブを空にする：</target>
+        <note>Class = "NSTextFieldCell"; title = "Delete archive:"; ObjectID = "Vbx-tf-MCi";</note>
+      </trans-unit>
+      <trans-unit id="W8y-0h-gEm.title" xml:space="preserve">
+        <source>After 90 days</source>
+        <target>90日後に削除</target>
+        <note>Class = "NSMenuItem"; title = "After 90 days"; ObjectID = "W8y-0h-gEm";</note>
+      </trans-unit>
+      <trans-unit id="bPy-We-i3G.title" xml:space="preserve">
+        <source>Delivery Date</source>
+        <target>配送日順</target>
+        <note>Class = "NSMenuItem"; title = "Delivery Date"; ObjectID = "bPy-We-i3G";</note>
+      </trans-unit>
+      <trans-unit id="cQR-1L-2Ec.title" xml:space="preserve">
+        <source>Last Changed</source>
+        <target>更新日順</target>
+        <note>Class = "NSMenuItem"; title = "Last Changed"; ObjectID = "cQR-1L-2Ec";</note>
+      </trans-unit>
+      <trans-unit id="dmY-cX-77v.title" xml:space="preserve">
+        <source>Add to calendar:</source>
+        <target>カレンダーに追加：</target>
+        <note>Class = "NSTextFieldCell"; title = "Add to calendar:"; ObjectID = "dmY-cX-77v";</note>
+      </trans-unit>
+      <trans-unit id="lRM-KV-eBu.title" xml:space="preserve">
+        <source>Delete now…</source>
+        <target>全てをクリア...</target>
+        <note>Class = "NSMenuItem"; title = "Delete now…"; ObjectID = "lRM-KV-eBu";</note>
+      </trans-unit>
+      <trans-unit id="llO-BB-Yqz.title" xml:space="preserve">
+        <source>Show Deliveries in the menu bar</source>
+        <target>メニューバーにアイコンを表示</target>
+        <note>Class = "NSButtonCell"; title = "Show Deliveries in the menu bar"; ObjectID = "llO-BB-Yqz";</note>
+      </trans-unit>
+      <trans-unit id="mL8-nW-0Il.title" xml:space="preserve">
+        <source>When enabled, Deliveries Express will update and show notifications even if you quit the app.</source>
+        <target>チェックボックスを有効にするとデリバリーズを終了していてもアップデートが通知されます。</target>
+        <note>Class = "NSTextFieldCell"; title = "When enabled, Deliveries Express will update and show notifications even if you quit the app."; ObjectID = "mL8-nW-0Il";</note>
+      </trans-unit>
+      <trans-unit id="xrG-6R-7zh.title" xml:space="preserve">
+        <source>Sort by:</source>
+        <target>並び順：</target>
+        <note>Class = "NSTextFieldCell"; title = "Sort by:"; ObjectID = "xrG-6R-7zh";</note>
+      </trans-unit>
+      <trans-unit id="zUf-Uj-B3X.title" xml:space="preserve">
+        <source>Open System Preferences</source>
+        <target>Open System Preferences</target>
+        <note>Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "zUf-Uj-B3X";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries/Base.lproj/JUNOnlineSignInWindow.xib" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="2nJ-Dm-GVs.label" xml:space="preserve" translate="no">
+        <source>1Password</source>
+        <note>Class = "NSToolbarItem"; label = "1Password"; ObjectID = "2nJ-Dm-GVs"; Note = "no-translate";</note>
+      </trans-unit>
+      <trans-unit id="2nJ-Dm-GVs.paletteLabel" xml:space="preserve" translate="no">
+        <source>1Password</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "1Password"; ObjectID = "2nJ-Dm-GVs"; Note = "no-translate";</note>
+      </trans-unit>
+      <trans-unit id="Uhd-un-vQG.title" xml:space="preserve">
+        <source>Done</source>
+        <target>完了</target>
+        <note>Class = "NSButtonCell"; title = "Done"; ObjectID = "Uhd-un-vQG";</note>
+      </trans-unit>
+      <trans-unit id="XcD-zY-z5D.label" xml:space="preserve">
+        <source>Title</source>
+        <note>Class = "NSToolbarItem"; label = "Title"; ObjectID = "XcD-zY-z5D";</note>
+      </trans-unit>
+      <trans-unit id="XcD-zY-z5D.paletteLabel" xml:space="preserve">
+        <source>Title</source>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Title"; ObjectID = "XcD-zY-z5D";</note>
+      </trans-unit>
+      <trans-unit id="wmm-GX-VTi.label" xml:space="preserve">
+        <source>Done</source>
+        <target>完了</target>
+        <note>Class = "NSToolbarItem"; label = "Done"; ObjectID = "wmm-GX-VTi";</note>
+      </trans-unit>
+      <trans-unit id="wmm-GX-VTi.paletteLabel" xml:space="preserve">
+        <source>Done</source>
+        <target>完了</target>
+        <note>Class = "NSToolbarItem"; paletteLabel = "Done"; ObjectID = "wmm-GX-VTi";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries/Base.lproj/JUNShortcutsPreferencesView.xib" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="8SE-IZ-2pS.title" xml:space="preserve">
+        <source>Show deliveries:</source>
+        <target>デリバリーズを表示：</target>
+        <note>Class = "NSTextFieldCell"; title = "Show deliveries:"; ObjectID = "8SE-IZ-2pS";</note>
+      </trans-unit>
+      <trans-unit id="Ih1-0M-Rvo.title" xml:space="preserve">
+        <source>New delivery:</source>
+        <target>新しい配達：</target>
+        <note>Class = "NSTextFieldCell"; title = "New delivery:"; ObjectID = "Ih1-0M-Rvo";</note>
+      </trans-unit>
+      <trans-unit id="mrc-m4-KfG.title" xml:space="preserve" translate="no">
+        <source>This is an error.</source>
+        <note>Class = "NSTextFieldCell"; title = "This is an error."; ObjectID = "mrc-m4-KfG"; Note = "no-translate";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries/Base.lproj/MainMenu.xib" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="1Xt-HY-uBw.title" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>デリバリーズ</target>
+        <note>Class = "NSMenuItem"; title = "Deliveries"; ObjectID = "1Xt-HY-uBw";</note>
+      </trans-unit>
+      <trans-unit id="2oI-Rn-ZJC.title" xml:space="preserve">
+        <source>Transformations</source>
+        <target>変換</target>
+        <note>Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC";</note>
+      </trans-unit>
+      <trans-unit id="3IN-sU-3Bg.title" xml:space="preserve">
+        <source>Spelling</source>
+        <target>スペル</target>
+        <note>Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg";</note>
+      </trans-unit>
+      <trans-unit id="3rS-ZA-NoH.title" xml:space="preserve">
+        <source>Speech</source>
+        <target>スピーチ</target>
+        <note>Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH";</note>
+      </trans-unit>
+      <trans-unit id="4sb-4s-VLi.title" xml:space="preserve">
+        <source>Quit Deliveries</source>
+        <target>デリバリーズを終了</target>
+        <note>Class = "NSMenuItem"; title = "Quit Deliveries"; ObjectID = "4sb-4s-VLi";</note>
+      </trans-unit>
+      <trans-unit id="5QF-Oa-p0T.title" xml:space="preserve">
+        <source>Edit</source>
+        <target>編集</target>
+        <note>Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T";</note>
+      </trans-unit>
+      <trans-unit id="5kV-Vb-QxS.title" xml:space="preserve">
+        <source>About Deliveries</source>
+        <target>デリバリーズについて</target>
+        <note>Class = "NSMenuItem"; title = "About Deliveries"; ObjectID = "5kV-Vb-QxS";</note>
+      </trans-unit>
+      <trans-unit id="6dh-zS-Vam.title" xml:space="preserve">
+        <source>Redo</source>
+        <target>やり直す</target>
+        <note>Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam";</note>
+      </trans-unit>
+      <trans-unit id="9ic-FL-obx.title" xml:space="preserve">
+        <source>Substitutions</source>
+        <target>自動置換</target>
+        <note>Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx";</note>
+      </trans-unit>
+      <trans-unit id="9yt-4B-nSM.title" xml:space="preserve">
+        <source>Smart Copy/Paste</source>
+        <target>スマートコピー／ペースト</target>
+        <note>Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM";</note>
+      </trans-unit>
+      <trans-unit id="78Y-hA-62v.title" xml:space="preserve">
+        <source>Correct Spelling Automatically</source>
+        <target>スペルを自動的に修正</target>
+        <note>Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v";</note>
+      </trans-unit>
+      <trans-unit id="AYu-sK-qS6.title" xml:space="preserve" translate="no">
+        <source>Main Menu</source>
+        <target>Main Menu</target>
+        <note>Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; Note = "no-translate";</note>
+      </trans-unit>
+      <trans-unit id="BOF-NM-1cW.title" xml:space="preserve">
+        <source>Preferences…</source>
+        <target>環境設定...</target>
+        <note>Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW";</note>
+      </trans-unit>
+      <trans-unit id="Dv1-io-Yv7.title" xml:space="preserve">
+        <source>Spelling and Grammar</source>
+        <target>スペルと文法</target>
+        <note>Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7";</note>
+      </trans-unit>
+      <trans-unit id="F2S-fz-NVQ.title" xml:space="preserve">
+        <source>Help</source>
+        <target>ヘルプ</target>
+        <note>Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ";</note>
+      </trans-unit>
+      <trans-unit id="FKE-Sm-Kum.title" xml:space="preserve">
+        <source>Deliveries Help</source>
+        <target>デリバリーズヘルプ</target>
+        <note>Class = "NSMenuItem"; title = "Deliveries Help"; ObjectID = "FKE-Sm-Kum";</note>
+      </trans-unit>
+      <trans-unit id="FeM-D8-WVr.title" xml:space="preserve">
+        <source>Substitutions</source>
+        <target>自動置換</target>
+        <note>Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr";</note>
+      </trans-unit>
+      <trans-unit id="H8h-7b-M4v.title" xml:space="preserve">
+        <source>View</source>
+        <target>表示</target>
+        <note>Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v";</note>
+      </trans-unit>
+      <trans-unit id="HFQ-gK-NFA.title" xml:space="preserve">
+        <source>Text Replacement</source>
+        <target>テキストの置換</target>
+        <note>Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA";</note>
+      </trans-unit>
+      <trans-unit id="HFo-cy-zxI.title" xml:space="preserve">
+        <source>Show Spelling and Grammar</source>
+        <target>スペルと文法を表示</target>
+        <note>Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI";</note>
+      </trans-unit>
+      <trans-unit id="HyV-fh-RgO.title" xml:space="preserve">
+        <source>View</source>
+        <target>表示</target>
+        <note>Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO";</note>
+      </trans-unit>
+      <trans-unit id="Kd2-mp-pUS.title" xml:space="preserve">
+        <source>Show All</source>
+        <target>すべてを表示</target>
+        <note>Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS";</note>
+      </trans-unit>
+      <trans-unit id="LE2-aR-0XJ.title" xml:space="preserve">
+        <source>Bring All to Front</source>
+        <target>すべてを手前に移動</target>
+        <note>Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ";</note>
+      </trans-unit>
+      <trans-unit id="NMo-om-nkz.title" xml:space="preserve">
+        <source>Services</source>
+        <target>サービス</target>
+        <note>Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz";</note>
+      </trans-unit>
+      <trans-unit id="OY7-WF-poV.title" xml:space="preserve">
+        <source>Minimize</source>
+        <target>しまう</target>
+        <note>Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV";</note>
+      </trans-unit>
+      <trans-unit id="Olw-nP-bQN.title" xml:space="preserve">
+        <source>Hide Deliveries</source>
+        <target>デリバリーズを隠す</target>
+        <note>Class = "NSMenuItem"; title = "Hide Deliveries"; ObjectID = "Olw-nP-bQN";</note>
+      </trans-unit>
+      <trans-unit id="Oyz-dy-DGm.title" xml:space="preserve">
+        <source>Stop Speaking</source>
+        <target>読み上げを停止</target>
+        <note>Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm";</note>
+      </trans-unit>
+      <trans-unit id="R4o-n2-Eq4.title" xml:space="preserve">
+        <source>Zoom</source>
+        <target>拡大／縮小</target>
+        <note>Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4";</note>
+      </trans-unit>
+      <trans-unit id="Ruw-6m-B2m.title" xml:space="preserve">
+        <source>Select All</source>
+        <target>すべてを選択</target>
+        <note>Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m";</note>
+      </trans-unit>
+      <trans-unit id="Td7-aD-5lo.title" xml:space="preserve">
+        <source>Window</source>
+        <target>ウインドウ</target>
+        <note>Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo";</note>
+      </trans-unit>
+      <trans-unit id="UEZ-Bs-lqG.title" xml:space="preserve">
+        <source>Capitalize</source>
+        <target>語頭を大文字にする</target>
+        <note>Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG";</note>
+      </trans-unit>
+      <trans-unit id="VU2-3i-thU.title" xml:space="preserve">
+        <source>Close</source>
+        <target>閉じる</target>
+        <note>Class = "NSMenuItem"; title = "Close"; ObjectID = "VU2-3i-thU";</note>
+      </trans-unit>
+      <trans-unit id="Vdr-fp-XzO.title" xml:space="preserve">
+        <source>Hide Others</source>
+        <target>ほかを隠す</target>
+        <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
+      </trans-unit>
+      <trans-unit id="W48-6f-4Dl.title" xml:space="preserve">
+        <source>Edit</source>
+        <target>編集</target>
+        <note>Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl";</note>
+      </trans-unit>
+      <trans-unit id="Xeb-Bh-lAG.title" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>デリバリーズ</target>
+        <note>Class = "NSMenuItem"; title = "Deliveries"; ObjectID = "Xeb-Bh-lAG";</note>
+      </trans-unit>
+      <trans-unit id="Ynk-f8-cLZ.title" xml:space="preserve">
+        <source>Start Speaking</source>
+        <target>読み上げを開始</target>
+        <note>Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ";</note>
+      </trans-unit>
+      <trans-unit id="aUF-d1-5bR.title" xml:space="preserve">
+        <source>Window</source>
+        <target>ウインドウ</target>
+        <note>Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR";</note>
+      </trans-unit>
+      <trans-unit id="bib-Uj-vzu.title" xml:space="preserve">
+        <source>File</source>
+        <target>ファイル</target>
+        <note>Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu";</note>
+      </trans-unit>
+      <trans-unit id="c8a-y6-VQd.title" xml:space="preserve">
+        <source>Transformations</source>
+        <target>変換</target>
+        <note>Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd";</note>
+      </trans-unit>
+      <trans-unit id="cwL-P1-jid.title" xml:space="preserve">
+        <source>Smart Links</source>
+        <target>スマートリンク</target>
+        <note>Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid";</note>
+      </trans-unit>
+      <trans-unit id="d9M-CD-aMd.title" xml:space="preserve">
+        <source>Make Lower Case</source>
+        <target>小文字にする</target>
+        <note>Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd";</note>
+      </trans-unit>
+      <trans-unit id="dMs-cI-mzQ.title" xml:space="preserve">
+        <source>File</source>
+        <target>ファイル</target>
+        <note>Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ";</note>
+      </trans-unit>
+      <trans-unit id="dRJ-4n-Yzg.title" xml:space="preserve">
+        <source>Undo</source>
+        <target>取り消す</target>
+        <note>Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg";</note>
+      </trans-unit>
+      <trans-unit id="e3t-6n-tVG.title" xml:space="preserve">
+        <source>Preferences…</source>
+        <target>環境設定...</target>
+        <note>Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "e3t-6n-tVG";</note>
+      </trans-unit>
+      <trans-unit id="gVA-U4-sdL.title" xml:space="preserve">
+        <source>Paste</source>
+        <target>ペースト</target>
+        <note>Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL";</note>
+      </trans-unit>
+      <trans-unit id="hQb-2v-fYv.title" xml:space="preserve">
+        <source>Smart Quotes</source>
+        <target>スマート引用符</target>
+        <note>Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv";</note>
+      </trans-unit>
+      <trans-unit id="hz2-CU-CR7.title" xml:space="preserve">
+        <source>Check Document Now</source>
+        <target>書類を今すぐチェック</target>
+        <note>Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7";</note>
+      </trans-unit>
+      <trans-unit id="hz9-B4-Xy5.title" xml:space="preserve">
+        <source>Services</source>
+        <target>サービス</target>
+        <note>Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5";</note>
+      </trans-unit>
+      <trans-unit id="mK6-2p-4JG.title" xml:space="preserve">
+        <source>Check Grammar With Spelling</source>
+        <target>スペルと一緒に文法をチェック</target>
+        <note>Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "mK6-2p-4JG";</note>
+      </trans-unit>
+      <trans-unit id="n2Q-TC-zd3.title" xml:space="preserve">
+        <source>Subscription…</source>
+        <target>Subscription…</target>
+        <note>Class = "NSMenuItem"; title = "Subscription…"; ObjectID = "n2Q-TC-zd3";</note>
+      </trans-unit>
+      <trans-unit id="pa3-QI-u2k.title" xml:space="preserve">
+        <source>Delete</source>
+        <target>削除</target>
+        <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k";</note>
+      </trans-unit>
+      <trans-unit id="rbD-Rh-wIN.title" xml:space="preserve">
+        <source>Check Spelling While Typing</source>
+        <target>入力中にスペルチェック</target>
+        <note>Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN";</note>
+      </trans-unit>
+      <trans-unit id="rgM-f4-ycn.title" xml:space="preserve">
+        <source>Smart Dashes</source>
+        <target>スマートダッシュ記号</target>
+        <note>Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn";</note>
+      </trans-unit>
+      <trans-unit id="tRr-pd-1PS.title" xml:space="preserve">
+        <source>Data Detectors</source>
+        <note>Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "tRr-pd-1PS";</note>
+      </trans-unit>
+      <trans-unit id="uQy-DD-JDr.title" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>デリバリーズ</target>
+        <note>Class = "NSMenu"; title = "Deliveries"; ObjectID = "uQy-DD-JDr";</note>
+      </trans-unit>
+      <trans-unit id="uRl-iY-unG.title" xml:space="preserve">
+        <source>Cut</source>
+        <target>カット</target>
+        <note>Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG";</note>
+      </trans-unit>
+      <trans-unit id="vmV-6d-7jI.title" xml:space="preserve">
+        <source>Make Upper Case</source>
+        <target>大文字にする</target>
+        <note>Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI";</note>
+      </trans-unit>
+      <trans-unit id="wpr-3q-Mcd.title" xml:space="preserve">
+        <source>Help</source>
+        <target>ヘルプ</target>
+        <note>Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd";</note>
+      </trans-unit>
+      <trans-unit id="x3v-GG-iWU.title" xml:space="preserve">
+        <source>Copy</source>
+        <target>コピー</target>
+        <note>Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU";</note>
+      </trans-unit>
+      <trans-unit id="xrE-MZ-jX0.title" xml:space="preserve">
+        <source>Speech</source>
+        <target>スピーチ</target>
+        <note>Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0";</note>
+      </trans-unit>
+      <trans-unit id="z6F-FW-3nz.title" xml:space="preserve">
+        <source>Show Substitutions</source>
+        <target>自動置換を表示</target>
+        <note>Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz";</note>
+      </trans-unit>
+      <trans-unit id="z77-mS-cc9.title" xml:space="preserve">
+        <source>Enter Full Screen</source>
+        <target>フルスクリーンにする</target>
+        <note>Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "z77-mS-cc9";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries/en.lproj/InfoPlist.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Add to Deliveries" xml:space="preserve">
+        <source>Add to Deliveries</source>
+        <target>デリバリーズに追加</target>
+        <note>The name of the Share extension</note>
+      </trans-unit>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>デリバリーズ</target>
+        <note>The name of the app</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>デリバリーズ</target>
+        <note>The name of the app</note>
+      </trans-unit>
+      <trans-unit id="Deliveries document" xml:space="preserve">
+        <source>Deliveries document</source>
+        <target>デリバリーズの書類</target>
+        <note>File type for .deliveries files</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
+        <source>Deliveries needs your permission to add estimated delivery dates to your calendar.</source>
+        <target>デリバリーズは カレンダーをに予定を追加するための許可が必要です。</target>
+        <note>Calendars usage description</note>
+      </trans-unit>
+      <trans-unit id="NSContactsUsageDescription" xml:space="preserve">
+        <source>Deliveries needs your permission to suggest email addresses as you type, or to update your contacts.</source>
+        <target>Deliveries needs your permission to suggest email addresses as you type, or to update your contacts.</target>
+        <note>Contacts usage description</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+      <trans-unit id="Web internet location" xml:space="preserve">
+        <source>Web internet location</source>
+        <target>Web インターネットロケーション</target>
+        <note>File type for .webloc files</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries/en.lproj/ServicesMenu.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="Add to Deliveries" xml:space="preserve">
+        <source>Add to Deliveries</source>
+        <target>デリバリーズに追加</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

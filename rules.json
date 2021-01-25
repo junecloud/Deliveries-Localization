@@ -1,0 +1,157 @@
+[
+  {
+    "file": "../../Common/Intents/Base.lproj/Intents.intentdefinition", 
+    "remove": true
+  }, 
+  {
+    "file": "../Common/Intents/Base.lproj/Intents.intentdefinition", 
+    "no-translate": [
+      "0OU61a", 
+      "2EYqT8", 
+      "FijZJy", 
+      "JoBnA6", 
+      "NcEyb4", 
+      "PHE9LW", 
+      "W4YxtG", 
+      "XTUPua", 
+      "ba25Pb", 
+      "cHrFrX", 
+      "hhphXM", 
+      "ifTwO7", 
+      "qw8x3Y", 
+      "teFm7y", 
+      "yJjRtR"
+    ]
+  }, 
+  {
+    "file": "../Common/Intents/en.lproj/Intents.stringsdict", 
+    "no-translate": [
+      "/0OU61a:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/JoBnA6:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/NcEyb4:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/W4YxtG:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/XTUPua:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/ba25Pb:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/cHrFrX:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/hhphXM:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/ifTwO7:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/qw8x3Y:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/teFm7y:dict/NSStringLocalizedFormatKey:dict/:string", 
+      "/yJjRtR:dict/NSStringLocalizedFormatKey:dict/:string"
+    ]
+  }, 
+  {
+    "file": "Deliveries Add/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleName",
+      "NSHumanReadableCopyright"
+    ],
+    "note": "This matches two files but it's not a problem."
+  }, 
+  {
+    "file": "Deliveries Express/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "NSHumanReadableCopyright"
+    ]
+  }, 
+  {
+    "file": "Deliveries Intents UI/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleDisplayName", 
+      "CFBundleName"
+    ]
+  }, 
+  {
+    "file": "Deliveries Intents/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleDisplayName", 
+      "CFBundleName"
+    ]
+  }, 
+  {
+    "file": "Deliveries Native Messenger/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleName", 
+      "NSHumanReadableCopyright"
+    ]
+  }, 
+  {
+    "file": "Deliveries Notification/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleDisplayName", 
+      "CFBundleName"
+    ]
+  }, 
+  {
+    "file": "Deliveries Quick Look Plug-In/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleName", 
+      "NSHumanReadableCopyright"
+    ]
+  }, 
+  {
+    "file": "Deliveries Quick Look/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleDisplayName", 
+      "CFBundleName", 
+      "NSHumanReadableCopyright"
+    ],
+    "note": "This matches two files but it's not a problem."
+  }, 
+  {
+    "file": "Deliveries Spotlight Plug-In/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleName", 
+      "NSHumanReadableCopyright"
+    ]
+  }, 
+  {
+    "file": "Deliveries Spotlight/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleDisplayName", 
+      "CFBundleName", 
+      "NSHumanReadableCopyright"
+    ],
+    "note": "This matches two files but it's not a problem."
+  }, 
+  {
+    "file": "Deliveries Stickers/Stickers.xcassets/Package Pals.stickerpack", 
+    "remove": true
+  },
+  {
+    "file": "Deliveries Today/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleName", 
+      "NSHumanReadableCopyright"
+    ],
+    "note": "This matches two files but it's not a problem."
+  }, 
+  {
+    "file": "Deliveries Watch Extension/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleDisplayName", 
+      "CFBundleName"
+    ]
+  }, 
+  {
+    "file": "Deliveries Watch Intents/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleDisplayName", 
+      "CFBundleName"
+    ]
+  }, 
+  {
+    "file": "Deliveries/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "NSHumanReadableCopyright"
+    ],
+    "note": "This matches two files but it's not a problem."
+  },
+  {
+    "file": "en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleName"
+    ],
+    "note": "This matches two files but it's not a problem."
+  },
+]
