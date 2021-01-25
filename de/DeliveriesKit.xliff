@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Add.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Add.Barcode.Header" xml:space="preserve">
@@ -134,7 +134,7 @@
   </file>
   <file original="../Strings/en.lproj/Beta.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Beta.Expired.Message" xml:space="preserve">
@@ -151,7 +151,7 @@
   </file>
   <file original="../Strings/en.lproj/Camera.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
@@ -183,7 +183,7 @@
   </file>
   <file original="../Strings/en.lproj/Deliveries.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Deliveries.ClipboardPrompt.Message" xml:space="preserve">
@@ -195,11 +195,6 @@
         <source>%@ delivery detected</source>
         <target>%@ Lieferung gefunden</target>
         <note>Title for a popup alert when a tracking number is detected on the clipboard: {shipping company name} delivery detected, for example 'UPS delivery detected'</note>
-      </trans-unit>
-      <trans-unit id="Deliveries.Demo.Unavailable" xml:space="preserve">
-        <source>This feature is not available in demo mode.</source>
-        <target>Diese Funktion steht im Demo-Modus nicht zur Verfügung.</target>
-        <note>Message explaining that a feature is not available in a demo version of the app</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Message" xml:space="preserve">
         <source>It looks like you have an older version of the app installed. You may run into problems if you keep both versions. To delete the older version, click the Reveal button below, then drag the icon to the Trash.</source>
@@ -238,12 +233,12 @@
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.iOS" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Settings, tapping Advanced, then turning off the “Beta service updates” switch.</source>
-        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können den Service resetten, in dem Sie in den Einstellungen unter Erweitert, den Switch für "Beta service updates" abschalten.</target>
+        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können den Service resetten, in dem Sie in den Einstellungen unter Erweitert, den Switch für “Beta service updates” abschalten.</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on iOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Preferences, clicking Advanced, then unchecking the “Beta service updates” box.</source>
-        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können den Service resetten, in dem Sie in den Einstellungen unter Erweitert das Häkchen bei "Beta service updates" entfernen.</target>
+        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können den Service resetten, in dem Sie in den Einstellungen unter Erweitert das Häkchen bei “Beta service updates” entfernen.</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Title.Format" xml:space="preserve">
@@ -335,7 +330,7 @@
   </file>
   <file original="../Strings/en.lproj/Delivery.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
@@ -517,7 +512,7 @@
   </file>
   <file original="../Strings/en.lproj/DeliveryStatus.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="DeliveryStatus.Busy" xml:space="preserve">
@@ -640,6 +635,11 @@
         <target>Lieferdatum unbekannt</target>
         <note>Short message indicating the expected delivery date is unknown</note>
       </trans-unit>
+      <trans-unit id="DeliveryStatus.ExpectedDate.Unknown.Short" xml:space="preserve">
+        <source>Date unknown</source>
+        <target>Unbekannt</target>
+        <note>Very short message indicating the expected delivery date is unknown, used when space is very limited</note>
+      </trans-unit>
       <trans-unit id="DeliveryStatus.NoMore" xml:space="preserve">
         <source>No additional information</source>
         <target>Keine zusätzlichen Informationen</target>
@@ -669,7 +669,7 @@
   </file>
   <file original="../Strings/en.lproj/Location.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Location.Adjust" xml:space="preserve">
@@ -726,7 +726,7 @@
   </file>
   <file original="../Strings/en.lproj/Mail.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Mail.AddNew.Button" xml:space="preserve">
@@ -780,8 +780,8 @@
         <note>Message for an alert, explaining how to update Contacts permission, on iOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.macOS" xml:space="preserve">
-        <source>Click ‘Open System Preferences’ to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
-        <target>Klicken Sie 'Öffne Systemeinstellungen' um zu den Systemeinstellungen Sicherheit zu gelangen. Wählen Sie das Datenschutz Tab und wählen Sie Kontakte aus. Stellen Sie sicher, das neben Lieferungen ein Häkchen ist.</target>
+        <source>Click “Open System Preferences” to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
+        <target>Klicken Sie “Öffne Systemeinstellungen” um zu den Systemeinstellungen Sicherheit zu gelangen. Wählen Sie das Datenschutz Tab und wählen Sie Kontakte aus. Stellen Sie sicher, das neben Lieferungen ein Häkchen ist.</target>
         <note>Message for an alert, explaining how to update Contacts permission, on macOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Title" xml:space="preserve">
@@ -828,7 +828,7 @@
   </file>
   <file original="../Strings/en.lproj/Menu.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Menu.Export" xml:space="preserve">
@@ -905,7 +905,7 @@
   </file>
   <file original="../Strings/en.lproj/Service.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Service.Adobe" xml:space="preserve">
@@ -1302,11 +1302,11 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Setting.BetaServiceUpdates.Explanation" xml:space="preserve">
-        <source>Beta service updates let you try fixes for problems while they‘re still being tested. In some cases they may cause unexpected problems.</source>
+        <source>Beta service updates let you try fixes for problems while they’re still being tested. In some cases they may cause unexpected problems.</source>
         <target>Durch Beta Dienst Updates können Sie Fehlerbehebungen laden, die noch in der Testphase sind. In einzelnen Fällen kann dies zur Problemen führen.</target>
         <note>Message explaining why beta service updates may be useful</note>
       </trans-unit>
@@ -1329,6 +1329,31 @@
         <source>Add to Calendar</source>
         <target>Zum Kalender hinzufügen</target>
         <note>Label for a setting to automatically add events to a calendar</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Allow" xml:space="preserve">
+        <source>Allow</source>
+        <target>Erlauben</target>
+        <note>Button to allow the app permission to acccess the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Ask" xml:space="preserve">
+        <source>Ask</source>
+        <target>Immer fragen</target>
+        <note>Button to tell the app to ask for permission next time it wants to access the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Deny" xml:space="preserve">
+        <source>Don’t Allow</source>
+        <target>Verbieten</target>
+        <note>Button to deny the app permission to acccess the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Message" xml:space="preserve">
+        <source>Deliveries can check your clipboard for tracking information and help you quickly add new deliveries. These checks happen on your device. Your clipboard data is not sent anywhere.</source>
+        <target>Lieferungen kann ihrer Zwischenablage nach Lieferinformationen überprüfen um neue Lieferungen schneller hinzuzufügen. Diese Überprüfung findet auf ihrem Gerät statt. Die Daten ihrer Zwischenablage werden nirgendwo hingeschickt.</target>
+        <note>Message for an alert asking for permission to check the clipboard for tracking information</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Title" xml:space="preserve">
+        <source>Clipboard Detection</source>
+        <target>Überprüfung der Zwischenablage</target>
+        <note>Title for a setting that determines whether the app automatically detects tracking information on the clipboard</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Background.Footer" xml:space="preserve">
         <source>Background App Refresh is required for notifications. Tap Open Settings and make sure Background App Refresh is on.</source>
@@ -1389,7 +1414,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Title" xml:space="preserve">
@@ -1433,7 +1458,7 @@
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Subscribe.FinePrint" xml:space="preserve">
-        <source>Your subscription will renew automatically. You can cancel at any time. Tracking services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</source>
+        <source>Your subscription will renew automatically. You can cancel at any time. Shipping services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</source>
         <target>Ihr Abo verlängert sich automatisch. Sie können es jederzeit kündigen. Lieferdiense können jederzeit hinzukommen oder entfallen und Jundecloud LLC übernimmt keine Garantien für die Verfügbarkeit bestimmter Dienste. Mehr Informationen finden Sie in unseren [AGB](deliveries://legal/terms) und [Datenschutzbestimmungen](deliveries://legal/privacy) (beide nur auf Englisch verfügbar).</target>
         <note>Details at the bottom of the subscription view. Text in brackets will be automatically converted to links using Markdown formatting.</note>
       </trans-unit>
@@ -1471,7 +1496,7 @@
         <source>Deliveries is changing to a subscription service. Since you previously purchased the app, most of the features you’re used to will remain unlocked. You have also been given a complimentary subscription based on your purchase date.
 
 When your complimentary subscription expires, you’ll need to pay for a subscription to use Junecloud sync. We also plan to add new features in the future that will require a subscription. If you decide not to purchase a subscription, you’ll still be able to add new deliveries, use iCloud sync, and more.</source>
-        <target>Lieferungen wird zu einem Abo Dienst. Da Sie die App gekauft hatten bleiben die meisten Funktionen freigeschaltet. Sie haben außerdem ein kostenloses Abo basierend auf ihrem Kaufdatum erhalten.
+        <target>Lieferungen wird zu einem Abo Dienst. Da Sie die App gekauft hatten, bleiben die meisten Funktionen freigeschaltet. Sie haben außerdem ein kostenloses Abo basierend auf ihrem Kaufdatum erhalten.
 
 Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Junecloud Sync weiter zu nutzen. Wir planen weitere Funktionen, welche das Abo benötigen werden. Falls Sie sich gegen ein Abo entscheiden können Sie weiter Lieferungen hinzufügen, den iCloud Sync und viele andere Funktionen verwenden.</target>
         <note>Subscription thank you message for legacy purchases</note>
@@ -1505,7 +1530,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Juneclou
   </file>
   <file original="../Strings/en.lproj/Troubleshoot.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
@@ -1558,6 +1583,26 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Juneclou
         <target>Bericht</target>
         <note>Title for a view showing a troubleshooting report</note>
       </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Confirm.Button" xml:space="preserve">
+        <source>Yes</source>
+        <target>Ja</target>
+        <note>Button to confirm results are correct</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Prompt" xml:space="preserve">
+        <source>Is this information correct?</source>
+        <target>Stimmen diese Informationen?</target>
+        <note>Short message asking whether the troubleshooting results are correct</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Reject.Button" xml:space="preserve">
+        <source>No</source>
+        <target>Nein</target>
+        <note>Button to reject incorrect results</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Send.Button" xml:space="preserve">
+        <source>Send</source>
+        <target>Absenden</target>
+        <note>Button to send a troubleshooting report</note>
+      </trans-unit>
       <trans-unit id="Troubleshoot.Sent.Message" xml:space="preserve">
         <source>Thank you for your report. We’ll look into the problem and do our best to get it fixed.</source>
         <target>Danke für Ihren Bericht. Wir werden das Problem analysieren und versuchen es zu lösen.</target>
@@ -1582,7 +1627,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Juneclou
   </file>
   <file original="../Strings/en.lproj/Validate.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Validate.Error.Database" xml:space="preserve">
@@ -1657,14 +1702,46 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Juneclou
       </trans-unit>
     </body>
   </file>
+  <file original="../Strings/en.lproj/Widget.strings" source-language="en" target-language="de" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CheckDelivery.Description" xml:space="preserve">
+        <source>Check on your next expected package, or one you select. The medium size includes a summary of other upcoming deliveries.</source>
+        <target>Zeigen Sie ihre nächste Lieferung oder eine bestimmte an. Die mittlere Größe enthalte eine Zusammenfassung ihrer nächsten Lieferungen.</target>
+        <note>Description of a widget that shows upcoming deliveries</note>
+      </trans-unit>
+      <trans-unit id="CheckDelivery.Title" xml:space="preserve">
+        <source>Upcoming Deliveries</source>
+        <target>Nächste Lieferungen</target>
+        <note>Title for a widget that shows upcoming deliveries</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
         <source>DeliveriesKit</source>
         <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="de">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CheckDelivery.Description" xml:space="preserve">
+        <source>CheckDelivery.Description</source>
+        <note>Description of a widget that shows upcoming deliveries</note>
+      </trans-unit>
+      <trans-unit id="CheckDelivery.Title" xml:space="preserve">
+        <source>CheckDelivery.Title</source>
+        <note>Title for a widget that shows upcoming deliveries</note>
       </trans-unit>
     </body>
   </file>

@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Button.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Button.Add" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="../Strings/en.lproj/Crash.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Crash.AlwaysSend.Button" xml:space="preserve">
@@ -141,7 +141,7 @@
   </file>
   <file original="../Strings/en.lproj/Data.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Data.DeleteArchive.Button" xml:space="preserve">
@@ -178,6 +178,18 @@
         <source>Delete Cookies</source>
         <target>Cookies löschen</target>
         <note>Title for an alert related to deleting web site cookies</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteLocationCache.Button" xml:space="preserve">
+        <source>Delete Location Cache</source>
+        <note>Button to delete cached location data, used for the map view</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteLocationCache.Success.Message" xml:space="preserve">
+        <source>Your location cache has been cleared.</source>
+        <note>Message for an alert shown when location cache data is successfully deleted</note>
+      </trans-unit>
+      <trans-unit id="Data.DeleteLocationCache.Title" xml:space="preserve">
+        <source>Delete Location Cache</source>
+        <note>Title for an alert related to deleting location cache data</note>
       </trans-unit>
       <trans-unit id="Data.DeletePasswords.Button" xml:space="preserve">
         <source>Delete Passwords</source>
@@ -280,7 +292,7 @@
         <note>Button used to confirm that iCloud sync data should be reset</note>
       </trans-unit>
       <trans-unit id="Data.ResetCloudKit.Message" xml:space="preserve">
-        <source>If you're having problems with iCloud syncing, you may need to reset it. This will delete the app’s sync data from iCloud, then re-sync everything in the app back to iCloud.</source>
+        <source>If you’re having problems with iCloud syncing, you may need to reset it. This will delete the app’s sync data from iCloud, then re-sync everything in the app back to iCloud.</source>
         <target>Falls Sie Probleme mit iCloud Sync haben, müssen Sie diesen eventuell resetten. Dies löscht die synchronisierten Daten von iCloud und synct diese erneut aus der App zu iCloud.</target>
         <note>Message for an alert confirming whether iCloud sync data should be reset, explaining what will happen</note>
       </trans-unit>
@@ -293,7 +305,7 @@
   </file>
   <file original="../Strings/en.lproj/Date.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Date.Countdown.Day" xml:space="preserve">
@@ -360,7 +372,7 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Setting.About.Title" xml:space="preserve">
@@ -392,6 +404,11 @@
         <source>iCloud + Junecloud</source>
         <target>iCloud + Junecloud</target>
         <note>Short string indicating both iCloud and Junecloud sync are enabled</note>
+      </trans-unit>
+      <trans-unit id="Setting.CopyDeviceInfo.Button" xml:space="preserve">
+        <source>Copy Device Info</source>
+        <target>Geräteinfo kopieren</target>
+        <note>Button to copy some information about the current device to the clipboard</note>
       </trans-unit>
       <trans-unit id="Setting.CreateAccount.Button.iOS" xml:space="preserve">
         <source>Create a New Account</source>
@@ -432,6 +449,11 @@
         <source>After a Year</source>
         <target>Nach einem Jahr</target>
         <note>Value for deleting archived items: after a year</note>
+      </trans-unit>
+      <trans-unit id="Setting.Demo.Unavailable" xml:space="preserve">
+        <source>This feature is not available in demo mode.</source>
+        <target>Diese Funktion steht im Demo-Modus nicht zur Verfügung.</target>
+        <note>Message explaining that a feature is not available in a demo version of the app</note>
       </trans-unit>
       <trans-unit id="Setting.Email.Label" xml:space="preserve">
         <source>Email</source>
@@ -503,14 +525,19 @@
         <target>Logging anschalten</target>
         <note>Label for a setting to enable logging</note>
       </trans-unit>
+      <trans-unit id="Setting.Logs.Enable.Watch.Label" xml:space="preserve">
+        <source>Enable logging on Apple Watch</source>
+        <target>Logging für die Apple Watch anschalten</target>
+        <note>Label for a setting to enable logging on Apple Watch</note>
+      </trans-unit>
       <trans-unit id="Setting.Logs.Message.iOS" xml:space="preserve">
-        <source>If something isn't working right, turn on logs and recreate the problem. Then return here, tap Share Logs, then “Send to Junecloud”.</source>
-        <target>Falls etwas nicht korrekt funktioniert, schalten Sie die Logs an und stellen Sie das Problem nach. Kehren Sie dann hierher zurück, klicken Sie 'Logs teilen' und 'An Junecloud senden'.</target>
+        <source>If something isn’t working right, turn on logs and recreate the problem. Then return here, tap Share Logs, then “Send to Junecloud”.</source>
+        <target>Falls etwas nicht korrekt funktioniert, schalten Sie die Logs an und stellen Sie das Problem nach. Kehren Sie dann hierher zurück, klicken Sie “Logs teilen” und “An Junecloud senden”.</target>
         <note>Message explaining when debug logs might be useful and how to share them, used on iOS</note>
       </trans-unit>
       <trans-unit id="Setting.Logs.Message.macOS" xml:space="preserve">
-        <source>If something isn't working right, turn on logs and recreate the problem. Then return here, click Show Logs, and send the files to us.</source>
-        <target>Falls etwas nicht korrekt funktioniert, schalten Sie die Logs an und stellen Sie das Problem nach. Kehren Sie dann hierher zurück, klicken Sie 'Logs teilen' und 'An Junecloud senden'.</target>
+        <source>If something isn’t working right, turn on logs and recreate the problem. Then return here, click Show Logs, and send the files to us.</source>
+        <target>Falls etwas nicht korrekt funktioniert, schalten Sie die Logs an und stellen Sie das Problem nach. Kehren Sie dann hierher zurück, klicken Sie “Logs teilen” und “An Junecloud senden”.</target>
         <note>Message explaining when debug logs might be useful and how to share them, used on macOS</note>
       </trans-unit>
       <trans-unit id="Setting.Logs.Share.Button" xml:space="preserve">
@@ -527,6 +554,11 @@
         <source>Logs</source>
         <target>Logs</target>
         <note>Title for debug log settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.Logs.Transfer.Button" xml:space="preserve">
+        <source>Transfer Logs from Apple Watch</source>
+        <target>Logs von der Apple Watch übertragen</target>
+        <note>Button to transfer log files from Apple Watch to iPhone</note>
       </trans-unit>
       <trans-unit id="Setting.Logs.Unavailable.Message" xml:space="preserve">
         <source>Currently there aren’t any logs to send. Make sure logs are enabled, use the app to recreate your problem, and then try again later.</source>
@@ -673,6 +705,11 @@
         <target>Sie sind angemeldet als %@</target>
         <note>Message showing the account that is currently signing in: Signed in as {email address}, for example 'Signed in as mike@example.com'</note>
       </trans-unit>
+      <trans-unit id="Setting.SiriShortcuts.Phrase.Format" xml:space="preserve">
+        <source>“%@”</source>
+        <target>„%@“</target>
+        <note>Used to display a Siri Shortcut invocation phrase, by adding quotes around it</note>
+      </trans-unit>
       <trans-unit id="Setting.SiriShortcuts.Suggested.Header" xml:space="preserve">
         <source>Suggested Shortcuts</source>
         <target>Vorgeschlagene Kurzbefehle</target>
@@ -717,7 +754,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Active" xml:space="preserve">
@@ -771,13 +808,13 @@
         <note>Missing receipt title</note>
       </trans-unit>
       <trans-unit id="Period.PerMonth" xml:space="preserve">
-        <source> / month</source>
-        <target> / Monat</target>
+        <source> / month</source>
+        <target> / Monat</target>
         <note>Indicator of how often a subscription renews. Appears after a price, for example '$0.99 / month'</note>
       </trans-unit>
       <trans-unit id="Period.PerYear" xml:space="preserve">
-        <source> / year</source>
-        <target> / Jahr</target>
+        <source> / year</source>
+        <target> / Jahr</target>
         <note>Indicator of how often a subscription renews. Appears after a price, for example '$3.99 / year'</note>
       </trans-unit>
       <trans-unit id="Renews.Message" xml:space="preserve">
@@ -884,7 +921,7 @@
   </file>
   <file original="../Strings/en.lproj/Update.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Update.Busy" xml:space="preserve">
@@ -951,7 +988,7 @@
   </file>
   <file original="../Strings/en.lproj/Web.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Web.Action.OpenInSafari" xml:space="preserve">
@@ -988,7 +1025,7 @@
   </file>
   <file original="en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">

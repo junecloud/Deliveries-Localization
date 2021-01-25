@@ -1,8 +1,344 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="../Common/Intents/Base.lproj/Intents.intentdefinition" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="0OU61a" xml:space="preserve" translate="no">
+        <source>All ${deliveredCount} of your packages have been delivered. The last one arrived ${deliveryDate}.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2EYqT8" xml:space="preserve" translate="no">
+        <source>${package}</source>
+        <target>${package}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2OBFZs" xml:space="preserve">
+        <source>What do you want to add?</source>
+        <target>Que voulez-vous ajouter ?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2x1inA" xml:space="preserve">
+        <source>Open the app to scan a barcode</source>
+        <target>Ouvrez l’application pour scanner un code-barres</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="5NDAfn" xml:space="preserve">
+        <source>There was an error loading your data.</source>
+        <target>Une erreur est survenue lors du chargement de vos données.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="7Iy4By" xml:space="preserve">
+        <source>Add a delivery</source>
+        <target>Ajouter une livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="7bmLyL" xml:space="preserve">
+        <source>Delivery</source>
+        <target>Livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="7qTlTK" xml:space="preserve">
+        <source>Open the app to scan a barcode</source>
+        <target>Ouvrez l’application pour scanner un code-barres</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="9ZjTSj" xml:space="preserve">
+        <source>Package</source>
+        <target>Colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="13oLIK" xml:space="preserve">
+        <source>There was an error loading your data.</source>
+        <target>Une erreur est survenue lors du chargement de vos données.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="22pFJo" xml:space="preserve">
+        <source>Find out when your next package is expected</source>
+        <target>Découvrez la date de votre prochain colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AjhmPy" xml:space="preserve">
+        <source>Open the app to add a new delivery</source>
+        <target>Ouvrez l’application pour ajouter une nouvelle livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="AlgtZT" xml:space="preserve">
+        <source>Check my next delivery</source>
+        <target>Vérifier ma prochaine livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ArNtoW" xml:space="preserve">
+        <source>Delivery</source>
+        <target>Livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="EqecuF" xml:space="preserve">
+        <source>Add a delivery</source>
+        <target>Ajouter une livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FJwKS7" xml:space="preserve">
+        <source>There are ${count} options matching “${package}”.</source>
+        <target>Il y a ${count} options correspondant à « ${package} ».</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="FijZJy" xml:space="preserve" translate="no">
+        <source>You don’t have any deliveries with an estimated date. You do have ${unknownCount} deliveries without a date.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fw27dg" xml:space="preserve">
+        <source>Packages</source>
+        <target>Colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="GQfVdq" xml:space="preserve">
+        <source>Check on a delivery</source>
+        <target>Vérifier une livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="GVfIfR" xml:space="preserve">
+        <source>${package}</source>
+        <target>${package}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="IIWsV5" xml:space="preserve">
+        <source>Check my deliveries</source>
+        <target>Vérifier mes livraisons</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="JWT7XI" xml:space="preserve">
+        <source>Check the status of your delivery</source>
+        <target>Vérifiez le statut de votre livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="JoBnA6" xml:space="preserve" translate="no">
+        <source>${deliveredCount} packages have been delivered, and ${upcomingCount} are coming up.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="KoDr2z" xml:space="preserve">
+        <source>Get a summary of all your packages</source>
+        <target>Obtenez un résumé de tous vos colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="NcEyb4" xml:space="preserve" translate="no">
+        <source>${deliveredCount} packages have been delivered, and ${upcomingCount} are coming up. The next delivery is expected ${deliveryDate}.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="P8SkbJ" xml:space="preserve">
+        <source>Link</source>
+        <target>Lien</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="PHE9LW" xml:space="preserve" translate="no">
+        <source>${delivery}</source>
+        <target>${delivery}</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="RUrgXf" xml:space="preserve">
+        <source>Find out when your next package is expected</source>
+        <target>Découvrez la date de votre prochain colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="W4YxtG" xml:space="preserve" translate="no">
+        <source>All ${deliveredCount} of your packages have been delivered. Your ${packageName} arrived ${deliveryDate}.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XOccj5" xml:space="preserve">
+        <source>Check my next delivery</source>
+        <target>Vérifier ma prochaine livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="XTUPua" xml:space="preserve" translate="no">
+        <source>Your delivery has ${upcomingCount} upcoming packages. The next delivery is expected ${deliveryDate}.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yj0hh4" xml:space="preserve">
+        <source>Check on a delivery</source>
+        <target>Vérifier une livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="amOBmN" xml:space="preserve">
+        <source>Add a delivery</source>
+        <target>Ajouter une livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ba25Pb" xml:space="preserve" translate="no">
+        <source>You have ${expectedCount} packages expected ${deliveryDate}, including your ${packageName}.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="c6glD7" xml:space="preserve">
+        <source>You don’t have any upcoming deliveries.</source>
+        <target>Vous n’avez aucune livraison à venir.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cHrFrX" xml:space="preserve" translate="no">
+        <source>${deliveredCount} packages have been delivered, and ${upcomingCount} are coming up.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="cg11pF" xml:space="preserve">
+        <source>Open the app to add a new delivery</source>
+        <target>Ouvrez l’application pour ajouter une nouvelle livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="f9f8z0" xml:space="preserve">
+        <source>Input</source>
+        <target>Entrée</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gIdjOg" xml:space="preserve">
+        <source>Scan a package</source>
+        <target>Scanner un colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="gj8fzp" xml:space="preserve">
+        <source>Open the app to add a new delivery</source>
+        <target>Ouvrez l’application pour ajouter une nouvelle livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="hhphXM" xml:space="preserve" translate="no">
+        <source>You have ${expectedCount} packages expected ${deliveryDate}, including your ${packageName}. You also have ${unknownCount} deliveries without a date.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="ifTwO7" xml:space="preserve" translate="no">
+        <source>You have ${upcomingCount} upcoming packages, including ${packageName}. They do not have estimated dates.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="jZcY62" xml:space="preserve">
+        <source>Package</source>
+        <target>Colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="jhTnZF" xml:space="preserve">
+        <source>Packages</source>
+        <target>Colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="k78Kwn" xml:space="preserve">
+        <source>Just to confirm, you wanted “${package}”?</source>
+        <target>Pour confirmer, vous voulez « ${package} » ?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="mFbeBx" xml:space="preserve">
+        <source>Check the status of your delivery</source>
+        <target>Vérifiez le statut de votre livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="oqaLO3" xml:space="preserve">
+        <source>Get a summary of all your packages</source>
+        <target>Obtenez un résumé de tous vos colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pIcFtB" xml:space="preserve">
+        <source>Check my deliveries</source>
+        <target>Vérifier mes livraisons</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pR1qeJ" xml:space="preserve">
+        <source>Check the status of your delivery</source>
+        <target>Vérifiez le statut de votre livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="pVV340" xml:space="preserve">
+        <source>You don’t have any deliveries.</source>
+        <target>Vous n’avez aucune livraison.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="qohQd8" xml:space="preserve">
+        <source>Package</source>
+        <target>Colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="qw8x3Y" xml:space="preserve" translate="no">
+        <source>${deliveredCount} packages have been delivered, and ${upcomingCount} are coming up. You have ${expectedCount} packages expected ${deliveryDate}, including your ${packageName}.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="rlaZ4M" xml:space="preserve">
+        <source>Check the status of your delivery</source>
+        <target>Vérifiez le statut de votre livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="s1a3t5" xml:space="preserve">
+        <source>Delivery Date</source>
+        <target>Date de livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="sXkUu7" xml:space="preserve">
+        <source>Scan a package</source>
+        <target>Scanner un colis</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="teFm7y" xml:space="preserve" translate="no">
+        <source>Your delivery has ${upcomingCount} upcoming packages. They do not have estimated dates.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="xPZO7D" xml:space="preserve">
+        <source>There was an error loading your data.</source>
+        <target>Une erreur est survenue lors du chargement de vos données.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="xlgvMq" xml:space="preserve">
+        <source>Check my deliveries</source>
+        <target>Vérifier mes livraisons</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="yJjRtR" xml:space="preserve" translate="no">
+        <source>You have ${upcomingCount} upcoming packages. There are ${expectedCount} expected ${deliveryDate}, including your ${packageName}.</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="zeWOgE" xml:space="preserve">
+        <source>Check my next delivery</source>
+        <target>Vérifier ma prochaine livraison</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="zg4mqC" xml:space="preserve">
+        <source>Add a delivery</source>
+        <target>Ajouter une livraison</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Common/Strings/en.lproj/Siri.strings" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CheckDelivery.Phrase" xml:space="preserve">
+        <source>Check my %@</source>
+        <target>Vérifier ma %@</target>
+        <note>Suggested phrase for Siri Shortcut to check the status of a specific delivery: 'Check my {item name}', for example 'Check my UPS delivery'</note>
+      </trans-unit>
+      <trans-unit id="NextDelivery.Phrase" xml:space="preserve">
+        <source>When is my next delivery?</source>
+        <target>Quand aura lieu ma prochaine livraison ?</target>
+        <note>Suggested phrase for Siri Shortcut to check the status of the next expected delivery</note>
+      </trans-unit>
+      <trans-unit id="NextExpected" xml:space="preserve">
+        <source>Next Expected</source>
+        <target>Prochain à arriver</target>
+        <note>Label used for an option in a list of packages. Selecting this option will automatically show the package that is expected to be delivered next</note>
+      </trans-unit>
+      <trans-unit id="PackageName.Format" xml:space="preserve">
+        <source>%@ delivery</source>
+        <target>livraison %@</target>
+        <note>Identifies a specific package in a Siri shortcut, like “%@ package” or “%@ delivery”. The %@ will be replaced by an item name, like “Running Shoes” or “UPS”.</note>
+      </trans-unit>
+      <trans-unit id="PackageName.Generic" xml:space="preserve">
+        <source>delivery</source>
+        <target>livraison</target>
+        <note>Identifies a generic package in a Siri shortcut, like “package” or “delivery”.</note>
+      </trans-unit>
+      <trans-unit id="Packages.Title" xml:space="preserve">
+        <source>Packages</source>
+        <target>Colis</target>
+        <note>Title used for a list of packages that can be selected</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Deliveries Add/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -12,19 +348,17 @@
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
         <source>Deliveries Add</source>
-        <target>Deliveries Add</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
         <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
-        <target>© 2014–2020 Junecloud LLC. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Express/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -39,19 +373,37 @@
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to add estimated delivery dates to your calendar.</source>
-        <target>Livraisons requiert votre autorisation pour ajouter les dates de livraison estimées dans votre calendrier.</target>
+        <target>Livraisons demande l’autorisation d’ajouter les dates de livraison prévues à votre calendrier.</target>
         <note>Calendars usage description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
         <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
-        <target>© 2014–2020 Junecloud LLC. All rights reserved.</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Deliveries Intents/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
+        <source>Deliveries Intents</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
+        <source>Deliveries Intents</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Native Messenger/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
@@ -66,7 +418,7 @@
   </file>
   <file original="Deliveries Quick Look Plug-In/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
@@ -79,14 +431,15 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Deliveries Quick Look/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
+  <file original="Deliveries Quick Look/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
-        <source>Deliveries Quick Look</source>
-        <note>Bundle display name</note>
+        <source>Deliveries</source>
+        <target>Livraisons</target>
+        <note>The name of the Quick Look extension</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
         <source>Deliveries Quick Look</source>
@@ -100,12 +453,11 @@
   </file>
   <file original="Deliveries Spotlight Plug-In/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
         <source>Deliveries Spotlight Plug-In</source>
-        <target>Deliveries Spotlight Plug-In</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="Deliveries document" xml:space="preserve">
@@ -115,14 +467,13 @@
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
         <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
-        <target>© 2014–2020 Junecloud LLC. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Spotlight/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -141,7 +492,7 @@
   </file>
   <file original="Deliveries Today/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -151,12 +502,10 @@
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
         <source>Deliveries</source>
-        <target>Livraisons</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
         <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
-        <target>© 2014–2020 Junecloud LLC. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="com.apple.notificationcenter.widget.description" xml:space="preserve">
@@ -166,9 +515,28 @@
       </trans-unit>
     </body>
   </file>
+  <file original="Deliveries Widget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Deliveries Widget</source>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Deliveries Widget</source>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="Deliveries/Base.lproj/Deliveries.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="EDv-Ru-j9Z.label" xml:space="preserve">
@@ -193,7 +561,6 @@
       </trans-unit>
       <trans-unit id="HQT-c7-Hch.title" xml:space="preserve" translate="no">
         <source>Text Cell</source>
-        <target>Text Cell</target>
         <note>Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "HQT-c7-Hch"; Note = "no-translate";</note>
       </trans-unit>
       <trans-unit id="Mb2-v6-5Z1.label" xml:space="preserve">
@@ -208,12 +575,10 @@
       </trans-unit>
       <trans-unit id="dgi-55-2Yb.title" xml:space="preserve" translate="no">
         <source>You do not have any deliveries</source>
-        <target>You do not have any deliveries</target>
         <note>Class = "NSTextFieldCell"; title = "You do not have any deliveries"; ObjectID = "dgi-55-2Yb"; Note = "no-translate";</note>
       </trans-unit>
       <trans-unit id="hSg-w4-Avf.paletteLabel" xml:space="preserve" translate="no">
         <source>Custom Space</source>
-        <target>Custom Space</target>
         <note>Class = "NSToolbarItem"; paletteLabel = "Custom Space"; ObjectID = "hSg-w4-Avf"; Note = "no-translate";</note>
       </trans-unit>
       <trans-unit id="ycQ-DP-4Yx.title" xml:space="preserve">
@@ -225,7 +590,7 @@
   </file>
   <file original="Deliveries/Base.lproj/JUNGeneralPreferencesView.xib" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="7fS-gY-9JB.title" xml:space="preserve">
@@ -285,17 +650,17 @@
       </trans-unit>
       <trans-unit id="lRM-KV-eBu.title" xml:space="preserve">
         <source>Delete now…</source>
-        <target>Supprimer maintenant…</target>
+        <target>Supprimer…</target>
         <note>Class = "NSMenuItem"; title = "Delete now…"; ObjectID = "lRM-KV-eBu";</note>
       </trans-unit>
       <trans-unit id="llO-BB-Yqz.title" xml:space="preserve">
         <source>Show Deliveries in the menu bar</source>
-        <target>Afficher Livraisons dans la barre de menus</target>
+        <target>Afficher Livraisons dans le menu</target>
         <note>Class = "NSButtonCell"; title = "Show Deliveries in the menu bar"; ObjectID = "llO-BB-Yqz";</note>
       </trans-unit>
       <trans-unit id="mL8-nW-0Il.title" xml:space="preserve">
         <source>When enabled, Deliveries Express will update and show notifications even if you quit the app.</source>
-        <target>Si activé, Livraisons Express se mettra à jour et affichera les notifications même si vous quittez l’application.</target>
+        <target>Lorsqu’il est activé, Livraisons Express se met à jour et affiche les notifications même si vous quittez l’application.</target>
         <note>Class = "NSTextFieldCell"; title = "When enabled, Deliveries Express will update and show notifications even if you quit the app."; ObjectID = "mL8-nW-0Il";</note>
       </trans-unit>
       <trans-unit id="xrG-6R-7zh.title" xml:space="preserve">
@@ -312,7 +677,7 @@
   </file>
   <file original="Deliveries/Base.lproj/JUNOnlineSignInWindow.xib" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="2nJ-Dm-GVs.label" xml:space="preserve" translate="no">
@@ -354,7 +719,7 @@
   </file>
   <file original="Deliveries/Base.lproj/JUNShortcutsPreferencesView.xib" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="8SE-IZ-2pS.title" xml:space="preserve">
@@ -369,14 +734,13 @@
       </trans-unit>
       <trans-unit id="mrc-m4-KfG.title" xml:space="preserve" translate="no">
         <source>This is an error.</source>
-        <target>This is an error.</target>
         <note>Class = "NSTextFieldCell"; title = "This is an error."; ObjectID = "mrc-m4-KfG"; Note = "no-translate";</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries/Base.lproj/MainMenu.xib" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="1Xt-HY-uBw.title" xml:space="preserve">
@@ -693,7 +1057,7 @@
   </file>
   <file original="Deliveries/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Add to Deliveries" xml:space="preserve">
@@ -723,12 +1087,11 @@
       </trans-unit>
       <trans-unit id="NSContactsUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to suggest email addresses as you type, or to update your contacts.</source>
-        <target>Livraisons requiert votre autorisation afin de suggérer des adresses e-mail lors de la saisie ou pour mettre à jour vos contacts.</target>
+        <target>Livraisons demande l’autorisation de suggérer des adresses électroniques en cours de saisie, ou de mettre à jour vos contacts.</target>
         <note>Contacts usage description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
         <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
-        <target>© 2014–2020 Junecloud LLC. All rights reserved.</target>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="Web internet location" xml:space="preserve">
@@ -740,13 +1103,13 @@
   </file>
   <file original="Deliveries/en.lproj/ServicesMenu.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Add to Deliveries" xml:space="preserve">
         <source>Add to Deliveries</source>
         <target>Ajouter à Livraisons</target>
-        <note/>
+        <note>The name of the Services menu extension</note>
       </trans-unit>
     </body>
   </file>

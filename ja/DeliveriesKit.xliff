@@ -2,27 +2,27 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Add.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Add.Barcode.Header" xml:space="preserve">
         <source>Scan a barcode</source>
-        <target>Scan a barcode</target>
+        <target>バーコードをスキャン</target>
         <note>Heading for an button used to scan a barcode on a package or label</note>
       </trans-unit>
       <trans-unit id="Add.Best.Header" xml:space="preserve">
         <source>Choose the best match</source>
-        <target>Choose the best match</target>
+        <target>一番近いものを選ぶ</target>
         <note>Heading for a list of suggested deliveries to add, based on the input</note>
       </trans-unit>
       <trans-unit id="Add.Clipboard.Header" xml:space="preserve">
         <source>Add from your clipboard</source>
-        <target>Add from your clipboard</target>
+        <target>クリップボードから追加</target>
         <note>Heading for a list of suggested deliveries to add, based on the contents of the clipboard</note>
       </trans-unit>
       <trans-unit id="Add.Edit.Header" xml:space="preserve">
         <source>Edit an existing delivery</source>
-        <target>Edit an existing delivery</target>
+        <target>既存の配達項目を編集</target>
         <note>Heading for a list of existing deliveries that can be edited</note>
       </trans-unit>
       <trans-unit id="Add.Edit.Password.Footer" xml:space="preserve">
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="Add.Edit.Placeholder.Footer" xml:space="preserve">
         <source>A placeholder is a way to manually keep track of deliveries from services we don’t support directly. Enter as much information as you like as a reminder to check on this package later.</source>
-        <target>A placeholder is a way to manually keep track of deliveries from services we don’t support directly. Enter as much information as you like as a reminder to check on this package later.</target>
+        <target>プレースホルダは、当社が直接サポートしていないサービスからの配送を手動で追跡する方法です。後でこのパッケージを確認するためのリマインダーとして、好きなだけ情報を入力してください。</target>
         <note>Footer text that appears below settings for a placeholder delivery</note>
       </trans-unit>
       <trans-unit id="Add.Edit.Title" xml:space="preserve">
@@ -47,42 +47,42 @@
       </trans-unit>
       <trans-unit id="Add.Help.Button" xml:space="preserve">
         <source>Learn more ways to add deliveries</source>
-        <target>Learn more ways to add deliveries</target>
+        <target>配送を追加する方法については、こちらをご覧ください。</target>
         <note>Button that shows helpful information about additional ways to add new deliveries</note>
       </trans-unit>
       <trans-unit id="Add.Import.Header" xml:space="preserve">
         <source>Import from a web site</source>
-        <target>Import from a web site</target>
+        <target>Webサイトからのインポート</target>
         <note>Heading for a list of web site that deliveries can be imported from</note>
       </trans-unit>
       <trans-unit id="Add.Input.Placeholder" xml:space="preserve">
         <source>Enter a tracking number, web address, shipping company, or other information</source>
-        <target>Enter a tracking number, web address, shipping company, or other information</target>
+        <target>追跡番号、ウェブアドレス、配送会社などの情報を入力してください。</target>
         <note>Placeholder text briefly explaining what types of information can be entered in the Add Delivery text field</note>
       </trans-unit>
       <trans-unit id="Add.Manual.Header" xml:space="preserve">
         <source>Manually add a delivery</source>
-        <target>Manually add a delivery</target>
+        <target>配達項目を手動で追加する</target>
         <note>Heading for a button used to manually add a delivery</note>
       </trans-unit>
       <trans-unit id="Add.Multiple.Header" xml:space="preserve">
         <source>Add multiple deliveries</source>
-        <target>Add multiple deliveries</target>
+        <target>複数の配送先を追加する</target>
         <note>Heading for a button used to add multiple deliveries at once</note>
       </trans-unit>
       <trans-unit id="Add.Multiple.Select.Header" xml:space="preserve">
         <source>Select deliveries to add</source>
-        <target>Select deliveries to add</target>
+        <target>追加する配送先を選択</target>
         <note>Heading for a section where multiple deliveries can be selected to add</note>
       </trans-unit>
       <trans-unit id="Add.Multiple.Title" xml:space="preserve">
         <source>Add Deliveries</source>
-        <target>Add Deliveries</target>
+        <target>配達項目を追加</target>
         <note>Title for a view used to add multiple deliveries at once</note>
       </trans-unit>
       <trans-unit id="Add.Placeholder.Header" xml:space="preserve">
         <source>Create a placeholder</source>
-        <target>Create a placeholder</target>
+        <target>プレースホルダを作成</target>
         <note>Heading for a button used to create a placeholder delivery</note>
       </trans-unit>
       <trans-unit id="Add.ScanBarcode.Button" xml:space="preserve">
@@ -92,7 +92,7 @@
       </trans-unit>
       <trans-unit id="Add.Service.Header" xml:space="preserve">
         <source>Choose a service</source>
-        <target>Choose a service</target>
+        <target>サービスの選択</target>
         <note>Heading for a list of delivery services to choose from that match the input</note>
       </trans-unit>
       <trans-unit id="Add.Services.All" xml:space="preserve">
@@ -112,7 +112,7 @@
       </trans-unit>
       <trans-unit id="Add.Services.Empty" xml:space="preserve">
         <source>No Results Found</source>
-        <target>No Results Found</target>
+        <target>結果は見つかりませんでした</target>
         <note>Message shown when no matching shipping services were found</note>
       </trans-unit>
       <trans-unit id="Add.Services.Favorites" xml:space="preserve">
@@ -134,34 +134,34 @@
   </file>
   <file original="../Strings/en.lproj/Beta.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Beta.Expired.Message" xml:space="preserve">
         <source>Please visit the site to check for a new version. If a newer version is not available, in most cases you can safely delete the beta version and download the latest version from the Mac App Store.</source>
-        <target>Please visit the site to check for a new version. If a newer version is not available, in most cases you can safely delete the beta version and download the latest version from the Mac App Store.</target>
+        <target>新しいバージョンがあるかどうかは、サイトにアクセスして確認してください。新しいバージョンが利用できない場合は、ほとんどの場合、安全にベータ版を削除し、Mac App Storeから最新版をダウンロードすることができます。</target>
         <note>Message for an alert explaining that the beta is expired</note>
       </trans-unit>
       <trans-unit id="Beta.Expired.Title" xml:space="preserve">
         <source>This beta has expired.</source>
-        <target>This beta has expired.</target>
+        <target>このベータは期限が切れています。</target>
         <note>Title for an alert shown when the beta has expired</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Camera.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
         <source>Turn off torch</source>
-        <target>Turn off torch</target>
+        <target>ライトをオフにする</target>
         <note>Button to turn off the torch (flashlight), used by VoiceOver</note>
       </trans-unit>
       <trans-unit id="Camera.Torch.On.VoiceOver" xml:space="preserve">
         <source>Turn on torch</source>
-        <target>Turn on torch</target>
+        <target>ライトをオンにする</target>
         <note>Button to turn on the torch (flashlight), used by VoiceOver</note>
       </trans-unit>
       <trans-unit id="Camera.Unavailable.Message" xml:space="preserve">
@@ -183,7 +183,7 @@
   </file>
   <file original="../Strings/en.lproj/Deliveries.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Deliveries.ClipboardPrompt.Message" xml:space="preserve">
@@ -193,32 +193,27 @@
       </trans-unit>
       <trans-unit id="Deliveries.ClipboardPrompt.Title.Format" xml:space="preserve">
         <source>%@ delivery detected</source>
-        <target>%@ delivery detected</target>
+        <target>%@ 検出された配達</target>
         <note>Title for a popup alert when a tracking number is detected on the clipboard: {shipping company name} delivery detected, for example 'UPS delivery detected'</note>
-      </trans-unit>
-      <trans-unit id="Deliveries.Demo.Unavailable" xml:space="preserve">
-        <source>This feature is not available in demo mode.</source>
-        <target>This feature is not available in demo mode.</target>
-        <note>Message explaining that a feature is not available in a demo version of the app</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Message" xml:space="preserve">
         <source>It looks like you have an older version of the app installed. You may run into problems if you keep both versions. To delete the older version, click the Reveal button below, then drag the icon to the Trash.</source>
-        <target>It looks like you have an older version of the app installed. You may run into problems if you keep both versions. To delete the older version, click the Reveal button below, then drag the icon to the Trash.</target>
+        <target>古いバージョンのアプリがインストールされているようです。両方のバージョンを持っていると問題が発生する可能性があります。古いバージョンを削除するには、下の「公開」ボタンをクリックし、アイコンをゴミ箱にドラッグしてください。</target>
         <note>Message for an alert explaining that a duplicate copy of the app was detected</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Removed.Message" xml:space="preserve">
         <source>The duplicate app is no longer installed.</source>
-        <target>The duplicate app is no longer installed.</target>
+        <target>重複していたアプリケーションがインストールされなくなりました。</target>
         <note>Message for an alert explaining that a duplicate copy of the app has been removed</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Removed.Title" xml:space="preserve">
         <source>Duplicate App Removed</source>
-        <target>Duplicate App Removed</target>
+        <target>重複したアプリケーションを削除</target>
         <note>Title for an alert explaining that a duplicate copy of the app has been removed</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Title" xml:space="preserve">
         <source>Duplicate App Found</source>
-        <target>Duplicate App Found</target>
+        <target>重複しているアプリケーションが見つかりました</target>
         <note>Title for an alert explaining that a duplicate copy of the app was detected</note>
       </trans-unit>
       <trans-unit id="Deliveries.Empty" xml:space="preserve">
@@ -228,52 +223,52 @@
       </trans-unit>
       <trans-unit id="Deliveries.Empty.Upcoming" xml:space="preserve">
         <source>You don’t have any upcoming deliveries.</source>
-        <target>You don’t have any upcoming deliveries.</target>
+        <target>配達項目はありません</target>
         <note>Message shown in an empty view when there are no upcoming deliveries</note>
       </trans-unit>
       <trans-unit id="Deliveries.ExportDeliveries.Button" xml:space="preserve">
         <source>Export All Deliveries</source>
-        <target>Export All Deliveries</target>
+        <target>すべての配送項目を書き出す</target>
         <note>Button to export all deliveries</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.iOS" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Settings, tapping Advanced, then turning off the “Beta service updates” switch.</source>
-        <target>Let us know if you continue to have problems. You can reset service updates by opening the Settings, tapping Advanced, then turning off the “Beta service updates” switch.</target>
+        <target>引き続き問題があれば教えてください。設定を開いて「詳細設定」をタップし、「ベータサービスアップデート」スイッチをオフにすることで、サービスアップデートをリセットすることができます。</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on iOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Preferences, clicking Advanced, then unchecking the “Beta service updates” box.</source>
-        <target>Let us know if you continue to have problems. You can reset service updates by opening the Preferences, clicking Advanced, then unchecking the “Beta service updates” box.</target>
+        <target>問題が続くようでしたら教えてください。環境設定を開き、詳細設定をクリックし、「ベータ版サービスアップデート」のチェックを外すことで、サービスアップデートをリセットすることができます。</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Title.Format" xml:space="preserve">
         <source>Installed service update %@</source>
-        <target>Installed service update %@</target>
+        <target>インストールされたサービスの更新 %@</target>
         <note>Title for an alert shown when a beta service update has finished installing: Installed service update {version number}</note>
       </trans-unit>
       <trans-unit id="Deliveries.LimitMessage" xml:space="preserve">
         <source>You’ve reached the maximum number of active deliveries. To add more, archive or delete some of your current deliveries first.</source>
-        <target>You’ve reached the maximum number of active deliveries. To add more, archive or delete some of your current deliveries first.</target>
+        <target>アクティブな配信数の上限に達しました。さらに数を増やすには、まず現在のお届け物の一部をアーカイブするか、削除してください。</target>
         <note>Message for an alert explaining that the maximum number of active deliveries has been reached, and it will be necessary to archive or delete deliveries before adding more</note>
       </trans-unit>
       <trans-unit id="Deliveries.LimitTitle" xml:space="preserve">
         <source>Limit Reached</source>
-        <target>Limit Reached</target>
+        <target>上限に達しました</target>
         <note>Title for an alert explaining that the maximum number of active deliveries has been reached</note>
       </trans-unit>
       <trans-unit id="Deliveries.RepairData.Button" xml:space="preserve">
         <source>Repair</source>
-        <target>Repair</target>
+        <target>修復</target>
         <note>Button to confirm that the database should be repaired</note>
       </trans-unit>
       <trans-unit id="Deliveries.RepairData.Message" xml:space="preserve">
         <source>Deliveries will attempt to repair your database. This may help if some services are missing from the app, or if some of your deliveries have a generic appearance of black text on a white background.</source>
-        <target>Deliveries will attempt to repair your database. This may help if some services are missing from the app, or if some of your deliveries have a generic appearance of black text on a white background.</target>
+        <target>配達はデータベースの修復を試みます。これは、一部のサービスがアプリから失われている場合や、お届け物の一部が白い背景に黒いテキストの一般的な外観を持っている場合に役立つかもしれません。</target>
         <note>Message for an alert confirming whether the database should be repaired, including examples of when this might be useful</note>
       </trans-unit>
       <trans-unit id="Deliveries.RepairData.Title" xml:space="preserve">
         <source>Repair your database?</source>
-        <target>Repair your database?</target>
+        <target>データベースを修復しますか？</target>
         <note>Title for an alert confirming whether the database should be repaired</note>
       </trans-unit>
       <trans-unit id="Deliveries.Restart.Button" xml:space="preserve">
@@ -293,7 +288,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.Reveal.Button" xml:space="preserve">
         <source>Reveal</source>
-        <target>Reveal</target>
+        <target>表示</target>
         <note>Button to reveal an item in Finder</note>
       </trans-unit>
       <trans-unit id="Deliveries.Search.Active" xml:space="preserve">
@@ -318,7 +313,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.Update.Exception" xml:space="preserve">
         <source>Deliveries is unable to refresh due to a problem with the current service update. Troubleshooting may be able to fix the problem automatically. If not, you can report the problem to Junecloud.</source>
-        <target>Deliveries is unable to refresh due to a problem with the current service update. Troubleshooting may be able to fix the problem automatically. If not, you can report the problem to Junecloud.</target>
+        <target>デリバリーは、現在のサービスアップデートに問題があるため、更新できません。トラブルシューティングを行うと、自動的に問題が解決する場合があります。そうでない場合は、Junecloudに問題を報告することができます。</target>
         <note>Message shown when there was a major error updating a delivery</note>
       </trans-unit>
       <trans-unit id="Deliveries.Update.Resume" xml:space="preserve">
@@ -328,14 +323,14 @@
       </trans-unit>
       <trans-unit id="Deliveries.Welcome.Title" xml:space="preserve">
         <source>Welcome</source>
-        <target>Welcome</target>
+        <target>ようこそ</target>
         <note>Title for the welcome pages window</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Delivery.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
@@ -365,7 +360,7 @@
       </trans-unit>
       <trans-unit id="Delivery.Action.MarkComplete" xml:space="preserve">
         <source>Mark Delivered</source>
-        <target>Mark Delivered</target>
+        <target>Mark が届きました</target>
         <note>Action to mark a delivery as delivered</note>
       </trans-unit>
       <trans-unit id="Delivery.Action.OpenInApp" xml:space="preserve">
@@ -405,7 +400,7 @@
       </trans-unit>
       <trans-unit id="Delivery.Action.ShowPackage.Menu" xml:space="preserve">
         <source>Show Package…</source>
-        <target>Show Package…</target>
+        <target>パッケージを表示…</target>
         <note>Action to open a menu where a package can be selected</note>
       </trans-unit>
       <trans-unit id="Delivery.Action.SignIn" xml:space="preserve">
@@ -415,12 +410,12 @@
       </trans-unit>
       <trans-unit id="Delivery.Action.SignIn.Menu" xml:space="preserve">
         <source>Sign In…</source>
-        <target>サインイン...</target>
+        <target>サインイン…</target>
         <note>Action to sign in to an account, used in a menu on macOS</note>
       </trans-unit>
       <trans-unit id="Delivery.Action.Tips" xml:space="preserve">
         <source>Suggestions</source>
-        <target>Suggestions</target>
+        <target>提案</target>
         <note>Action to open a view with suggestions on how to fix a problem</note>
       </trans-unit>
       <trans-unit id="Delivery.Action.Troubleshoot" xml:space="preserve">
@@ -430,12 +425,12 @@
       </trans-unit>
       <trans-unit id="Delivery.Action.Troubleshoot.Menu" xml:space="preserve">
         <source>Troubleshoot…</source>
-        <target>トラブルシュート...</target>
+        <target>トラブルシュート…</target>
         <note>Action to troubleshoot a delivery, used in a menu on macOS</note>
       </trans-unit>
       <trans-unit id="Delivery.Action.ViewOnline" xml:space="preserve">
         <source>View Online</source>
-        <target>View Online</target>
+        <target>オンラインで表示</target>
         <note>Action to view a delivery's tracking information in a web browser</note>
       </trans-unit>
       <trans-unit id="Delivery.Badge.Format" xml:space="preserve">
@@ -455,27 +450,27 @@
       </trans-unit>
       <trans-unit id="Delivery.Share.Credit" xml:space="preserve">
         <source>Shared with Deliveries for %@, available on the App Store</source>
-        <target>Shared with Deliveries for %@, available on the App Store</target>
+        <target>App Storeで利用可能な%@用のデリバリと共有</target>
         <note>Message included when sharing a delivery, explaining where the shared content came from</note>
       </trans-unit>
       <trans-unit id="Delivery.Share.Title.Format" xml:space="preserve">
         <source>Delivery from %@</source>
-        <target>Delivery from %@</target>
+        <target>%@からの荷物</target>
         <note>Title used when sharing a delivery: Delivery from {service name}, for example 'Delivery from UPS'</note>
       </trans-unit>
       <trans-unit id="Delivery.Share.Title.Format.Multiple" xml:space="preserve">
         <source>%@ deliveries</source>
-        <target>%@ deliveries</target>
+        <target>%@ の配送項目</target>
         <note>Title used when sharing multiple deliveries: {number} deliveries, for example '3 deliveries'</note>
       </trans-unit>
       <trans-unit id="Delivery.Share.Title.Format.MultipleFrom" xml:space="preserve">
         <source>%@ deliveries from %@</source>
-        <target>%@ deliveries from %@</target>
+        <target>%@ 個の %@からの荷物</target>
         <note>Title used when sharing multiple deliveries from a single shipping company: {number} deliveries from {service name}, for example '3 deliveries from UPS'</note>
       </trans-unit>
       <trans-unit id="Delivery.Share.Untitled" xml:space="preserve">
         <source>Delivery</source>
-        <target>Delivery</target>
+        <target>配達</target>
         <note>Generic title used when sharing a delivery that does not have a name</note>
       </trans-unit>
       <trans-unit id="Delivery.Share.Untitled.Multiple" xml:space="preserve">
@@ -485,22 +480,22 @@
       </trans-unit>
       <trans-unit id="Delivery.ShareCount.Format" xml:space="preserve">
         <source>This file contains %@ deliveries. The first 50 are shown.</source>
-        <target>This file contains %@ deliveries. The first 50 are shown.</target>
+        <target>このファイルには %@ の配送が含まれています。最初の50件が表示されています。</target>
         <note>Message explaining that a file contains more deliveries than the preview can show: This file contains {number} deliveries. The first 50 are shown.</note>
       </trans-unit>
       <trans-unit id="Delivery.Source.Email.Format" xml:space="preserve">
         <source>“%@” from %@</source>
-        <target>“%@” from %@</target>
+        <target> %@からの“%@” </target>
         <note>“{message name}” from {email address}</note>
       </trans-unit>
       <trans-unit id="Delivery.Source.Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target>Unknown</target>
+        <target>不明</target>
         <note>A person whose name is not known</note>
       </trans-unit>
       <trans-unit id="Delivery.Source.Untitled" xml:space="preserve">
         <source>Untitled</source>
-        <target>Untitled</target>
+        <target>無題</target>
         <note>A web page or message without a title</note>
       </trans-unit>
       <trans-unit id="Delivery.Source.Website.Format" xml:space="preserve">
@@ -517,7 +512,7 @@
   </file>
   <file original="../Strings/en.lproj/DeliveryStatus.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="DeliveryStatus.Busy" xml:space="preserve">
@@ -547,7 +542,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.CheckSettings" xml:space="preserve">
         <source>Make sure the information you entered is correct, or check back later. It may take a day or two until tracking information is available.</source>
-        <target>Make sure the information you entered is correct, or check back later. It may take a day or two until tracking information is available.</target>
+        <target>入力された情報が正しいことを確認するか、後で確認してください。追跡情報が利用できるようになるまで、1日か2日かかる場合があります。</target>
         <note>Error message used when it is not known whether the tracking number is valid. It's possible the settings may be wrong, or it may be that the tracking system does not have any information yet.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Connection" xml:space="preserve">
@@ -557,12 +552,12 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Connection.Detail" xml:space="preserve">
         <source>Try again later</source>
-        <target>Try again later</target>
+        <target>後でもう一度試してみてください。</target>
         <note>More information explaining what to do about an internet connection error</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.NotAvailable" xml:space="preserve">
         <source>Tracking information is not currently available.</source>
-        <target>Tracking information is not currently available.</target>
+        <target>追跡情報は現在利用できません。</target>
         <note>Error message used when a delivery previously updated successfully, but tracking information is no longer available. Most likely this is a temporary problem that will resolve itself later.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.NotFound" xml:space="preserve">
@@ -572,7 +567,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Online" xml:space="preserve">
         <source>This shipment can only be viewed online.</source>
-        <target>This shipment can only be viewed online.</target>
+        <target>今回の発送はオンラインでのみ閲覧可能です。</target>
         <note>Short message explaining that information is only available in a web view</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.SignIn" xml:space="preserve">
@@ -582,22 +577,22 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.SignIn.Detail" xml:space="preserve">
         <source>Sign in to update this delivery.</source>
-        <target>Sign in to update this delivery.</target>
+        <target>この配信を更新するにはサインインしてください。</target>
         <note>More information explaining what to do about a sign in error</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Subscription" xml:space="preserve">
         <source>Subscription required</source>
-        <target>Subscription required</target>
+        <target>申し込みが必要です。</target>
         <note>Short message indicating that a subscription is required</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Subscription.Detail" xml:space="preserve">
         <source>Subscribe to update this shipment.</source>
-        <target>Subscribe to update this shipment.</target>
+        <target>この出荷を更新するためにサブスクリプションをご契約ください。</target>
         <note>Error message used to explain that the delivery cannot be updated without an active subscription</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Unknown" xml:space="preserve">
         <source>This service is not recognized by this version of Deliveries.</source>
-        <target>This service is not recognized by this version of Deliveries.</target>
+        <target>このサービスは、このバージョンのデリバリでは認識されません。</target>
         <note>Message used for an unknown error, usually because the delivery was created in a newer version of the app</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Unsupported" xml:space="preserve">
@@ -607,22 +602,22 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Unsupported.Detail" xml:space="preserve">
         <source>Tracking information for this shipment cannot be shown directly in Deliveries.</source>
-        <target>Tracking information for this shipment cannot be shown directly in Deliveries.</target>
+        <target>この貨物の追跡情報は、配送業者に直接表示することはできません。</target>
         <note>Message explaining that more information cannot be shown in the app because the shipping company does not allow it</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.ValidNumber" xml:space="preserve">
         <source>The tracking number you entered seems to be valid, so check back later. It may take a day or two until tracking information is available.</source>
-        <target>The tracking number you entered seems to be valid, so check back later. It may take a day or two until tracking information is available.</target>
+        <target>入力した追跡番号は有効のようですので、後で確認してください。追跡情報が利用できるようになるまで、1～2日かかる場合があります。</target>
         <note>Error message used when the tracking number appears to be valid. Most likely the settings are correct, but the tracking system does not have any information yet.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.ExpectedCountdown.Format" xml:space="preserve">
         <source>Delivered in %@</source>
-        <target>Delivered in %@</target>
+        <target>%@の配送</target>
         <note>Short message indicating the number of days until an item is expected to be delivered: Delivered in {number of days}, for example 'Delivered in 1 day' or 'Delivered in 10 days'</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.ExpectedCountdown.Shipping.Format" xml:space="preserve">
         <source>Shipped in %@</source>
-        <target>Shipped in %@</target>
+        <target> %@で出荷されます</target>
         <note>Short message indicating the number of days until an item is expected to be shipped: Shipped in {number of days}, for example 'Shipped in 1 day' or 'Shipped in 10 days'</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.ExpectedDate.Format" xml:space="preserve">
@@ -640,9 +635,14 @@
         <target>配達日不詳</target>
         <note>Short message indicating the expected delivery date is unknown</note>
       </trans-unit>
+      <trans-unit id="DeliveryStatus.ExpectedDate.Unknown.Short" xml:space="preserve">
+        <source>Date unknown</source>
+        <target>配達日不詳</target>
+        <note>Very short message indicating the expected delivery date is unknown, used when space is very limited</note>
+      </trans-unit>
       <trans-unit id="DeliveryStatus.NoMore" xml:space="preserve">
         <source>No additional information</source>
-        <target>No additional information</target>
+        <target>追加情報はありません。</target>
         <note>Short message indicating no more information is available</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Refreshed.Format" xml:space="preserve">
@@ -657,7 +657,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Stale" xml:space="preserve">
         <source>This information may be out of date.</source>
-        <target>This information may be out of date.</target>
+        <target>この情報は古くなっている可能性があります。</target>
         <note>Message indicating that the information may not be up to date</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.StatusUpdated.Format" xml:space="preserve">
@@ -669,7 +669,7 @@
   </file>
   <file original="../Strings/en.lproj/Location.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Location.Adjust" xml:space="preserve">
@@ -726,82 +726,82 @@
   </file>
   <file original="../Strings/en.lproj/Mail.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Mail.AddNew.Button" xml:space="preserve">
         <source>Add New</source>
-        <target>Add New</target>
+        <target>新規追加</target>
         <note>Title for a button to add a new a contact</note>
       </trans-unit>
       <trans-unit id="Mail.Clipboard.Button" xml:space="preserve">
         <source>Copy to Clipboard</source>
-        <target>Copy to Clipboard</target>
+        <target>クリップボードへのコピー</target>
         <note>Button to copy information to the clipboard</note>
       </trans-unit>
       <trans-unit id="Mail.ConfirmOff.Button" xml:space="preserve">
         <source>Turn Off</source>
-        <target>Turn Off</target>
+        <target>オフにする</target>
         <note>Button for an alert</note>
       </trans-unit>
       <trans-unit id="Mail.ConfirmOff.Message" xml:space="preserve">
         <source>Shipments sent to your forwarding address will no longer be added to your account. If you turn it back on later, you’ll get a new address.</source>
-        <target>Shipments sent to your forwarding address will no longer be added to your account. If you turn it back on later, you’ll get a new address.</target>
+        <target>転送先に送られた荷物は、アカウントに追加されなくなります。後からオンにすると新しいアドレスになります。</target>
         <note>Message for an alert</note>
       </trans-unit>
       <trans-unit id="Mail.ConfirmOff.Title" xml:space="preserve">
         <source>Turn off Mail to Deliveries?</source>
-        <target>Turn off Mail to Deliveries?</target>
+        <target>宅配便へのメールをオフにする？</target>
         <note>Title for an alert</note>
       </trans-unit>
       <trans-unit id="Mail.Contacts.Button" xml:space="preserve">
         <source>Add to Contacts</source>
-        <target>Add to Contacts</target>
+        <target>連絡先に追加</target>
         <note>Button to add contact information to the address book</note>
       </trans-unit>
       <trans-unit id="Mail.Description" xml:space="preserve">
         <source>Mail to Deliveries allows you to forward emails with tracking information to add them to Deliveries. Your forwarding address is linked to your Junecloud account, so messages sent from any email address will be added to your account.</source>
-        <target>Mail to Deliveries allows you to forward emails with tracking information to add them to Deliveries. Your forwarding address is linked to your Junecloud account, so messages sent from any email address will be added to your account.</target>
+        <target>Mail to Deliveriesでは、追跡情報付きのメールを転送してデリバリーズに追加することができます。転送先アドレスはJunecloudアカウントにリンクされているため、どのメールアドレスから送信されたメッセージもアカウントに追加されます。</target>
         <note>Description of how the Mail to Deliveries feature works</note>
       </trans-unit>
       <trans-unit id="Mail.Off.Button" xml:space="preserve">
         <source>Turn Off Mail to Deliveries</source>
-        <target>Turn Off Mail to Deliveries</target>
+        <target>Mail to Deliveriesをオフにする</target>
         <note>Message for an alert, explaining how to update Contacts permission</note>
       </trans-unit>
       <trans-unit id="Mail.On.Button" xml:space="preserve">
         <source>Turn On Mail to Deliveries</source>
-        <target>Turn On Mail to Deliveries</target>
+        <target>Mail to Deliveriesをオンにする</target>
         <note>Message for an alert, explaining how to update Contacts permission</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.iOS" xml:space="preserve">
         <source>Tap Open Settings and make sure Contacts is on.</source>
-        <target>Tap Open Settings and make sure Contacts is on.</target>
+        <target>設定を開くをタップし、「連絡先」がオンになっていることを確認してください。</target>
         <note>Message for an alert, explaining how to update Contacts permission, on iOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.macOS" xml:space="preserve">
-        <source>Click ‘Open System Preferences’ to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
-        <target>Click ‘Open System Preferences’ to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</target>
+        <source>Click “Open System Preferences” to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
+        <target>システム環境設定を開くをクリックして、システム環境設定の「セキュリティとプライバシー」を開きます。[プライバシー]タブを選択し、「連絡先」を選択します。リストの中から「配送」を見つけ、その横のボックスがチェックされていることを確認します。</target>
         <note>Message for an alert, explaining how to update Contacts permission, on macOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Title" xml:space="preserve">
         <source>Deliveries needs permission to access your contacts</source>
-        <target>Deliveries needs permission to access your contacts</target>
+        <target>デリバリーには連絡先へのアクセス許可が必要です</target>
         <note>Title for an alert</note>
       </trans-unit>
       <trans-unit id="Mail.Success.Message.Format" xml:space="preserve">
         <source>When you’re entering an address in Mail, start typing “%@” and then select the address.</source>
-        <target>When you’re entering an address in Mail, start typing “%@” and then select the address.</target>
+        <target>メールでアドレスを入力するときは、「%@」と入力し始めて、アドレスを選択します。</target>
         <note>Message for an alert. %@ will be replaced with the name of the contact, for example “Deliveries”</note>
       </trans-unit>
       <trans-unit id="Mail.Success.New.Title" xml:space="preserve">
         <source>“%@” has been added to your contacts</source>
-        <target>“%@” has been added to your contacts</target>
+        <target>「%@」 が連絡先に追加されました。</target>
         <note>Title for an alert. %@ will be replaced with the name of the contact, for example “Deliveries”</note>
       </trans-unit>
       <trans-unit id="Mail.Success.Updated.Title" xml:space="preserve">
         <source>Your “%@” contact has been updated</source>
-        <target>Your “%@” contact has been updated</target>
+        <target>あなたの 「%@」 連絡先が更新されました</target>
         <note>Title for an alert. %@ will be replaced with the name of the contact, for example “Deliveries”</note>
       </trans-unit>
       <trans-unit id="Mail.Title" xml:space="preserve">
@@ -811,54 +811,54 @@
       </trans-unit>
       <trans-unit id="Mail.Update.Button" xml:space="preserve">
         <source>Update</source>
-        <target>Update</target>
+        <target>アップデート</target>
         <note>Title for a button to update a contact</note>
       </trans-unit>
       <trans-unit id="Mail.Update.Message.Format" xml:space="preserve">
         <source>Would you like to update the email address of your contact “%@”, or add a new contact?</source>
-        <target>Would you like to update the email address of your contact “%@”, or add a new contact?</target>
+        <target>あなたの連絡先「%@」のメールアドレスを更新しますか、または新しい連絡先を追加しますか？</target>
         <note>Message for an alert. %@ will be replaced with the name of a contact, for example “Deliveries”</note>
       </trans-unit>
       <trans-unit id="Mail.Update.Title" xml:space="preserve">
         <source>You already have a contact with a Mail to Deliveries address</source>
-        <target>You already have a contact with a Mail to Deliveries address</target>
+        <target>既にMail to Deliveriesのアドレスを持つ連絡先をお持ちの方</target>
         <note>Title for an alert</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Menu.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Menu.Export" xml:space="preserve">
         <source>Export…</source>
-        <target>書き出す...</target>
+        <target>書き出す…</target>
         <note>Menu item to export an object</note>
       </trans-unit>
       <trans-unit id="Menu.Export.All" xml:space="preserve">
         <source>Export All…</source>
-        <target>Export All…</target>
+        <target>すべてを書き出す…</target>
         <note>Menu item to export all objects (rather than just the selected objects)</note>
       </trans-unit>
       <trans-unit id="Menu.Export.Selection" xml:space="preserve">
         <source>Export Selection…</source>
-        <target>Export Selection…</target>
+        <target>選択した項目を書き出す…</target>
         <note>Menu item used to export the selected objects (rather than exporting all objects)</note>
       </trans-unit>
       <trans-unit id="Menu.Find" xml:space="preserve">
         <source>Find…</source>
-        <target>検索...</target>
+        <target>検索…</target>
         <note>Menu item to start a search</note>
       </trans-unit>
       <trans-unit id="Menu.GenericBrowser" xml:space="preserve">
         <source>Browser</source>
-        <target>Browser</target>
+        <target>ブラウザ</target>
         <note>Generic name for a web browser used when the actual name is unknown</note>
       </trans-unit>
       <trans-unit id="Menu.New" xml:space="preserve">
         <source>New…</source>
-        <target>新規...</target>
+        <target>新規…</target>
         <note>Menu item to add a new object</note>
       </trans-unit>
       <trans-unit id="Menu.Next" xml:space="preserve">
@@ -868,17 +868,17 @@
       </trans-unit>
       <trans-unit id="Menu.Open" xml:space="preserve">
         <source>Open…</source>
-        <target>開く...</target>
+        <target>開く…</target>
         <note>Menu item to open a file</note>
       </trans-unit>
       <trans-unit id="Menu.OpenLink" xml:space="preserve">
         <source>Open Link</source>
-        <target>Open Link</target>
+        <target>リンクを開く</target>
         <note>Menu to open a link in a web browser</note>
       </trans-unit>
       <trans-unit id="Menu.PageSetup" xml:space="preserve">
         <source>Page Setup…</source>
-        <target>ページ設定...</target>
+        <target>ページ設定…</target>
         <note>Menu item to open Page Setup to change print settings</note>
       </trans-unit>
       <trans-unit id="Menu.Paste" xml:space="preserve">
@@ -893,19 +893,19 @@
       </trans-unit>
       <trans-unit id="Menu.Print" xml:space="preserve">
         <source>Print…</source>
-        <target>プリント...</target>
+        <target>プリント…</target>
         <note>Menu item to print</note>
       </trans-unit>
       <trans-unit id="Menu.SendFeedback" xml:space="preserve">
         <source>Send Feedback</source>
-        <target>Send Feedback</target>
+        <target>フィードバックを送信</target>
         <note>Menu item to open a window to send feedback</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Service.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Service.Adobe" xml:space="preserve">
@@ -980,7 +980,7 @@
       </trans-unit>
       <trans-unit id="Service.AppleHK" xml:space="preserve">
         <source>Apple – Hong Kong</source>
-        <target>Apple – Hong Kong</target>
+        <target>Apple – 香港</target>
         <note>Name of a shipping service</note>
       </trans-unit>
       <trans-unit id="Service.AppleJP" xml:space="preserve">
@@ -1090,7 +1090,7 @@
       </trans-unit>
       <trans-unit id="Service.HermesDE" xml:space="preserve">
         <source>Hermes – Germany</source>
-        <target>Hermes – Germany</target>
+        <target>Hermes – ドイツ</target>
         <note>Name of a shipping service</note>
       </trans-unit>
       <trans-unit id="Service.HongkongPost" xml:space="preserve">
@@ -1145,7 +1145,7 @@
       </trans-unit>
       <trans-unit id="Service.Placeholder" xml:space="preserve">
         <source>Placeholder</source>
-        <target>Placeholder</target>
+        <target>プレースホルダー</target>
         <note>Name for a special placeholder delivery type that can be used when the shipping company is not yet known, or to manually keep track of a shipment from an unsupported service</note>
       </trans-unit>
       <trans-unit id="Service.Post" xml:space="preserve">
@@ -1220,12 +1220,12 @@
       </trans-unit>
       <trans-unit id="Service.Service.Label" xml:space="preserve">
         <source>Service</source>
-        <target>Service</target>
+        <target>運送会社</target>
         <note>Short label for the selected shipping service</note>
       </trans-unit>
       <trans-unit id="Service.Source.Label" xml:space="preserve">
         <source>Source</source>
-        <target>Source</target>
+        <target>ソース</target>
         <note>Label used to identify the source of a delivery (where it was added from), like a web site or an email message</note>
       </trans-unit>
       <trans-unit id="Service.SwissPost" xml:space="preserve">
@@ -1275,12 +1275,12 @@
       </trans-unit>
       <trans-unit id="Service.Unknown" xml:space="preserve">
         <source>Unknown</source>
-        <target>Unknown</target>
+        <target>不明</target>
         <note>Name used when the shipping service is not recognized, probably because it synced in from a newer version of the app</note>
       </trans-unit>
       <trans-unit id="Service.UnknownSetting.Label" xml:space="preserve">
         <source>Setting</source>
-        <target>Setting</target>
+        <target>設定</target>
         <note>Generic label used for a setting of an unknown type</note>
       </trans-unit>
       <trans-unit id="Service.WebSite.Label" xml:space="preserve">
@@ -1302,22 +1302,22 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Setting.BetaServiceUpdates.Explanation" xml:space="preserve">
-        <source>Beta service updates let you try fixes for problems while they‘re still being tested. In some cases they may cause unexpected problems.</source>
-        <target>Beta service updates let you try fixes for problems while they‘re still being tested. In some cases they may cause unexpected problems.</target>
+        <source>Beta service updates let you try fixes for problems while they’re still being tested. In some cases they may cause unexpected problems.</source>
+        <target>ベータサービスのアップデートでは、まだテスト中の問題の修正を試すことができます。場合によっては、予期せぬ問題が発生する可能性があります。</target>
         <note>Message explaining why beta service updates may be useful</note>
       </trans-unit>
       <trans-unit id="Setting.BetaServiceUpdates.Label" xml:space="preserve">
         <source>Beta service updates</source>
-        <target>Beta service updates</target>
+        <target>ベータサービスを更新</target>
         <note>Label for a setting that determines whether beta service updates will be installed</note>
       </trans-unit>
       <trans-unit id="Setting.BetaServiceUpdates.Unavailable" xml:space="preserve">
         <source>Beta service updates are no longer available for this version of Deliveries.</source>
-        <target>Beta service updates are no longer available for this version of Deliveries.</target>
+        <target>ベータサービスのアップデートは、このバージョンのDeliveriesでは利用できなくなりました。</target>
         <note>Message explaining that beta service updates are not available for this version of the app</note>
       </trans-unit>
       <trans-unit id="Setting.Calendar.Error" xml:space="preserve">
@@ -1329,6 +1329,31 @@
         <source>Add to Calendar</source>
         <target>カレンダーに追加</target>
         <note>Label for a setting to automatically add events to a calendar</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Allow" xml:space="preserve">
+        <source>Allow</source>
+        <target>許可</target>
+        <note>Button to allow the app permission to acccess the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Ask" xml:space="preserve">
+        <source>Ask</source>
+        <target>毎回尋ねる</target>
+        <note>Button to tell the app to ask for permission next time it wants to access the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Deny" xml:space="preserve">
+        <source>Don’t Allow</source>
+        <target>許可しない</target>
+        <note>Button to deny the app permission to acccess the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Message" xml:space="preserve">
+        <source>Deliveries can check your clipboard for tracking information and help you quickly add new deliveries. These checks happen on your device. Your clipboard data is not sent anywhere.</source>
+        <target>デリバリーズは、追跡情報をクリップボードでチェックして、新しい荷物を素早く追加するのに役立ちます。これらのチェックはあなたのデバイス上で行われます。クリップボードのデータはどこにも送信されません。</target>
+        <note>Message for an alert asking for permission to check the clipboard for tracking information</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Title" xml:space="preserve">
+        <source>Clipboard Detection</source>
+        <target>クリップボード内検出</target>
+        <note>Title for a setting that determines whether the app automatically detects tracking information on the clipboard</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Background.Footer" xml:space="preserve">
         <source>Background App Refresh is required for notifications. Tap Open Settings and make sure Background App Refresh is on.</source>
@@ -1357,7 +1382,7 @@
       </trans-unit>
       <trans-unit id="Setting.ServiceUpdate.Label" xml:space="preserve">
         <source>Installed service update:</source>
-        <target>Installed service update:</target>
+        <target>サービスアップデートをインストールしました。</target>
         <note>Label indicating the service update number that is currently installed</note>
       </trans-unit>
       <trans-unit id="Setting.Sort.DeliveryDate" xml:space="preserve">
@@ -1382,145 +1407,145 @@
       </trans-unit>
       <trans-unit id="Settings.Advanced.Title" xml:space="preserve">
         <source>Advanced</source>
-        <target>Advanced</target>
+        <target>高度な設定</target>
         <note>Title for advanced settings view</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Title" xml:space="preserve">
         <source>Deliveries Beta Access</source>
-        <target>Deliveries Beta Access</target>
+        <target>デリバリーズベータアクセス</target>
         <note>Title for a view related to beta access</note>
       </trans-unit>
       <trans-unit id="Extension.Instructions.iOS" xml:space="preserve">
         <source>To subscribe, open Deliveries, tap the Settings icon, then tap Subscription.</source>
-        <target>To subscribe, open Deliveries, tap the Settings icon, then tap Subscription.</target>
+        <target>サブスクリプションを有効にするにはデリバリーズを開いて[設定]アイコンをタップして[サブスクリプション]をタップしてください。</target>
         <note>Brief explanation of how to open the app and find the Subscription view on iOS. This message appears in the Share extension when there's not an active subscription.</note>
       </trans-unit>
       <trans-unit id="Feature.One" xml:space="preserve">
         <source>Track your packages in one place</source>
-        <target>Track your packages in one place</target>
+        <target>荷物を一箇所で追跡</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.One.Legacy" xml:space="preserve">
         <source>Add deliveries by forwarding an email with Junecloud sync</source>
-        <target>Add deliveries by forwarding an email with Junecloud sync</target>
+        <target>Junecloud syncでメール転送を利用して配送項目を追加する</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.Three" xml:space="preserve">
         <source>Quickly add shipments from web sites, emails, barcodes, and more</source>
-        <target>Quickly add shipments from web sites, emails, barcodes, and more</target>
+        <target>ウェブサイト、電子メール、バーコードなどからの配送項目を素早く追加することができます。</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.Three.Legacy" xml:space="preserve">
         <source>Support future development</source>
-        <target>Support future development</target>
+        <target>今後の開発をサポート</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.Two" xml:space="preserve">
         <source>Automatically add delivery dates to your calendar</source>
-        <target>Automatically add delivery dates to your calendar</target>
+        <target>配達日をカレンダーに自動的に追加</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.Two.Legacy" xml:space="preserve">
         <source>Edit deliveries from any web browser with Junecloud sync</source>
-        <target>Edit deliveries from any web browser with Junecloud sync</target>
+        <target>Junecloudの同期機能を使って、Webブラウザから配信物を編集できます。</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Subscribe.FinePrint" xml:space="preserve">
-        <source>Your subscription will renew automatically. You can cancel at any time. Tracking services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</source>
-        <target>Your subscription will renew automatically. You can cancel at any time. Tracking services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</target>
+        <source>Your subscription will renew automatically. You can cancel at any time. Shipping services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</source>
+        <target>サブスクリプションは自動的に更新されます。あなたはいつでもキャンセルすることができます。追跡サービスはいつでも追加または削除される可能性があり、Junecloud LLCは特定のサービスの利用可能性を保証するものではありません。詳細については、 [利用規約](deliveries://legal/terms) and [プライバシーポリシー](deliveries://legal/privacy).</target>
         <note>Details at the bottom of the subscription view. Text in brackets will be automatically converted to links using Markdown formatting.</note>
       </trans-unit>
       <trans-unit id="Subscribe.Message" xml:space="preserve">
         <source>Subscribe to unlock all the features of Deliveries for iPhone, iPad, Apple Watch, and Mac.</source>
-        <target>Subscribe to unlock all the features of Deliveries for iPhone, iPad, Apple Watch, and Mac.</target>
+        <target>iPhone、iPad、Apple Watch、Mac用のデリバリーズのすべての機能をロック解除するためにサブスクリプションを開始します。</target>
         <note>Subscribe message</note>
       </trans-unit>
       <trans-unit id="Subscribe.Message.Legacy" xml:space="preserve">
         <source>Since you previously purchased Deliveries, you can continue to use most features from earlier versions, and many new ones.</source>
-        <target>Since you previously purchased Deliveries, you can continue to use most features from earlier versions, and many new ones.</target>
+        <target>以前にDeliveriesを購入したので、以前のバージョンのほとんどの機能を継続して使用することができ、多くの新しい機能を使用することができます。</target>
         <note>Subscribe legacy message</note>
       </trans-unit>
       <trans-unit id="Subscribe.Title" xml:space="preserve">
         <source>Subscribe to Deliveries</source>
-        <target>Subscribe to Deliveries</target>
+        <target>デリバリーズを申し込む</target>
         <note>Title for a view where a subscription can be purchased</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message" xml:space="preserve">
         <source>Thank you for your support.</source>
-        <target>Thank you for your support.</target>
+        <target>サポートいただきありがとうございます。</target>
         <note>Subscription thank you message</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message.Beta" xml:space="preserve">
         <source>Thank you for being a beta tester.</source>
-        <target>Thank you for being a beta tester.</target>
+        <target>ベータテスターになってくれてありがとうございます</target>
         <note>Thank you message for beta testers</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message.Exception" xml:space="preserve">
         <source>We were unable to verify your subscription status. Since this was our mistake, you’ve been given a temporary subscription for a short time while we sort out the problem.</source>
-        <target>We were unable to verify your subscription status. Since this was our mistake, you’ve been given a temporary subscription for a short time while we sort out the problem.</target>
+        <target>あなたのサブスクリプションを確認することができませんでした。これは私たちのミスですので、私たちが問題を解決する間、短期間の一時的なサブスクリプションが与えられています。</target>
         <note>In some cases a temporary subscription may be granted if there's an error checking the subscription status. This is a message shown to explain what happened.</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message.Legacy" xml:space="preserve">
         <source>Deliveries is changing to a subscription service. Since you previously purchased the app, most of the features you’re used to will remain unlocked. You have also been given a complimentary subscription based on your purchase date.
 
 When your complimentary subscription expires, you’ll need to pay for a subscription to use Junecloud sync. We also plan to add new features in the future that will require a subscription. If you decide not to purchase a subscription, you’ll still be able to add new deliveries, use iCloud sync, and more.</source>
-        <target>Deliveries is changing to a subscription service. Since you previously purchased the app, most of the features you’re used to will remain unlocked. You have also been given a complimentary subscription based on your purchase date.
+        <target>デリバリーがサブスクリプションサービスに変わります。以前にアプリを購入していたので、今まで使っていた機能のほとんどがアンロックされたままになります。また、購入日に基づいて無料のサブスクリプションが与えられています。
 
-When your complimentary subscription expires, you’ll need to pay for a subscription to use Junecloud sync. We also plan to add new features in the future that will require a subscription. If you decide not to purchase a subscription, you’ll still be able to add new deliveries, use iCloud sync, and more.</target>
+無料サブスクリプションの有効期限が切れると、Junecloud同期を使用するためのサブスクリプションの支払いが必要になります。また、将来的にはサブスクリプションが必要な新機能を追加する予定です。サブスクリプションを購入しない場合でも、新しい配送先の追加、iCloudシンクの使用などは可能です。</target>
         <note>Subscription thank you message for legacy purchases</note>
       </trans-unit>
       <trans-unit id="com.junecloud.Deliveries.sub.legacy" xml:space="preserve">
         <source>Complimentary Subscription</source>
-        <target>Complimentary Subscription</target>
+        <target>無料サブスクリプション</target>
         <note>Legacy subscription name</note>
       </trans-unit>
       <trans-unit id="com.junecloud.Deliveries.sub.month" xml:space="preserve">
         <source>Deliveries Monthly Subscription</source>
-        <target>Deliveries Monthly Subscription</target>
+        <target>月間サブスクリプション</target>
         <note>Monthly subscription name</note>
       </trans-unit>
       <trans-unit id="com.junecloud.Deliveries.sub.year" xml:space="preserve">
         <source>Deliveries Yearly Subscription</source>
-        <target>Deliveries Yearly Subscription</target>
+        <target>年間サブスクリプション</target>
         <note>Yearly subscription name</note>
       </trans-unit>
       <trans-unit id="com.junecloud.Exception" xml:space="preserve">
         <source>Complimentary Subscription</source>
-        <target>Complimentary Subscription</target>
+        <target>無料サブスクリプション</target>
         <note>In some cases a temporary subscription may be granted if there's an error checking the subscription status. This is the name used for that type of subscription.</note>
       </trans-unit>
       <trans-unit id="com.junecloud.mac.Deliveries.sub.legacy" xml:space="preserve">
         <source>Complimentary Subscription</source>
-        <target>Complimentary Subscription</target>
+        <target>無料サブスクリプション</target>
         <note>Legacy subscription name</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Troubleshoot.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
         <source>The problem was most likely a temporary issue with the shipping service, or something we fixed in the latest service update.</source>
-        <target>The problem was most likely a temporary issue with the shipping service, or something we fixed in the latest service update.</target>
+        <target>配送サービスの一時的な問題だったのか、最新のサービスアップデートで修正したものがほとんどでした。</target>
         <note>Message shown when troubleshooting is complete, and the problem appears to have been fixed</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Complete.Message.ServiceUpdate" xml:space="preserve">
         <source>It looks like this problem was fixed in the latest service update.</source>
-        <target>It looks like this problem was fixed in the latest service update.</target>
+        <target>この問題は、最新のサービスアップデートで修正されたようです。</target>
         <note>Message shown when troubleshooting is complete, and the problem was fixed by downloading a new service update</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Complete.Title" xml:space="preserve">
         <source>Complete</source>
-        <target>Complete</target>
+        <target>完了しました</target>
         <note>Title for a view when troubleshooting is complete</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Error.Message" xml:space="preserve">
@@ -1530,47 +1555,67 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
       </trans-unit>
       <trans-unit id="Troubleshoot.Error.Title" xml:space="preserve">
         <source>Unable to Send Report</source>
-        <target>Unable to Send Report</target>
+        <target>レポートを送信できません</target>
         <note>Title for a view when a troubleshooting report could not be sent</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Explanation" xml:space="preserve">
         <source>If there’s a problem updating this delivery, troubleshooting may be able to fix it. If not, you can report the problem to Junecloud.</source>
-        <target>If there’s a problem updating this delivery, troubleshooting may be able to fix it. If not, you can report the problem to Junecloud.</target>
+        <target>この配信の更新に問題がある場合は、トラブルシューティングで解決できる可能性があります。そうでない場合は、Junecloudに問題を報告することができます。</target>
         <note>Message explaining what the troubleshooting process does</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Progress" xml:space="preserve">
         <source>Gathering data…</source>
-        <target>Gathering data…</target>
+        <target>データを集めています…</target>
         <note>Short message shown when troubleshooting is currently in progress</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Progress.Sending" xml:space="preserve">
         <source>Sending report…</source>
-        <target>Sending report…</target>
+        <target>レポート送信集…</target>
         <note>Short message shown when a troubleshooting report is being sent</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Report.Message" xml:space="preserve">
         <source>Review the information below before you send it. Select Comments to add additional information. In some cases personal information may be sent—select Logs to view and edit that information if you prefer. Your data will be sent securely via HTTPS.</source>
-        <target>Review the information below before you send it. Select Comments to add additional information. In some cases personal information may be sent—select Logs to view and edit that information if you prefer. Your data will be sent securely via HTTPS.</target>
+        <target>送信前に以下の情報を確認してください。追加情報を追加するには、「コメント」を選択してください。場合によっては、個人情報が送信されることがあります。お客様のデータはHTTPSで安全に送信されます。</target>
         <note>Message shown above a list of all the troubleshooting report data that has been collected</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Report.Title" xml:space="preserve">
         <source>Report</source>
-        <target>Report</target>
+        <target>レポート</target>
         <note>Title for a view showing a troubleshooting report</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Confirm.Button" xml:space="preserve">
+        <source>Yes</source>
+        <target>はい</target>
+        <note>Button to confirm results are correct</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Prompt" xml:space="preserve">
+        <source>Is this information correct?</source>
+        <target>この情報は正しいですか？</target>
+        <note>Short message asking whether the troubleshooting results are correct</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Reject.Button" xml:space="preserve">
+        <source>No</source>
+        <target>いいえ</target>
+        <note>Button to reject incorrect results</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Send.Button" xml:space="preserve">
+        <source>Send</source>
+        <target>送信</target>
+        <note>Button to send a troubleshooting report</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Sent.Message" xml:space="preserve">
         <source>Thank you for your report. We’ll look into the problem and do our best to get it fixed.</source>
-        <target>Thank you for your report. We’ll look into the problem and do our best to get it fixed.</target>
+        <target>ご報告ありがとうございます。問題点を調べて、解決できるように頑張ります。</target>
         <note>Message shown when a troubleshooting report is successfully sent</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Sent.Message.Informational" xml:space="preserve">
         <source>Thank you for your report.</source>
-        <target>Thank you for your report.</target>
+        <target>ご報告ありがとうございました。</target>
         <note>Message shown when a report is successfully sent. This is used for informational reports rather than reports of a problem.</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Sent.Title" xml:space="preserve">
         <source>Report Sent</source>
-        <target>Report Sent</target>
+        <target>レポートを送信</target>
         <note>Title for a view when a report is successfully sent</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Title" xml:space="preserve">
@@ -1582,12 +1627,12 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
   </file>
   <file original="../Strings/en.lproj/Validate.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Validate.Error.Database" xml:space="preserve">
         <source>Validation failed due to a database error.</source>
-        <target>Validation failed due to a database error.</target>
+        <target>データベースエラーのため、検証に失敗しました。</target>
         <note>Error message when the delivery settings cannot be validated due to a database error</note>
       </trans-unit>
       <trans-unit id="Validate.Error.Unsupported" xml:space="preserve">
@@ -1597,22 +1642,22 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
       </trans-unit>
       <trans-unit id="Validate.Invalid.OrderNo" xml:space="preserve">
         <source>Enter a valid order number.</source>
-        <target>Enter a valid order number.</target>
+        <target>有効な注文番号を入力してください</target>
         <note>Error message when the order number that was entered is invalid</note>
       </trans-unit>
       <trans-unit id="Validate.Invalid.OrderNo.Amazon" xml:space="preserve">
         <source>Enter an order number, not a tracking number.</source>
-        <target>Enter an order number, not a tracking number.</target>
+        <target>追跡番号ではなく、注文番号を入力してください</target>
         <note>Error message when an order number is required, but it seems like a tracking number was entered instead</note>
       </trans-unit>
       <trans-unit id="Validate.Invalid.TrackingNo" xml:space="preserve">
         <source>Enter a valid tracking number.</source>
-        <target>Enter a valid tracking number.</target>
+        <target>有効な追跡番号を入力してください</target>
         <note>Error message when the tracking number that was entered is invalid</note>
       </trans-unit>
       <trans-unit id="Validate.Invalid.Website" xml:space="preserve">
         <source>Enter a valid web site.</source>
-        <target>Enter a valid web site.</target>
+        <target>有効なWebサイトを入力してください</target>
         <note>Error message when the web site address that was entered is invalid</note>
       </trans-unit>
       <trans-unit id="Validate.Invalid.Website.Amazon" xml:space="preserve">
@@ -1622,49 +1667,81 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
       </trans-unit>
       <trans-unit id="Validate.Missing.ConsignNo" xml:space="preserve">
         <source>Enter a consignment number.</source>
-        <target>Enter a consignment number.</target>
+        <target>委託番号を入力してください</target>
         <note>Error message when a consignment number (a specific type of tracking number) is missing</note>
       </trans-unit>
       <trans-unit id="Validate.Missing.Email" xml:space="preserve">
         <source>Enter an email address.</source>
-        <target>Enter an email address.</target>
+        <target>メールアドレスを入力してください</target>
         <note>Error message when an email address is missing</note>
       </trans-unit>
       <trans-unit id="Validate.Missing.Generic" xml:space="preserve">
         <source>Fill out all required fields.</source>
-        <target>Fill out all required fields.</target>
+        <target>必須項目をすべて記入してください</target>
         <note>Generic error message when one or more settings are missing</note>
       </trans-unit>
       <trans-unit id="Validate.Missing.OrderNo" xml:space="preserve">
         <source>Enter an order number.</source>
-        <target>Enter an order number.</target>
+        <target>注文番号を入力してください</target>
         <note>Error message when an order number is missing</note>
       </trans-unit>
       <trans-unit id="Validate.Missing.PostalCode" xml:space="preserve">
         <source>Enter a postal code.</source>
-        <target>Enter a postal code.</target>
+        <target>郵便番号を入力してください</target>
         <note>Error message when a postal code (or zip code) is missing</note>
       </trans-unit>
       <trans-unit id="Validate.Missing.ReferenceNo" xml:space="preserve">
         <source>Enter a reference number.</source>
-        <target>Enter a reference number.</target>
+        <target>参照番号を入力してください</target>
         <note>Error message when a reference number (a specific type of tracking number) is missing</note>
       </trans-unit>
       <trans-unit id="Validate.Missing.TrackingNo" xml:space="preserve">
         <source>Enter a tracking number.</source>
-        <target>Enter a tracking number.</target>
+        <target>追跡番号を入力してください</target>
         <note>Error message when a tracking number is missing</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="../Strings/en.lproj/Widget.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CheckDelivery.Description" xml:space="preserve">
+        <source>Check on your next expected package, or one you select. The medium size includes a summary of other upcoming deliveries.</source>
+        <target>次回のお届け予定の荷物、または選択したものを確認してください。中サイズには、他の今後のお届け予定の概要が記載されています。</target>
+        <note>Description of a widget that shows upcoming deliveries</note>
+      </trans-unit>
+      <trans-unit id="CheckDelivery.Title" xml:space="preserve">
+        <source>Upcoming Deliveries</source>
+        <target>今後の配送予定</target>
+        <note>Title for a widget that shows upcoming deliveries</note>
       </trans-unit>
     </body>
   </file>
   <file original="en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
         <source>DeliveriesKit</source>
         <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ja">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CheckDelivery.Description" xml:space="preserve">
+        <source>CheckDelivery.Description</source>
+        <note>Description of a widget that shows upcoming deliveries</note>
+      </trans-unit>
+      <trans-unit id="CheckDelivery.Title" xml:space="preserve">
+        <source>CheckDelivery.Title</source>
+        <note>Title for a widget that shows upcoming deliveries</note>
       </trans-unit>
     </body>
   </file>

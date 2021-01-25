@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Add.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Add.Barcode.Header" xml:space="preserve">
@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="Add.Edit.Placeholder.Footer" xml:space="preserve">
         <source>A placeholder is a way to manually keep track of deliveries from services we don’t support directly. Enter as much information as you like as a reminder to check on this package later.</source>
-        <target>Un paramètre fictif est une façon de suivre manuellement les livraisons de services que nous ne prenons pas en charge directement. Saisissez autant d'informations que vous voulez comme rappel pour vérifier ce colis plus tard.</target>
+        <target>Un paramètre fictif est une façon de suivre manuellement les livraisons de services que nous ne prenons pas en charge directement. Saisissez autant d’informations que vous voulez comme rappel pour vérifier ce colis plus tard.</target>
         <note>Footer text that appears below settings for a placeholder delivery</note>
       </trans-unit>
       <trans-unit id="Add.Edit.Title" xml:space="preserve">
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="Add.Help.Button" xml:space="preserve">
         <source>Learn more ways to add deliveries</source>
-        <target>Apprendre d'autre façons d'ajouter des livraisons</target>
+        <target>Apprendre d’autre façons d’ajouter des livraisons</target>
         <note>Button that shows helpful information about additional ways to add new deliveries</note>
       </trans-unit>
       <trans-unit id="Add.Import.Header" xml:space="preserve">
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="Add.Input.Placeholder" xml:space="preserve">
         <source>Enter a tracking number, web address, shipping company, or other information</source>
-        <target>Saisissez un numéro de suivi, une adresse web, une entreprise d'expédition ou toute autre information</target>
+        <target>Saisissez un numéro de suivi, une adresse web, une entreprise d’expédition ou toute autre information</target>
         <note>Placeholder text briefly explaining what types of information can be entered in the Add Delivery text field</note>
       </trans-unit>
       <trans-unit id="Add.Manual.Header" xml:space="preserve">
@@ -134,12 +134,12 @@
   </file>
   <file original="../Strings/en.lproj/Beta.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Beta.Expired.Message" xml:space="preserve">
         <source>Please visit the site to check for a new version. If a newer version is not available, in most cases you can safely delete the beta version and download the latest version from the Mac App Store.</source>
-        <target>Veuillez visiter le site afin de voir s'il existe une nouvelle version. Si aucune nouvelle version n'est disponible, dans la majorité des cas, vous pouvez supprimer la version Beta en toute sécurité et télécharger la dernière version depuis le Mac App Store.</target>
+        <target>Veuillez visiter le site pour vérifier s’il existe une nouvelle version. Si aucune nouvelle version n’est disponible, vous pouvez, dans la plupart des cas, supprimer la version bêta en toute sécurité et télécharger la dernière version depuis le Mac App Store.</target>
         <note>Message for an alert explaining that the beta is expired</note>
       </trans-unit>
       <trans-unit id="Beta.Expired.Title" xml:space="preserve">
@@ -151,7 +151,7 @@
   </file>
   <file original="../Strings/en.lproj/Camera.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
@@ -183,7 +183,7 @@
   </file>
   <file original="../Strings/en.lproj/Deliveries.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Deliveries.ClipboardPrompt.Message" xml:space="preserve">
@@ -196,19 +196,14 @@
         <target>Livraison %@ détectée</target>
         <note>Title for a popup alert when a tracking number is detected on the clipboard: {shipping company name} delivery detected, for example 'UPS delivery detected'</note>
       </trans-unit>
-      <trans-unit id="Deliveries.Demo.Unavailable" xml:space="preserve">
-        <source>This feature is not available in demo mode.</source>
-        <target>Cette fonctionnalité n'est pas disponible en mode démo.</target>
-        <note>Message explaining that a feature is not available in a demo version of the app</note>
-      </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Message" xml:space="preserve">
         <source>It looks like you have an older version of the app installed. You may run into problems if you keep both versions. To delete the older version, click the Reveal button below, then drag the icon to the Trash.</source>
-        <target>Il semblerait qu'une ancienne version de l'application soit installée sur votre appareil. En gardant les deux versions, vous rencontrerez certainement des problèmes. Afin de supprimer la version la plus ancienne, cliquez sur le bouton Révéler ci-dessous, puis faites glisser l'icône vers la corbeille.</target>
+        <target>Il semblerait qu’une ancienne version de l’application soit installée sur votre appareil. En gardant les deux versions, vous risquez de rencontrer des problèmes. Afin de supprimer l’ancienne version, cliquez sur le bouton Révéler ci-dessous, puis faites glisser l’icône vers la corbeille.</target>
         <note>Message for an alert explaining that a duplicate copy of the app was detected</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Removed.Message" xml:space="preserve">
         <source>The duplicate app is no longer installed.</source>
-        <target>L'application dupliquée n'est plus installée.</target>
+        <target>L’application dupliquée n’est plus installée.</target>
         <note>Message for an alert explaining that a duplicate copy of the app has been removed</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Removed.Title" xml:space="preserve">
@@ -228,7 +223,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.Empty.Upcoming" xml:space="preserve">
         <source>You don’t have any upcoming deliveries.</source>
-        <target>Vous n'avez aucune livraison à venir.</target>
+        <target>Vous n’avez aucune livraison à venir.</target>
         <note>Message shown in an empty view when there are no upcoming deliveries</note>
       </trans-unit>
       <trans-unit id="Deliveries.ExportDeliveries.Button" xml:space="preserve">
@@ -238,12 +233,12 @@
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.iOS" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Settings, tapping Advanced, then turning off the “Beta service updates” switch.</source>
-        <target>Faites-nous savoir si les problèmes persistent. Vous pouvez réinitialiser les mises à jour de service en ouvrant les réglages, appuyez alors sur Avancés, puis éteignez l'interrupteur « Mises à jour des services Beta ».</target>
+        <target>Faites-nous savoir si les problèmes persistent. Vous pouvez réinitialiser les mises à jour du service en ouvrant les Réglages, appuyez sur Avancés, puis désactivez le bouton « Mises à jour du service Beta ».</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on iOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Preferences, clicking Advanced, then unchecking the “Beta service updates” box.</source>
-        <target>Faites-nous savoir si les problèmes persistent. Vous pouvez réinitialiser les mises à jour de service en ouvrant les préférences, appuyez alors sur Avancés, puis décochez la case « Mises à jour des services Beta ».</target>
+        <target>Faites-nous savoir si les problèmes persistent. Vous pouvez réinitialiser les mises à jour du service en cliquant sur Préférences, puis sur Avancés et en décochant la case « Mises à jour du service Beta ».</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Title.Format" xml:space="preserve">
@@ -253,7 +248,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.LimitMessage" xml:space="preserve">
         <source>You’ve reached the maximum number of active deliveries. To add more, archive or delete some of your current deliveries first.</source>
-        <target>Vous avez atteint le nombre maximum de livraisons actives. Pour en ajouter plus, archivez ou supprimez d'abord quelques-unes de vos livraisons actuelles.</target>
+        <target>Vous avez atteint le nombre maximum de livraisons actives. Pour en ajouter plus, archivez ou supprimez d’abord quelques-unes de vos livraisons actuelles.</target>
         <note>Message for an alert explaining that the maximum number of active deliveries has been reached, and it will be necessary to archive or delete deliveries before adding more</note>
       </trans-unit>
       <trans-unit id="Deliveries.LimitTitle" xml:space="preserve">
@@ -268,7 +263,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.RepairData.Message" xml:space="preserve">
         <source>Deliveries will attempt to repair your database. This may help if some services are missing from the app, or if some of your deliveries have a generic appearance of black text on a white background.</source>
-        <target>Livraisons va tenter de réparer votre base de données. Cela peut aider si certains services manquent dans l'application, ou si quelques-unes de vos livraisons ont une apparence générique de texte noir sur fond blanc.</target>
+        <target>Livraisons va tenter de réparer votre base de données. Cela peut aider si certains services manquent dans l’application, ou si quelques-unes de vos livraisons ont une apparence générique de texte noir sur fond blanc.</target>
         <note>Message for an alert confirming whether the database should be repaired, including examples of when this might be useful</note>
       </trans-unit>
       <trans-unit id="Deliveries.RepairData.Title" xml:space="preserve">
@@ -283,7 +278,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.Restart.Message" xml:space="preserve">
         <source>This may be necessary after installing an update, or if the app was moved while it was open.</source>
-        <target>Ceci est nécessaire après l'installation d'une mise à jour, ou si l'application a été déplacée alors qu'elle était ouverte.</target>
+        <target>Ceci est nécessaire après l’installation d’une mise à jour, ou si l’application a été déplacée alors qu’elle était ouverte.</target>
         <note>Message for an alert explaining why the app needs to restart</note>
       </trans-unit>
       <trans-unit id="Deliveries.Restart.Title" xml:space="preserve">
@@ -318,7 +313,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.Update.Exception" xml:space="preserve">
         <source>Deliveries is unable to refresh due to a problem with the current service update. Troubleshooting may be able to fix the problem automatically. If not, you can report the problem to Junecloud.</source>
-        <target>Livraisons ne peut pas être réactualisée en raison d'un problème avec la mise à jour du service actuelle. Le dépannage devrait pouvoir résoudre le problème automatiquement. Dans le cas contraire, vous pouvez reporter le problème à Junecloud.</target>
+        <target>Livraisons ne peut pas être mise à jour en raison d’un problème avec la mise à jour du service en cours. Le dépannage peut permettre de résoudre le problème automatiquement. Dans le cas contraire, vous pouvez signaler le problème à Junecloud.</target>
         <note>Message shown when there was a major error updating a delivery</note>
       </trans-unit>
       <trans-unit id="Deliveries.Update.Resume" xml:space="preserve">
@@ -335,7 +330,7 @@
   </file>
   <file original="../Strings/en.lproj/Delivery.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
@@ -455,7 +450,7 @@
       </trans-unit>
       <trans-unit id="Delivery.Share.Credit" xml:space="preserve">
         <source>Shared with Deliveries for %@, available on the App Store</source>
-        <target>Partagé avec Livraisons pour %@, disponible sur l'App Store</target>
+        <target>Partagé avec Livraisons pour %@, disponible sur l’App Store</target>
         <note>Message included when sharing a delivery, explaining where the shared content came from</note>
       </trans-unit>
       <trans-unit id="Delivery.Share.Title.Format" xml:space="preserve">
@@ -517,7 +512,7 @@
   </file>
   <file original="../Strings/en.lproj/DeliveryStatus.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="DeliveryStatus.Busy" xml:space="preserve">
@@ -547,7 +542,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.CheckSettings" xml:space="preserve">
         <source>Make sure the information you entered is correct, or check back later. It may take a day or two until tracking information is available.</source>
-        <target>Assurez-vous que les informations que vous avez saisies sont correctes, ou bien vérifiez plus tard. Cela peut prendre un jour ou deux avant que les informations de saisie soient disponibles.</target>
+        <target>Assurez-vous que les informations que vous avez saisies sont correctes, ou vérifiez-les plus tard. Cela peut prendre un jour ou deux avant que les informations de suivi ne soient disponibles.</target>
         <note>Error message used when it is not known whether the tracking number is valid. It's possible the settings may be wrong, or it may be that the tracking system does not have any information yet.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Connection" xml:space="preserve">
@@ -572,7 +567,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Online" xml:space="preserve">
         <source>This shipment can only be viewed online.</source>
-        <target>Cette expédition ne peut être vue qu'en ligne.</target>
+        <target>Cet envoi ne peut être consulté qu’en ligne.</target>
         <note>Short message explaining that information is only available in a web view</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.SignIn" xml:space="preserve">
@@ -597,7 +592,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Unknown" xml:space="preserve">
         <source>This service is not recognized by this version of Deliveries.</source>
-        <target>Ce service n'est pas reconnu par cette version de Livraisons.</target>
+        <target>Ce service n’est pas reconnu par cette version de Livraisons.</target>
         <note>Message used for an unknown error, usually because the delivery was created in a newer version of the app</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Unsupported" xml:space="preserve">
@@ -607,12 +602,12 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Unsupported.Detail" xml:space="preserve">
         <source>Tracking information for this shipment cannot be shown directly in Deliveries.</source>
-        <target>Les informations de suivi de cette expédition ne peuvent pas être affichées directement dans Livraisons.</target>
+        <target>Les informations de suivi de cet envoi ne peuvent pas être affichées dans Livraisons.</target>
         <note>Message explaining that more information cannot be shown in the app because the shipping company does not allow it</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.ValidNumber" xml:space="preserve">
         <source>The tracking number you entered seems to be valid, so check back later. It may take a day or two until tracking information is available.</source>
-        <target>Le numéro de suivi que vous avez saisi semble être valide, veuillez donc réessayer plus tard. Cela peut prendre un jour ou deux avant que les informations de saisie soient disponibles.</target>
+        <target>Le numéro de suivi saisi semble être valide, veuillez le vérifier plus tard. Cela peut prendre un jour ou deux avant que les informations de suivi ne soient disponibles.</target>
         <note>Error message used when the tracking number appears to be valid. Most likely the settings are correct, but the tracking system does not have any information yet.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.ExpectedCountdown.Format" xml:space="preserve">
@@ -627,18 +622,23 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.ExpectedDate.Format" xml:space="preserve">
         <source>Delivered by %@</source>
-        <target>Livraison d'ici %@</target>
+        <target>Livraison d’ici %@</target>
         <note>Short message indicating the date an item is expected to be delivered by: Delivered by {day}, for example 'Delivered by Tomorrow' or 'Delivered by June 10'</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.ExpectedDate.Shipping.Format" xml:space="preserve">
         <source>Shipped by %@</source>
-        <target>Envoi d'ici %@</target>
+        <target>Envoi d’ici %@</target>
         <note>Short message indicating the date an item is expected to be shipped by: Shipped by {day}, for example 'Shipped by Tomorrow' or 'Shipped by June 10'</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.ExpectedDate.Unknown" xml:space="preserve">
         <source>Delivery date unknown</source>
         <target>Date de livraison inconnue</target>
         <note>Short message indicating the expected delivery date is unknown</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.ExpectedDate.Unknown.Short" xml:space="preserve">
+        <source>Date unknown</source>
+        <target>Date inconnue</target>
+        <note>Very short message indicating the expected delivery date is unknown, used when space is very limited</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.NoMore" xml:space="preserve">
         <source>No additional information</source>
@@ -669,12 +669,12 @@
   </file>
   <file original="../Strings/en.lproj/Location.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Location.Adjust" xml:space="preserve">
         <source>Drag this pin to the correct location</source>
-        <target>Déplacez cette punaise jusqu’à la position correcte</target>
+        <target>Faites glisser l’epingle vers le bon endroit</target>
         <note>Message explaining that the map pin can be moved to adjust the location</note>
       </trans-unit>
       <trans-unit id="Location.Error.Connection" xml:space="preserve">
@@ -689,44 +689,44 @@
       </trans-unit>
       <trans-unit id="Location.Error.NotFound" xml:space="preserve">
         <source>This location could not be found</source>
-        <target>Ce lieu n’a pas pu être trouvé</target>
+        <target>Le lieu indiqué n’a pas été localisé</target>
         <note>Short message shown when a location cannot be found on the map</note>
       </trans-unit>
       <trans-unit id="Location.Reset.Button" xml:space="preserve">
         <source>Reset Location</source>
-        <target>Réinitialiser le lieu</target>
+        <target>Réinitialiser localisation</target>
         <note>Button used to confirm that the location should be reset</note>
       </trans-unit>
       <trans-unit id="Location.Reset.Message.iOS" xml:space="preserve">
         <source>This location was set manually. Tap and hold the pin to adjust it further, or tap “Reset Location” to move it back.</source>
-        <target>Ce lieu a été ajusté manuellement. Touchez et maintenez le repère pour l’ajuster, ou touchez “Remise à zéro du lieu” pour le remettre en place.</target>
+        <target>L’emplacement a été défini manuellement. Touchez et maintenez le répére pour l’ajuster, ou touchez « Réinitialiser localisation » pour le remettre en place.</target>
         <note>Message for an alert explaining that the location was manually adjusted, on iOS</note>
       </trans-unit>
       <trans-unit id="Location.Reset.Message.macOS" xml:space="preserve">
         <source>This location was set manually. Drag the pin to adjust it further, or click “Reset Location” to move it back.</source>
-        <target>Ce lieu a été placé manuellement. Faites glisser l’épingle pour l'ajuster plus précisément, ou cliquez sur « Réinitialiser le lieu » pour le remettre à l’emplacement précédent.</target>
+        <target>L’emplacement a été défini manuellement. Faites glisser l’épingle pour l’ajuster plus précisément, ou touchez « Réinitialiser localisation » pour la remettre en place.</target>
         <note>Message for an alert explaining that the location was manually adjusted, on macOS</note>
       </trans-unit>
       <trans-unit id="Location.Reset.Title" xml:space="preserve">
         <source>Reset location?</source>
-        <target>Réinitialiser le lieu ?</target>
+        <target>Réinitialiser localisation ?</target>
         <note>Title for an alert confirming the location should be reset</note>
       </trans-unit>
       <trans-unit id="Location.Set" xml:space="preserve">
         <source>Set Location</source>
-        <target>Définir le lieu</target>
+        <target>Définir l’emplacement</target>
         <note>Button that can be used to place a pin on the map for a location that could not be found</note>
       </trans-unit>
       <trans-unit id="Location.Unknown" xml:space="preserve">
         <source>Location unknown</source>
-        <target>Lieu inconnu</target>
+        <target>Emplacement inconnu</target>
         <note>Short message shown when the location is unknown</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Mail.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Mail.AddNew.Button" xml:space="preserve">
@@ -736,7 +736,7 @@
       </trans-unit>
       <trans-unit id="Mail.Clipboard.Button" xml:space="preserve">
         <source>Copy to Clipboard</source>
-        <target>Copier vers le presse-papiers</target>
+        <target>Copier l’address</target>
         <note>Button to copy information to the clipboard</note>
       </trans-unit>
       <trans-unit id="Mail.ConfirmOff.Button" xml:space="preserve">
@@ -746,7 +746,7 @@
       </trans-unit>
       <trans-unit id="Mail.ConfirmOff.Message" xml:space="preserve">
         <source>Shipments sent to your forwarding address will no longer be added to your account. If you turn it back on later, you’ll get a new address.</source>
-        <target>Les livraisons envoyées à votre adresse de réexpédition ne seront plus ajoutées à votre compte. Si vous le réactivez plus tard, vous aurez une nouvelle adresse.</target>
+        <target>Les envois expédiés à votre adresse de suivi ne seront plus ajoutés à votre compte. Si vous le réactivez plus tard, vous aurez une nouvelle adresse.</target>
         <note>Message for an alert</note>
       </trans-unit>
       <trans-unit id="Mail.ConfirmOff.Title" xml:space="preserve">
@@ -761,37 +761,37 @@
       </trans-unit>
       <trans-unit id="Mail.Description" xml:space="preserve">
         <source>Mail to Deliveries allows you to forward emails with tracking information to add them to Deliveries. Your forwarding address is linked to your Junecloud account, so messages sent from any email address will be added to your account.</source>
-        <target>Mail vers Livraisons vous permet de faire suivre des e-mails comprenant des informations de suivi afin de les ajouter à Livraisons. Votre adresse de réexpédition est liée à votre compte Junecloud, ainsi, tous les messages envoyés depuis toute adresse e-mail sera ajoutée à votre compte.</target>
+        <target>Mail vers Livraisons vous permet de transférer des courriels avec des informations de suivi afin de les ajouter à Livraisons. Votre adresse de suivi est liée à votre compte Junecloud, ainsi tous les messages envoyés depuis toute adresse électronique seront ajoutés à votre compte.</target>
         <note>Description of how the Mail to Deliveries feature works</note>
       </trans-unit>
       <trans-unit id="Mail.Off.Button" xml:space="preserve">
         <source>Turn Off Mail to Deliveries</source>
-        <target>Désactiver Mail vers Livraisons </target>
+        <target>Désactiver Mail vers Livraisons</target>
         <note>Message for an alert, explaining how to update Contacts permission</note>
       </trans-unit>
       <trans-unit id="Mail.On.Button" xml:space="preserve">
         <source>Turn On Mail to Deliveries</source>
-        <target>Activer Mail vers Livraisons </target>
+        <target>Activer Mail vers Livraisons</target>
         <note>Message for an alert, explaining how to update Contacts permission</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.iOS" xml:space="preserve">
         <source>Tap Open Settings and make sure Contacts is on.</source>
-        <target>Appuyer sur Ouvrir les réglages et assurez-vous que les contacts sont activés.</target>
+        <target>Appuyez sur Ouvrir Réglages et assurez-vous que Contacts est activé.</target>
         <note>Message for an alert, explaining how to update Contacts permission, on iOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.macOS" xml:space="preserve">
-        <source>Click ‘Open System Preferences’ to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
-        <target>Cliquez sur « Ouvrir les préférences système » afin d'ouvrir le panneau Sécurité et confidentialité des préférences système. Sélectionnez l'onglet Confidentialité, puis Contacts. Cherchez Livraisons dans la liste et assurez-vous que la case à côté est cochée.</target>
+        <source>Click “Open System Preferences” to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
+        <target>Cliquez sur « Ouvrir les préférences système » afin d’ouvrir le panneau Sécurité et confidentialité des préférences système. Sélectionnez l’onglet Confidentialité, puis Contacts. Cherchez Livraisons dans la liste et assurez-vous que la case à côté est cochée.</target>
         <note>Message for an alert, explaining how to update Contacts permission, on macOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Title" xml:space="preserve">
         <source>Deliveries needs permission to access your contacts</source>
-        <target>Livraisons requiert votre autorisation pour accéder à vos contacts</target>
+        <target>Livraisons demande une autorisation d’accès à vos contacts</target>
         <note>Title for an alert</note>
       </trans-unit>
       <trans-unit id="Mail.Success.Message.Format" xml:space="preserve">
         <source>When you’re entering an address in Mail, start typing “%@” and then select the address.</source>
-        <target>Quand vous saisissez une adresse dans Mail, commencez par écrire « %@ » puis sélectionnez l'adresse.</target>
+        <target>Quand vous saisissez une adresse dans Mail, commencez par écrire « %@ » puis sélectionnez l’adresse.</target>
         <note>Message for an alert. %@ will be replaced with the name of the contact, for example “Deliveries”</note>
       </trans-unit>
       <trans-unit id="Mail.Success.New.Title" xml:space="preserve">
@@ -816,7 +816,7 @@
       </trans-unit>
       <trans-unit id="Mail.Update.Message.Format" xml:space="preserve">
         <source>Would you like to update the email address of your contact “%@”, or add a new contact?</source>
-        <target>Voulez-vous mettre à jour l'adresse e-mail de votre contact « %@ » ou ajouter un nouveau contact ?</target>
+        <target>Voulez-vous mettre à jour l’adresse e-mail de votre contact « %@ » ou ajouter un nouveau contact ?</target>
         <note>Message for an alert. %@ will be replaced with the name of a contact, for example “Deliveries”</note>
       </trans-unit>
       <trans-unit id="Mail.Update.Title" xml:space="preserve">
@@ -828,7 +828,7 @@
   </file>
   <file original="../Strings/en.lproj/Menu.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Menu.Export" xml:space="preserve">
@@ -905,7 +905,7 @@
   </file>
   <file original="../Strings/en.lproj/Service.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Service.Adobe" xml:space="preserve">
@@ -1280,7 +1280,7 @@
       </trans-unit>
       <trans-unit id="Service.UnknownSetting.Label" xml:space="preserve">
         <source>Setting</source>
-        <target>Réglage</target>
+        <target>Paramètre</target>
         <note>Generic label used for a setting of an unknown type</note>
       </trans-unit>
       <trans-unit id="Service.WebSite.Label" xml:space="preserve">
@@ -1302,12 +1302,12 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Setting.BetaServiceUpdates.Explanation" xml:space="preserve">
-        <source>Beta service updates let you try fixes for problems while they‘re still being tested. In some cases they may cause unexpected problems.</source>
-        <target>Les mises à jour de service Beta vous permettent d'essayer des solutions pour des problèmes alors qu'elles sont encore en test. Dans certains cas, cela peut causer des problèmes inattendus.</target>
+        <source>Beta service updates let you try fixes for problems while they’re still being tested. In some cases they may cause unexpected problems.</source>
+        <target>Les mises à jour de service Beta vous permettent d’essayer des solutions pour des problèmes alors qu’elles sont encore en test. Dans certains cas, cela peut causer des problèmes inattendus.</target>
         <note>Message explaining why beta service updates may be useful</note>
       </trans-unit>
       <trans-unit id="Setting.BetaServiceUpdates.Label" xml:space="preserve">
@@ -1330,9 +1330,34 @@
         <target>Ajouter au calendrier</target>
         <note>Label for a setting to automatically add events to a calendar</note>
       </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Allow" xml:space="preserve">
+        <source>Allow</source>
+        <target>Autoriser</target>
+        <note>Button to allow the app permission to acccess the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Ask" xml:space="preserve">
+        <source>Ask</source>
+        <target>Demander</target>
+        <note>Button to tell the app to ask for permission next time it wants to access the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Deny" xml:space="preserve">
+        <source>Don’t Allow</source>
+        <target>Ne pas autoriser</target>
+        <note>Button to deny the app permission to acccess the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Message" xml:space="preserve">
+        <source>Deliveries can check your clipboard for tracking information and help you quickly add new deliveries. These checks happen on your device. Your clipboard data is not sent anywhere.</source>
+        <target>Livraisons peut chercher des informations de suivi dans votre presse-papier et vous aider à ajouter rapidement de nouvelles livraisons. Ces recherches se déroulent sur votre appareil. Les données de votre presse-papier ne sont envoyées nulle part.</target>
+        <note>Message for an alert asking for permission to check the clipboard for tracking information</note>
+      </trans-unit>
+      <trans-unit id="Setting.ClipboardDetection.Title" xml:space="preserve">
+        <source>Clipboard Detection</source>
+        <target>Détection du presse-papier</target>
+        <note>Title for a setting that determines whether the app automatically detects tracking information on the clipboard</note>
+      </trans-unit>
       <trans-unit id="Setting.Notifications.Background.Footer" xml:space="preserve">
         <source>Background App Refresh is required for notifications. Tap Open Settings and make sure Background App Refresh is on.</source>
-        <target>L’actualisation en arrière-plan est nécessaire pour avoir accès aux notifications. Appuyez sur Ouvrir les réglages et assurez-vous que l'actualisation en arrière-plan est activée.</target>
+        <target>L’actualisation en arrière-plan est nécessaire pour avoir accès aux notifications. Appuyez sur Ouvrir les réglages et assurez-vous que l’actualisation en arrière-plan est activée.</target>
         <note>Message at the bottom of the Notifications view explaining that Background App Refresh is currently off and must be enabled</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Label" xml:space="preserve">
@@ -1347,7 +1372,7 @@
       </trans-unit>
       <trans-unit id="Setting.Notifications.Permission.Footer" xml:space="preserve">
         <source>Deliveries needs your permission to display notifications. Tap Open Settings, then tap Notifications, and make sure Allow Notifications is on.</source>
-        <target>Livraisons requiert votre autorisation pour afficher des notifications. Appuyez sur Ouvrir les réglages, puis Notifications et assurez-vous que Autoriser les notifications est activé.</target>
+        <target>Livraisons demande l’autorisation d’afficher les notifications. Appuyez sur Ouvrir Réglages, puis sur Notifications, et assurez-vous que l’option Autoriser les notifications est activée.</target>
         <note>Message at the bottom of the Notifications view explaining that the app does not have permission to show notifications</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Title" xml:space="preserve">
@@ -1372,7 +1397,7 @@
       </trans-unit>
       <trans-unit id="Setting.Sort.LastChanged" xml:space="preserve">
         <source>Last Changed</source>
-        <target>Dernier mis à jour</target>
+        <target>Dernière modification</target>
         <note>Sort setting value: items are ordered by when the status last changed</note>
       </trans-unit>
       <trans-unit id="Setting.Sort.Manually" xml:space="preserve">
@@ -1389,7 +1414,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Title" xml:space="preserve">
@@ -1399,22 +1424,22 @@
       </trans-unit>
       <trans-unit id="Extension.Instructions.iOS" xml:space="preserve">
         <source>To subscribe, open Deliveries, tap the Settings icon, then tap Subscription.</source>
-        <target>Pour vous abonner, ouvrez Livraisons, appuyez sur l'icône Réglages, puis sur Abonnement.</target>
+        <target>Pour vous abonner, ouvrez Livraisons, appuyez sur l’icône Réglages, puis sur Abonnement.</target>
         <note>Brief explanation of how to open the app and find the Subscription view on iOS. This message appears in the Share extension when there's not an active subscription.</note>
       </trans-unit>
       <trans-unit id="Feature.One" xml:space="preserve">
         <source>Track your packages in one place</source>
-        <target>Suivez tous vos colis dans un même endroit</target>
+        <target>Suivez tous vos colis au même endroit</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.One.Legacy" xml:space="preserve">
         <source>Add deliveries by forwarding an email with Junecloud sync</source>
-        <target>Ajoutez des livraisons en faisant suivre un e-mail avec la synchronisation Junecloud</target>
+        <target>Ajoutez les livraisons via le transfert de mail avec Junecloud sync</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.Three" xml:space="preserve">
         <source>Quickly add shipments from web sites, emails, barcodes, and more</source>
-        <target>Ajoutez rapidement des expéditions de sites web, e-mails, codes-barres et bien plus</target>
+        <target>Ajoutez des envois à partir de sites web, de courriels, de codes-barres, etc.</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.Three.Legacy" xml:space="preserve">
@@ -1433,8 +1458,8 @@
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Subscribe.FinePrint" xml:space="preserve">
-        <source>Your subscription will renew automatically. You can cancel at any time. Tracking services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</source>
-        <target>Votre abonnement sera renouvelé automatiquement. Vous pouvez annuler à tout moment. Les services de suivi peuvent être ajoutés ou supprimés à tout moment et Junecloud LLC ne donne aucune garantie quant à la disponibilité d'un service en particulier. Pour plus d'informations, reportez-vous à nos [Conditions d'Utilisation](deliveries://legal/terms) et [Politique de confidentialité](deliveries://legal/privacy).</target>
+        <source>Your subscription will renew automatically. You can cancel at any time. Shipping services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</source>
+        <target>Votre abonnement sera renouvelé automatiquement. Vous pouvez l’annuler à tout moment. Les services de suivi peuvent être ajoutés ou supprimés à tout moment, et Junecloud LLC ne donne aucune garantie quant à la disponibilité d’un service particulier. Pour plus d’informations, consultez nos [Conditions d’utilisation](deliveries://legal/terms) et [Politique de confidentialité](deliveries://legal/privacy).</target>
         <note>Details at the bottom of the subscription view. Text in brackets will be automatically converted to links using Markdown formatting.</note>
       </trans-unit>
       <trans-unit id="Subscribe.Message" xml:space="preserve">
@@ -1449,7 +1474,7 @@
       </trans-unit>
       <trans-unit id="Subscribe.Title" xml:space="preserve">
         <source>Subscribe to Deliveries</source>
-        <target>S'abonner à Livraisons</target>
+        <target>S’abonner à Livraisons</target>
         <note>Title for a view where a subscription can be purchased</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message" xml:space="preserve">
@@ -1459,26 +1484,26 @@
       </trans-unit>
       <trans-unit id="ThankYou.Message.Beta" xml:space="preserve">
         <source>Thank you for being a beta tester.</source>
-        <target>Merci d'être testeur Beta.</target>
+        <target>Merci d’être testeur Beta.</target>
         <note>Thank you message for beta testers</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message.Exception" xml:space="preserve">
         <source>We were unable to verify your subscription status. Since this was our mistake, you’ve been given a temporary subscription for a short time while we sort out the problem.</source>
-        <target>Nous n'avons pas pu vérifier votre statut d'abonnement. Comme cela était de notre faute, vous avez reçu un abonnement temporaire pour une courte durée, pendant que nous résolvons le problème.</target>
+        <target>Nous n’avons pas pu vérifier le statut de votre abonnement. Cette erreur étant la nôtre, un abonnement temporaire vous a été offert pour une courte période pendant la résolution du problème.</target>
         <note>In some cases a temporary subscription may be granted if there's an error checking the subscription status. This is a message shown to explain what happened.</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message.Legacy" xml:space="preserve">
         <source>Deliveries is changing to a subscription service. Since you previously purchased the app, most of the features you’re used to will remain unlocked. You have also been given a complimentary subscription based on your purchase date.
 
 When your complimentary subscription expires, you’ll need to pay for a subscription to use Junecloud sync. We also plan to add new features in the future that will require a subscription. If you decide not to purchase a subscription, you’ll still be able to add new deliveries, use iCloud sync, and more.</source>
-        <target>Livraisons change et passe à un service d'abonnement. Comme vous avez déjà acheté l'application par le passé, la plupart des fonctionnalités que vous avez utilisées resteront déverrouillées. Vous avez également reçu un abonnement gratuit basé sur la date de votre achat.
+        <target>Livraisons passe à un service d’abonnement. Étant donné que vous avez précédemment acheté l’application, la plupart des fonctionnalités utilisées resteront accessibles. Un abonnement supplémentaire vous a également été offert suivant votre date d’achat.
 
-Quand votre abonnement gratuit expire, vous devrez payer un abonnement pour utiliser la synchronisation Junecloud. Nous prévoyons également d'ajouter de nouvelles fonctionnalités à l'avenir qui demanderont un abonnement. Si vous décidez de ne pas acheter d'abonnement, vous pourrez encore ajouter de nouvelles livraisons, utiliser la synchronisation iCloud et bien d'autres.</target>
+À la fin de l’abonnement offert, l’utilisation de Junecloud sync sera payante. Nous envisageons également d’ajouter de nouvelles fonctionnalités nécessitant un abonnement. Même si vous décidez de ne pas souscrire d’abonnement, vous pourrez toujours ajouter de nouvelles livraisons, utiliser iCloud sync, et plus encore.</target>
         <note>Subscription thank you message for legacy purchases</note>
       </trans-unit>
       <trans-unit id="com.junecloud.Deliveries.sub.legacy" xml:space="preserve">
         <source>Complimentary Subscription</source>
-        <target>Abonnement gratuit</target>
+        <target>Abonnement complémentaire</target>
         <note>Legacy subscription name</note>
       </trans-unit>
       <trans-unit id="com.junecloud.Deliveries.sub.month" xml:space="preserve">
@@ -1493,29 +1518,29 @@ Quand votre abonnement gratuit expire, vous devrez payer un abonnement pour util
       </trans-unit>
       <trans-unit id="com.junecloud.Exception" xml:space="preserve">
         <source>Complimentary Subscription</source>
-        <target>Abonnement gratuit</target>
+        <target>Abonnement complémentaire</target>
         <note>In some cases a temporary subscription may be granted if there's an error checking the subscription status. This is the name used for that type of subscription.</note>
       </trans-unit>
       <trans-unit id="com.junecloud.mac.Deliveries.sub.legacy" xml:space="preserve">
         <source>Complimentary Subscription</source>
-        <target>Abonnement gratuit</target>
+        <target>Abonnement complémentaire</target>
         <note>Legacy subscription name</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Troubleshoot.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
         <source>The problem was most likely a temporary issue with the shipping service, or something we fixed in the latest service update.</source>
-        <target>Le problème était certainement un problème temporaire avec le service d'expédition, ou quelque chose que nous avons réparé lors de la dernière mise à jour de service.</target>
+        <target>Il semble que le problème soit dû à un problème temporaire du service de livraison, ou à un problème résolu lors de la dernière mise à jour du service.</target>
         <note>Message shown when troubleshooting is complete, and the problem appears to have been fixed</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Complete.Message.ServiceUpdate" xml:space="preserve">
         <source>It looks like this problem was fixed in the latest service update.</source>
-        <target>Il semblerait que ce problème a été réparé lors de la dernière mise à jour de service.</target>
+        <target>Il semble que le problème ait été résolu dans la dernière mise à jour du service.</target>
         <note>Message shown when troubleshooting is complete, and the problem was fixed by downloading a new service update</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Complete.Title" xml:space="preserve">
@@ -1535,7 +1560,7 @@ Quand votre abonnement gratuit expire, vous devrez payer un abonnement pour util
       </trans-unit>
       <trans-unit id="Troubleshoot.Explanation" xml:space="preserve">
         <source>If there’s a problem updating this delivery, troubleshooting may be able to fix it. If not, you can report the problem to Junecloud.</source>
-        <target>S'il y a un problème avec la mise à jour de cette livraison, le dépannage devrait pouvoir réparer cela. Dans le cas contraire, vous pouvez rapporter le problème à Junecloud.</target>
+        <target>S’il y a un problème de mise à jour concernant la livraison, le service de dépannage pourra peut-être le résoudre. Sinon, vous pouvez signaler le problème à Junecloud.</target>
         <note>Message explaining what the troubleshooting process does</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Progress" xml:space="preserve">
@@ -1550,13 +1575,33 @@ Quand votre abonnement gratuit expire, vous devrez payer un abonnement pour util
       </trans-unit>
       <trans-unit id="Troubleshoot.Report.Message" xml:space="preserve">
         <source>Review the information below before you send it. Select Comments to add additional information. In some cases personal information may be sent—select Logs to view and edit that information if you prefer. Your data will be sent securely via HTTPS.</source>
-        <target>Relisez les informations ci-dessous avant de l'envoyer. Sélectionnez Commentaires pour ajouter des informations supplémentaires. Dans certains cas, il se peut que des informations personnelles soient envoyées, sélectionnez Journaux pour voir et modifier ces informations si vous préférez. Vos données seront envoyées en toute sécurité via HTTPS.</target>
+        <target>Vérifiez les informations ci-dessous avant de les envoyer. Sélectionnez Commentaires pour ajouter des informations supplémentaires. Dans certains cas, des informations personnelles peuvent être envoyées - sélectionnez Registres pour afficher et modifier les informations si vous le souhaitez. Vos données seront transmises en toute sécurité via HTTPS.</target>
         <note>Message shown above a list of all the troubleshooting report data that has been collected</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Report.Title" xml:space="preserve">
         <source>Report</source>
         <target>Rapport</target>
         <note>Title for a view showing a troubleshooting report</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Confirm.Button" xml:space="preserve">
+        <source>Yes</source>
+        <target>Oui</target>
+        <note>Button to confirm results are correct</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Prompt" xml:space="preserve">
+        <source>Is this information correct?</source>
+        <target>Ces informations sont-elles correctes ?</target>
+        <note>Short message asking whether the troubleshooting results are correct</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Results.Reject.Button" xml:space="preserve">
+        <source>No</source>
+        <target>Non</target>
+        <note>Button to reject incorrect results</note>
+      </trans-unit>
+      <trans-unit id="Troubleshoot.Send.Button" xml:space="preserve">
+        <source>Send</source>
+        <target>Envoyer</target>
+        <note>Button to send a troubleshooting report</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Sent.Message" xml:space="preserve">
         <source>Thank you for your report. We’ll look into the problem and do our best to get it fixed.</source>
@@ -1582,12 +1627,12 @@ Quand votre abonnement gratuit expire, vous devrez payer un abonnement pour util
   </file>
   <file original="../Strings/en.lproj/Validate.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="Validate.Error.Database" xml:space="preserve">
         <source>Validation failed due to a database error.</source>
-        <target>Échec de la validation en raison d'une erreur de la base de données.</target>
+        <target>Échec de la validation en raison d’une erreur de la base de données.</target>
         <note>Error message when the delivery settings cannot be validated due to a database error</note>
       </trans-unit>
       <trans-unit id="Validate.Error.Unsupported" xml:space="preserve">
@@ -1602,7 +1647,7 @@ Quand votre abonnement gratuit expire, vous devrez payer un abonnement pour util
       </trans-unit>
       <trans-unit id="Validate.Invalid.OrderNo.Amazon" xml:space="preserve">
         <source>Enter an order number, not a tracking number.</source>
-        <target>Saisissez un numéro de commande, pas un numéro de suivi.</target>
+        <target>Saisissez un numéro de commande, et non pas un numéro de suivi.</target>
         <note>Error message when an order number is required, but it seems like a tracking number was entered instead</note>
       </trans-unit>
       <trans-unit id="Validate.Invalid.TrackingNo" xml:space="preserve">
@@ -1617,12 +1662,12 @@ Quand votre abonnement gratuit expire, vous devrez payer un abonnement pour util
       </trans-unit>
       <trans-unit id="Validate.Invalid.Website.Amazon" xml:space="preserve">
         <source>Enter a link to a “Track Package” page on Amazon.</source>
-        <target>Vous devez entrer un lien vers une page « Suivre votre commande » sur Amazon.</target>
+        <target>Ajoutez un lien vers la page « Suivre votre commande » sur Amazon.</target>
         <note>Error message when a link to an Amazon tracking page is missing or invalid</note>
       </trans-unit>
       <trans-unit id="Validate.Missing.ConsignNo" xml:space="preserve">
         <source>Enter a consignment number.</source>
-        <target>Saisissez un numéro d'expédition.</target>
+        <target>Saisissez un numéro d’expédition.</target>
         <note>Error message when a consignment number (a specific type of tracking number) is missing</note>
       </trans-unit>
       <trans-unit id="Validate.Missing.Email" xml:space="preserve">
@@ -1657,14 +1702,46 @@ Quand votre abonnement gratuit expire, vous devrez payer un abonnement pour util
       </trans-unit>
     </body>
   </file>
+  <file original="../Strings/en.lproj/Widget.strings" source-language="en" target-language="fr" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CheckDelivery.Description" xml:space="preserve">
+        <source>Check on your next expected package, or one you select. The medium size includes a summary of other upcoming deliveries.</source>
+        <target>Vérifiez le statut du prochain colis à arriver, ou un que vous avez sélectionné. La taille moyenne inclut un résumé d'autres livraisons à venir.</target>
+        <note>Description of a widget that shows upcoming deliveries</note>
+      </trans-unit>
+      <trans-unit id="CheckDelivery.Title" xml:space="preserve">
+        <source>Upcoming Deliveries</source>
+        <target>Livraisons à venir</target>
+        <note>Title for a widget that shows upcoming deliveries</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
         <source>DeliveriesKit</source>
         <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="fr">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+    </header>
+    <body>
+      <trans-unit id="CheckDelivery.Description" xml:space="preserve">
+        <source>CheckDelivery.Description</source>
+        <note>Description of a widget that shows upcoming deliveries</note>
+      </trans-unit>
+      <trans-unit id="CheckDelivery.Title" xml:space="preserve">
+        <source>CheckDelivery.Title</source>
+        <note>Title for a widget that shows upcoming deliveries</note>
       </trans-unit>
     </body>
   </file>
