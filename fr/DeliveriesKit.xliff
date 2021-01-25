@@ -555,6 +555,11 @@
         <target>Réessayez plus tard</target>
         <note>More information explaining what to do about an internet connection error</note>
       </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Invalid" xml:space="preserve">
+        <source>Make sure the information you entered is correct. It’s possible the number was mistyped or the wrong service was selected.</source>
+        <target>Assurez-vous que les informations que vous avez saisies sont correctes, ou vérifiez-les plus tard.</target>
+        <note>Error message used when the tracking number is not valid or some other setting is incorrect.</note>
+      </trans-unit>
       <trans-unit id="DeliveryStatus.Error.NotAvailable" xml:space="preserve">
         <source>Tracking information is not currently available.</source>
         <target>Les informations de suivi ne sont pas disponibles actuellement.</target>

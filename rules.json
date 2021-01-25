@@ -65,7 +65,8 @@
     "file": "Deliveries Intents/en.lproj/InfoPlist.strings", 
     "no-translate": [
       "CFBundleDisplayName", 
-      "CFBundleName"
+      "CFBundleName",
+      "NSHumanReadableCopyright"
     ]
   }, 
   {
@@ -138,6 +139,14 @@
     "no-translate": [
       "CFBundleDisplayName", 
       "CFBundleName"
+    ]
+  }, 
+  {
+    "file": "Deliveries Widget/en.lproj/InfoPlist.strings", 
+    "no-translate": [
+      "CFBundleDisplayName", 
+      "CFBundleName",
+      "NSHumanReadableCopyright"
     ]
   }, 
   {

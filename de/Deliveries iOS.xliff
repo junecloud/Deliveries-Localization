@@ -982,11 +982,11 @@
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
     </header>
     <body>
-      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
         <source>Deliveries Widget</source>
         <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="CFBundleName" xml:space="preserve">
+      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
         <source>Deliveries Widget</source>
         <note>Bundle name</note>
       </trans-unit>

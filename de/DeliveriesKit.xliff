@@ -335,7 +335,7 @@
     <body>
       <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
         <source>Archive</source>
-        <target>Archiv</target>
+        <target>Archivieren</target>
         <note>Action to archive a delivery</note>
       </trans-unit>
       <trans-unit id="Delivery.Action.Copy" xml:space="preserve">
@@ -542,7 +542,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.CheckSettings" xml:space="preserve">
         <source>Make sure the information you entered is correct, or check back later. It may take a day or two until tracking information is available.</source>
-        <target>Stellen Sie sicher, das die Informationen korrekt sind oder schauen Sie später erneut nach. Es kann ein bis zwi Tage dauern bis Lieferinformationen vorhanden sind.</target>
+        <target>Stellen Sie sicher, das die Informationen korrekt sind oder schauen Sie später erneut nach. Es kann ein bis zwei Tage dauern bis Lieferinformationen vorhanden sind.</target>
         <note>Error message used when it is not known whether the tracking number is valid. It's possible the settings may be wrong, or it may be that the tracking system does not have any information yet.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Connection" xml:space="preserve">
@@ -554,6 +554,11 @@
         <source>Try again later</source>
         <target>Später erneut versuchen</target>
         <note>More information explaining what to do about an internet connection error</note>
+      </trans-unit>
+      <trans-unit id="DeliveryStatus.Error.Invalid" xml:space="preserve">
+        <source>Make sure the information you entered is correct. It’s possible the number was mistyped or the wrong service was selected.</source>
+        <target>Stellen Sie sicher, das die Informationen korrekt sind oder schauen Sie später erneut nach.</target>
+        <note>Error message used when the tracking number is not valid or some other setting is incorrect.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.NotAvailable" xml:space="preserve">
         <source>Tracking information is not currently available.</source>
