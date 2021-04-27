@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Common/Intents/Base.lproj/Intents.intentdefinition" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="0OU61a" xml:space="preserve" translate="no">
@@ -301,7 +301,7 @@
   </file>
   <file original="../Common/Intents/en.lproj/Intents.stringsdict" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="/0OU61a:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve" translate="no">
@@ -573,7 +573,7 @@
   </file>
   <file original="../Common/Strings/en.lproj/Siri.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Phrase" xml:space="preserve">
@@ -610,7 +610,7 @@
   </file>
   <file original="Deliveries Add/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -626,7 +626,7 @@
   </file>
   <file original="Deliveries Intents UI/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -641,7 +641,7 @@
   </file>
   <file original="Deliveries Intents/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -656,7 +656,7 @@
   </file>
   <file original="Deliveries Notification/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -671,7 +671,7 @@
   </file>
   <file original="Deliveries Quick Look/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -686,7 +686,7 @@
   </file>
   <file original="Deliveries Spotlight/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -701,7 +701,7 @@
   </file>
   <file original="Deliveries Stickers/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -713,7 +713,7 @@
   </file>
   <file original="Deliveries Stickers/en.lproj/Package Pals.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Happy Package Pal" xml:space="preserve">
@@ -735,7 +735,7 @@
   </file>
   <file original="Deliveries Today/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -751,7 +751,7 @@
   </file>
   <file original="Deliveries Watch Extension/en.lproj/ckcomplication.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id=": iPad Pro…" xml:space="preserve">
@@ -768,7 +768,7 @@
   </file>
   <file original="Deliveries Watch Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -783,7 +783,7 @@
   </file>
   <file original="Deliveries Watch Extension/en.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Watch.Complication.Format" xml:space="preserve">
@@ -815,7 +815,7 @@
   </file>
   <file original="Deliveries Watch Intents/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -830,60 +830,20 @@
   </file>
   <file original="Deliveries Watch/Base.lproj/Interface.storyboard" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
-      <trans-unit id="1VS-wg-AhS.text" xml:space="preserve" translate="no">
-        <source>9 days</source>
-        <note>Class = "WKInterfaceLabel"; text = "9 days"; ObjectID = "1VS-wg-AhS"; Note = "no-translate";</note>
-      </trans-unit>
       <trans-unit id="8Qn-rf-Uxk.text" xml:space="preserve" translate="no">
         <source> </source>
         <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "8Qn-rf-Uxk"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="8tW-G3-6rW.text" xml:space="preserve" translate="no">
-        <source>9</source>
-        <note>Class = "WKInterfaceLabel"; text = "9"; ObjectID = "8tW-G3-6rW"; Note = "no-translate";</note>
       </trans-unit>
       <trans-unit id="88K-oy-WRx.text" xml:space="preserve" translate="no">
         <source> </source>
         <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "88K-oy-WRx"; Note = "no-translate";</note>
       </trans-unit>
-      <trans-unit id="BfQ-5V-l6r.text" xml:space="preserve" translate="no">
-        <source>Delivery Date</source>
-        <note>Class = "WKInterfaceLabel"; text = "Delivery Date"; ObjectID = "BfQ-5V-l6r"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="DT7-PZ-gIX.text" xml:space="preserve" translate="no">
-        <source>3</source>
-        <note>Class = "WKInterfaceLabel"; text = "3"; ObjectID = "DT7-PZ-gIX"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="H8K-mh-SkN.text" xml:space="preserve" translate="no">
-        <source>DAYS</source>
-        <note>Class = "WKInterfaceLabel"; text = "DAYS"; ObjectID = "H8K-mh-SkN"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="HFo-UM-UBj.text" xml:space="preserve" translate="no">
-        <source>Item Name</source>
-        <note>Class = "WKInterfaceLabel"; text = "Item Name"; ObjectID = "HFo-UM-UBj"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="IVk-Ch-iPX.text" xml:space="preserve" translate="no">
-        <source>Updating…</source>
-        <note>Class = "WKInterfaceLabel"; text = "Updating…"; ObjectID = "IVk-Ch-iPX"; Note = "no-translate";</note>
-      </trans-unit>
       <trans-unit id="IqB-CN-0EV.text" xml:space="preserve" translate="no">
         <source> </source>
         <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "IqB-CN-0EV"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="JnG-bV-gBE.text" xml:space="preserve" translate="no">
-        <source>Item Name</source>
-        <note>Class = "WKInterfaceLabel"; text = "Item Name"; ObjectID = "JnG-bV-gBE"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="Os2-TF-oNl.text" xml:space="preserve" translate="no">
-        <source>Location unknown</source>
-        <note>Class = "WKInterfaceLabel"; text = "Location unknown"; ObjectID = "Os2-TF-oNl"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="QMH-N0-oSM.text" xml:space="preserve" translate="no">
-        <source>Current Status</source>
-        <note>Class = "WKInterfaceLabel"; text = "Current Status"; ObjectID = "QMH-N0-oSM"; Note = "no-translate";</note>
       </trans-unit>
       <trans-unit id="R0m-Ld-hE5.text" xml:space="preserve" translate="no">
         <source> </source>
@@ -901,63 +861,28 @@
         <source> </source>
         <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "b5E-0S-I26"; Note = "no-translate";</note>
       </trans-unit>
-      <trans-unit id="bcj-AP-tER.text" xml:space="preserve" translate="no">
-        <source>Updating…</source>
-        <note>Class = "WKInterfaceLabel"; text = "Updating…"; ObjectID = "bcj-AP-tER"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="daX-b2-w9n.text" xml:space="preserve" translate="no">
-        <source>1 of 3</source>
-        <note>Class = "WKInterfaceLabel"; text = "1 of 3"; ObjectID = "daX-b2-w9n"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="fvy-f6-hMx.text" xml:space="preserve" translate="no">
-        <source>Current Status Text</source>
-        <note>Class = "WKInterfaceLabel"; text = "Current Status Text"; ObjectID = "fvy-f6-hMx"; Note = "no-translate";</note>
-      </trans-unit>
       <trans-unit id="h05-YQ-mIR.text" xml:space="preserve" translate="no">
         <source> </source>
         <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "h05-YQ-mIR"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="hEs-gR-Wh8.text" xml:space="preserve" translate="no">
-        <source>You do not have any deliveries</source>
-        <note>Class = "WKInterfaceLabel"; text = "You do not have any deliveries"; ObjectID = "hEs-gR-Wh8"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="hfE-ze-WRn.title" xml:space="preserve">
-        <source>Archive</source>
-        <note>Class = "WKInterfaceButton"; title = "Archive"; ObjectID = "hfE-ze-WRn";</note>
-      </trans-unit>
-      <trans-unit id="lB7-Qs-euw.text" xml:space="preserve" translate="no">
-        <source>Delivery Date</source>
-        <note>Class = "WKInterfaceLabel"; text = "Delivery Date"; ObjectID = "lB7-Qs-euw"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="pOn-Km-rcj.text" xml:space="preserve" translate="no">
-        <source>9 days</source>
-        <note>Class = "WKInterfaceLabel"; text = "9 days"; ObjectID = "pOn-Km-rcj"; Note = "no-translate";</note>
       </trans-unit>
       <trans-unit id="psS-ye-Ndu.text" xml:space="preserve" translate="no">
         <source> </source>
         <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "psS-ye-Ndu"; Note = "no-translate";</note>
       </trans-unit>
-      <trans-unit id="rve-y1-szG.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "rve-y1-szG"; Note = "no-translate";</note>
+      <trans-unit id="rYh-1W-j2X.title" xml:space="preserve">
+        <source>Deliveries</source>
+        <target>Livraisons</target>
+        <note>Class = "string"; title = "Deliveries"; ObjectID = "rYh-1W-j2X";</note>
       </trans-unit>
       <trans-unit id="wCT-Af-Sr6.text" xml:space="preserve" translate="no">
         <source> </source>
         <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "wCT-Af-Sr6"; Note = "no-translate";</note>
       </trans-unit>
-      <trans-unit id="xdk-7A-FwC.text" xml:space="preserve" translate="no">
-        <source>Current Status</source>
-        <note>Class = "WKInterfaceLabel"; text = "Current Status"; ObjectID = "xdk-7A-FwC"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="zif-m2-hcK.text" xml:space="preserve" translate="no">
-        <source>Item Name</source>
-        <note>Class = "WKInterfaceLabel"; text = "Item Name"; ObjectID = "zif-m2-hcK"; Note = "no-translate";</note>
-      </trans-unit>
     </body>
   </file>
   <file original="Deliveries Watch/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -969,7 +894,7 @@
   </file>
   <file original="Deliveries Widget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -984,7 +909,7 @@
   </file>
   <file original="Deliveries/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Add Delivery" xml:space="preserve">
@@ -1023,7 +948,7 @@
         <note>Contacts usage description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2006–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">

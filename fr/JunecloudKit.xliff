@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Button.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Button.Add" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="../Strings/en.lproj/Crash.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Crash.AlwaysSend.Button" xml:space="preserve">
@@ -141,7 +141,7 @@
   </file>
   <file original="../Strings/en.lproj/Data.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Data.DeleteArchive.Button" xml:space="preserve">
@@ -305,7 +305,7 @@
   </file>
   <file original="../Strings/en.lproj/Date.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Date.Countdown.Day" xml:space="preserve">
@@ -372,7 +372,7 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Setting.About.Title" xml:space="preserve">
@@ -430,23 +430,33 @@
         <target>Au bout de %@ jours</target>
         <note>Value for deleting archived items: After {number} Days, for example 'After 90 Days'</note>
       </trans-unit>
-      <trans-unit id="Setting.DeleteArchive.Label" xml:space="preserve">
+      <trans-unit id="Setting.DeleteArchive.Label.iOS" xml:space="preserve">
         <source>Delete Archived Items</source>
         <target>Supprimer les éléments archivés</target>
-        <note>Label for a setting that specifies when archived items should be automatically deleted (for example after one year or six months)</note>
+        <note>Label for a setting that specifies when archived items should be automatically deleted (for example after one year or six months), used on iOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteArchive.Label.macOS" xml:space="preserve">
+        <source>Delete archive:</source>
+        <target>Effacer les archives :</target>
+        <note>Label for a setting that specifies when archived items should be automatically deleted (for example after one year or six months), used on macOS</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteArchive.Manual" xml:space="preserve">
         <source>Manually</source>
         <target>Manuellement</target>
         <note>Value for deleting archived items: only delete items manually</note>
       </trans-unit>
+      <trans-unit id="Setting.DeleteArchive.Now.macOS" xml:space="preserve">
+        <source>Delete Now…</source>
+        <target>Supprimer…</target>
+        <note>Label for a menu item to delete all archived items, used on macOS. A confirmation dialog will appear before any action is taken.</note>
+      </trans-unit>
       <trans-unit id="Setting.DeleteArchive.SixMonths" xml:space="preserve">
-        <source>After 6 Months</source>
+        <source>After Six Months</source>
         <target>Au bout de 6 mois</target>
         <note>Value for deleting archived items: after six months</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteArchive.Year" xml:space="preserve">
-        <source>After a Year</source>
+        <source>After One Year</source>
         <target>Au bout d’un an</target>
         <note>Value for deleting archived items: after a year</note>
       </trans-unit>
@@ -754,7 +764,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Active" xml:space="preserve">
@@ -921,7 +931,7 @@
   </file>
   <file original="../Strings/en.lproj/Update.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Update.Busy" xml:space="preserve">
@@ -988,7 +998,7 @@
   </file>
   <file original="../Strings/en.lproj/Web.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Web.Action.OpenInSafari" xml:space="preserve">
@@ -1020,17 +1030,6 @@
         <source>Would you like to save this password?</source>
         <target>Voulez-vous sauvegarder ce mot de passe ?</target>
         <note>Title for an alert asking whether to save a password</note>
-      </trans-unit>
-    </body>
-  </file>
-  <file original="en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
-        <source>JunecloudKit</source>
-        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>

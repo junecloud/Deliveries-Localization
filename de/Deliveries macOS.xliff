@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Common/Intents/Base.lproj/Intents.intentdefinition" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="0OU61a" xml:space="preserve" translate="no">
@@ -301,7 +301,7 @@
   </file>
   <file original="../Common/Strings/en.lproj/Siri.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Phrase" xml:space="preserve">
@@ -338,7 +338,7 @@
   </file>
   <file original="Deliveries Add/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -351,14 +351,14 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Express/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -377,14 +377,14 @@
         <note>Calendars usage description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Intents/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -396,14 +396,14 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Native Messenger/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
@@ -411,29 +411,33 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
-  <file original="Deliveries Quick Look Plug-In/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
+  <file original="Deliveries Notification/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
+        <source>Deliveries Notification</source>
+        <note>Bundle display name</note>
+      </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
-        <source>Deliveries Quick Look Plug-In</source>
+        <source>Deliveries Notification</source>
         <note>Bundle name</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Quick Look/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -446,34 +450,26 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Spotlight Plug-In/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
-      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
-        <source>Deliveries Spotlight Plug-In</source>
-        <note>Bundle name</note>
-      </trans-unit>
       <trans-unit id="Deliveries document" xml:space="preserve">
         <source>Deliveries document</source>
         <target>Lieferdokument</target>
         <note>File type for .deliveries files</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
-        <note>Copyright (human-readable)</note>
-      </trans-unit>
     </body>
   </file>
   <file original="Deliveries Spotlight/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -485,14 +481,14 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Today/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -505,7 +501,7 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="com.apple.notificationcenter.widget.description" xml:space="preserve">
@@ -517,7 +513,7 @@
   </file>
   <file original="Deliveries Widget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -529,14 +525,14 @@
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries/Base.lproj/Deliveries.storyboard" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="EDv-Ru-j9Z.label" xml:space="preserve">
@@ -588,95 +584,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Deliveries/Base.lproj/JUNGeneralPreferencesView.xib" source-language="en" target-language="de" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
-    </header>
-    <body>
-      <trans-unit id="7fS-gY-9JB.title" xml:space="preserve">
-        <source>Manually</source>
-        <target>Manuell</target>
-        <note>Class = "NSMenuItem"; title = "Manually"; ObjectID = "7fS-gY-9JB";</note>
-      </trans-unit>
-      <trans-unit id="15a-ks-aM1.title" xml:space="preserve">
-        <source>After 6 months</source>
-        <target>Nach 6 Monaten</target>
-        <note>Class = "NSMenuItem"; title = "After 6 months"; ObjectID = "15a-ks-aM1";</note>
-      </trans-unit>
-      <trans-unit id="924.title" xml:space="preserve">
-        <source>Update in the background</source>
-        <target>Im Hintergrund aktualisieren</target>
-        <note>Class = "NSButtonCell"; title = "Update in the background"; ObjectID = "924";</note>
-      </trans-unit>
-      <trans-unit id="Gec-ce-Cqv.title" xml:space="preserve">
-        <source>Manually</source>
-        <target>Manuell</target>
-        <note>Class = "NSMenuItem"; title = "Manually"; ObjectID = "Gec-ce-Cqv";</note>
-      </trans-unit>
-      <trans-unit id="PEx-Jj-Uz9.title" xml:space="preserve">
-        <source>After a year</source>
-        <target>Nach einem Jahr</target>
-        <note>Class = "NSMenuItem"; title = "After a year"; ObjectID = "PEx-Jj-Uz9";</note>
-      </trans-unit>
-      <trans-unit id="Rhf-f3-od5.title" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "NSMenuItem"; title = " "; ObjectID = "Rhf-f3-od5"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="Vbx-tf-MCi.title" xml:space="preserve">
-        <source>Delete archive:</source>
-        <target>Archiv löschen:</target>
-        <note>Class = "NSTextFieldCell"; title = "Delete archive:"; ObjectID = "Vbx-tf-MCi";</note>
-      </trans-unit>
-      <trans-unit id="W8y-0h-gEm.title" xml:space="preserve">
-        <source>After 90 days</source>
-        <target>Nach 90 Tagen</target>
-        <note>Class = "NSMenuItem"; title = "After 90 days"; ObjectID = "W8y-0h-gEm";</note>
-      </trans-unit>
-      <trans-unit id="bPy-We-i3G.title" xml:space="preserve">
-        <source>Delivery Date</source>
-        <target>Lieferdatum</target>
-        <note>Class = "NSMenuItem"; title = "Delivery Date"; ObjectID = "bPy-We-i3G";</note>
-      </trans-unit>
-      <trans-unit id="cQR-1L-2Ec.title" xml:space="preserve">
-        <source>Last Changed</source>
-        <target>Letzte Aktualisierung</target>
-        <note>Class = "NSMenuItem"; title = "Last Changed"; ObjectID = "cQR-1L-2Ec";</note>
-      </trans-unit>
-      <trans-unit id="dmY-cX-77v.title" xml:space="preserve">
-        <source>Add to calendar:</source>
-        <target>Zum Kalender hinzufügen:</target>
-        <note>Class = "NSTextFieldCell"; title = "Add to calendar:"; ObjectID = "dmY-cX-77v";</note>
-      </trans-unit>
-      <trans-unit id="lRM-KV-eBu.title" xml:space="preserve">
-        <source>Delete now…</source>
-        <target>Jetzt leeren …</target>
-        <note>Class = "NSMenuItem"; title = "Delete now…"; ObjectID = "lRM-KV-eBu";</note>
-      </trans-unit>
-      <trans-unit id="llO-BB-Yqz.title" xml:space="preserve">
-        <source>Show Deliveries in the menu bar</source>
-        <target>Icon in der Menüleiste anzeigen</target>
-        <note>Class = "NSButtonCell"; title = "Show Deliveries in the menu bar"; ObjectID = "llO-BB-Yqz";</note>
-      </trans-unit>
-      <trans-unit id="mL8-nW-0Il.title" xml:space="preserve">
-        <source>When enabled, Deliveries Express will update and show notifications even if you quit the app.</source>
-        <target>Nach Aktivierung wird sich Lieferungen Express auch bei geschlossener App aktualisieren und zeigt Benachrichtigungen an.</target>
-        <note>Class = "NSTextFieldCell"; title = "When enabled, Deliveries Express will update and show notifications even if you quit the app."; ObjectID = "mL8-nW-0Il";</note>
-      </trans-unit>
-      <trans-unit id="xrG-6R-7zh.title" xml:space="preserve">
-        <source>Sort by:</source>
-        <target>Ordnen nach:</target>
-        <note>Class = "NSTextFieldCell"; title = "Sort by:"; ObjectID = "xrG-6R-7zh";</note>
-      </trans-unit>
-      <trans-unit id="zUf-Uj-B3X.title" xml:space="preserve">
-        <source>Open System Preferences</source>
-        <target>Systemeinstellungen öffnen</target>
-        <note>Class = "NSButtonCell"; title = "Open System Preferences"; ObjectID = "zUf-Uj-B3X";</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="Deliveries/Base.lproj/JUNOnlineSignInWindow.xib" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="2nJ-Dm-GVs.label" xml:space="preserve" translate="no">
@@ -716,7 +626,7 @@
   </file>
   <file original="Deliveries/Base.lproj/JUNShortcutsPreferencesView.xib" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="8SE-IZ-2pS.title" xml:space="preserve">
@@ -737,7 +647,7 @@
   </file>
   <file original="Deliveries/Base.lproj/MainMenu.xib" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="1Xt-HY-uBw.title" xml:space="preserve">
@@ -1054,7 +964,7 @@
   </file>
   <file original="Deliveries/en.lproj/InfoPlist.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Add to Deliveries" xml:space="preserve">
@@ -1088,7 +998,7 @@
         <note>Contacts usage description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
-        <source>© 2014–2020 Junecloud LLC. All rights reserved.</source>
+        <source>© 2006–2021 Junecloud LLC. All rights reserved.</source>
         <note>Copyright (human-readable)</note>
       </trans-unit>
       <trans-unit id="Web internet location" xml:space="preserve">
@@ -1100,7 +1010,7 @@
   </file>
   <file original="Deliveries/en.lproj/ServicesMenu.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Add to Deliveries" xml:space="preserve">

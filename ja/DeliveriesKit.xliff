@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Add.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Add.Barcode.Header" xml:space="preserve">
@@ -129,7 +129,7 @@
   </file>
   <file original="../Strings/en.lproj/Beta.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Beta.Expired.Message" xml:space="preserve">
@@ -146,7 +146,7 @@
   </file>
   <file original="../Strings/en.lproj/Camera.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
@@ -178,7 +178,7 @@
   </file>
   <file original="../Strings/en.lproj/Deliveries.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Deliveries.ClipboardPrompt.Message" xml:space="preserve">
@@ -325,7 +325,7 @@
   </file>
   <file original="../Strings/en.lproj/Delivery.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
@@ -507,7 +507,7 @@
   </file>
   <file original="../Strings/en.lproj/DeliveryStatus.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="DeliveryStatus.Busy" xml:space="preserve">
@@ -551,7 +551,7 @@
         <note>More information explaining what to do about an internet connection error</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Invalid" xml:space="preserve">
-        <source>Make sure the information you entered is correct. It’s possible the number was mistyped or the wrong service was selected.</source>
+        <source>Make sure the information you entered is correct. It’s possible the number is incorrect or the wrong service was selected.</source>
         <target>入力された情報が正しいことを確認するか、後で確認してください。</target>
         <note>Error message used when the tracking number is not valid or some other setting is incorrect.</note>
       </trans-unit>
@@ -669,7 +669,7 @@
   </file>
   <file original="../Strings/en.lproj/Location.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Location.Adjust" xml:space="preserve">
@@ -726,7 +726,7 @@
   </file>
   <file original="../Strings/en.lproj/Mail.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Mail.AddNew.Button" xml:space="preserve">
@@ -828,7 +828,7 @@
   </file>
   <file original="../Strings/en.lproj/Menu.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Menu.Export" xml:space="preserve">
@@ -901,11 +901,16 @@
         <target>フィードバックを送信</target>
         <note>Menu item to open a window to send feedback</note>
       </trans-unit>
+      <trans-unit id="Menu.Share.More" xml:space="preserve">
+        <source>More…</source>
+        <target>その他…</target>
+        <note>Menu item at the bottom of the Share menu that opens System Preferences &gt; Extensions &gt; Share Menu, so more Share options can be added. Only used on macOS.</note>
+      </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Service.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Service.Adobe" xml:space="preserve">
@@ -1302,9 +1307,24 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
+      <trans-unit id="Setting.Advanced.Title" xml:space="preserve">
+        <source>Advanced</source>
+        <target>高度な設定</target>
+        <note>Title for advanced settings view</note>
+      </trans-unit>
+      <trans-unit id="Setting.Background.Label.macOS" xml:space="preserve">
+        <source>Update in the background</source>
+        <target>アップデートを自動的に確認</target>
+        <note>Label for a checkbox that enables the app to run in the background, used on macOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.Background.Message.macOS" xml:space="preserve">
+        <source>When enabled, Deliveries Express will update and show notifications even if you quit the app.</source>
+        <target>チェックボックスを有効にするとデリバリーズを終了していてもアップデートが通知されます。</target>
+        <note>Message explaining what will happen when background updates are enabled, used on macOS</note>
+      </trans-unit>
       <trans-unit id="Setting.BetaServiceUpdates.Explanation" xml:space="preserve">
         <source>Beta service updates let you try fixes for problems while they’re still being tested. In some cases they may cause unexpected problems.</source>
         <target>ベータサービスのアップデートでは、まだテスト中の問題の修正を試すことができます。場合によっては、予期せぬ問題が発生する可能性があります。</target>
@@ -1325,10 +1345,15 @@
         <target>デリバリーズは配送予定日を追加するためには、あなたのカレンダーにアクセスする必要があります。設定.appを開き、「プライバシー」をタップし、カレンダーがオンになっていることを確認してください</target>
         <note>Error message explaining that Deliveries needs access to the user's calendars in order to enable the setting to add events to a calendar automatically</note>
       </trans-unit>
-      <trans-unit id="Setting.Calendar.Label" xml:space="preserve">
+      <trans-unit id="Setting.Calendar.Label.iOS" xml:space="preserve">
         <source>Add to Calendar</source>
         <target>カレンダーに追加</target>
-        <note>Label for a setting to automatically add events to a calendar</note>
+        <note>Label for a setting to automatically add events to a calendar, used on iOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.Calendar.Label.macOS" xml:space="preserve">
+        <source>Add to calendar:</source>
+        <target>カレンダーに追加：</target>
+        <note>Label for a setting to automatically add events to a calendar, used on macOS</note>
       </trans-unit>
       <trans-unit id="Setting.ClipboardDetection.Allow" xml:space="preserve">
         <source>Allow</source>
@@ -1354,6 +1379,11 @@
         <source>Clipboard Detection</source>
         <target>クリップボード内検出</target>
         <note>Title for a setting that determines whether the app automatically detects tracking information on the clipboard</note>
+      </trans-unit>
+      <trans-unit id="Setting.MenuBar.Label.macOS" xml:space="preserve">
+        <source>Show Deliveries in the menu bar</source>
+        <target>メニューバーにアイコンを表示</target>
+        <note>Label for a checkbox that shows the app in the menu bar, used on macOS</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Background.Footer" xml:space="preserve">
         <source>Background App Refresh is required for notifications. Tap Open Settings and make sure Background App Refresh is on.</source>
@@ -1390,10 +1420,15 @@
         <target>配送日順</target>
         <note>Sort setting value: items are ordered by delivery date</note>
       </trans-unit>
-      <trans-unit id="Setting.Sort.Label" xml:space="preserve">
+      <trans-unit id="Setting.Sort.Label.iOS" xml:space="preserve">
         <source>Sort By</source>
         <target>並び順</target>
-        <note>Label for sorting options</note>
+        <note>Label for sorting options, used on iOS</note>
+      </trans-unit>
+      <trans-unit id="Setting.Sort.Label.macOS" xml:space="preserve">
+        <source>Sort by:</source>
+        <target>並び順：</target>
+        <note>Label for sorting options, used on macOS</note>
       </trans-unit>
       <trans-unit id="Setting.Sort.LastChanged" xml:space="preserve">
         <source>Last Changed</source>
@@ -1405,16 +1440,11 @@
         <target>手動</target>
         <note>Sort setting value: items are ordered manually</note>
       </trans-unit>
-      <trans-unit id="Settings.Advanced.Title" xml:space="preserve">
-        <source>Advanced</source>
-        <target>高度な設定</target>
-        <note>Title for advanced settings view</note>
-      </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Title" xml:space="preserve">
@@ -1530,7 +1560,7 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
   </file>
   <file original="../Strings/en.lproj/Troubleshoot.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
@@ -1627,7 +1657,7 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
   </file>
   <file original="../Strings/en.lproj/Validate.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="Validate.Error.Database" xml:space="preserve">
@@ -1704,7 +1734,7 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
   </file>
   <file original="../Strings/en.lproj/Widget.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Description" xml:space="preserve">
@@ -1719,20 +1749,9 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
       </trans-unit>
     </body>
   </file>
-  <file original="en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="ja">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
-    </header>
-    <body>
-      <trans-unit id="CFBundleName" xml:space="preserve" translate="no">
-        <source>DeliveriesKit</source>
-        <note>Bundle name</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="ja">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.3" build-num="12C33"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Description" xml:space="preserve">
