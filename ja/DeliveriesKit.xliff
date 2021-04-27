@@ -15,11 +15,6 @@
         <target>一番近いものを選ぶ</target>
         <note>Heading for a list of suggested deliveries to add, based on the input</note>
       </trans-unit>
-      <trans-unit id="Add.Clipboard.Header" xml:space="preserve">
-        <source>Add from your clipboard</source>
-        <target>クリップボードから追加</target>
-        <note>Heading for a list of suggested deliveries to add, based on the contents of the clipboard</note>
-      </trans-unit>
       <trans-unit id="Add.Edit.Header" xml:space="preserve">
         <source>Edit an existing delivery</source>
         <target>既存の配達項目を編集</target>

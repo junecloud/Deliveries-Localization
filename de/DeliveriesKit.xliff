@@ -15,11 +15,6 @@
         <target>Wähle den passenden Vorschlag</target>
         <note>Heading for a list of suggested deliveries to add, based on the input</note>
       </trans-unit>
-      <trans-unit id="Add.Clipboard.Header" xml:space="preserve">
-        <source>Add from your clipboard</source>
-        <target>Aus der Zwischenablage hinzufügen</target>
-        <note>Heading for a list of suggested deliveries to add, based on the contents of the clipboard</note>
-      </trans-unit>
       <trans-unit id="Add.Edit.Header" xml:space="preserve">
         <source>Edit an existing delivery</source>
         <target>Bestehende Lieferung bearbeiten</target>

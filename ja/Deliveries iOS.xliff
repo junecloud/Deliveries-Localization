@@ -749,16 +749,6 @@
         <source> </source>
         <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "88K-oy-WRx"; Note = "no-translate";</note>
       </trans-unit>
-      <trans-unit id="AgC-eL-Hgc.title" xml:space="preserve">
-        <source>Deliveries</source>
-        <target>デリバリーズ</target>
-        <note>Class = "WKInterfaceController"; title = "Deliveries"; ObjectID = "AgC-eL-Hgc";</note>
-      </trans-unit>
-      <trans-unit id="B4x-Mi-ElA.text" xml:space="preserve">
-        <source>Show More…</source>
-        <target>さらに見る…</target>
-        <note>Class = "WKInterfaceLabel"; text = "Show More…"; ObjectID = "B4x-Mi-ElA";</note>
-      </trans-unit>
       <trans-unit id="BfQ-5V-l6r.text" xml:space="preserve" translate="no">
         <source>Delivery Date</source>
         <note>Class = "WKInterfaceLabel"; text = "Delivery Date"; ObjectID = "BfQ-5V-l6r"; Note = "no-translate";</note>
