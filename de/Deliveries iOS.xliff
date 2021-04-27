@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="13oLIK" xml:space="preserve">
         <source>There was an error loading your data.</source>
-        <target>There was an error loading your data.</target>
+        <target>Es gab ein Problem beim Laden deiner Daten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="22pFJo" xml:space="preserve">
@@ -212,12 +212,12 @@
       </trans-unit>
       <trans-unit id="jhTnZF" xml:space="preserve">
         <source>Packages</source>
-        <target>Paket</target>
+        <target>Pakete</target>
         <note/>
       </trans-unit>
       <trans-unit id="k78Kwn" xml:space="preserve">
         <source>Just to confirm, you wanted “${package}”?</source>
-        <target>Nur zur Bestätigung, Sie wollten “${package}”?</target>
+        <target>Nur zur Bestätigung, du wolltest “${package}”?</target>
         <note/>
       </trans-unit>
       <trans-unit id="mFbeBx" xml:space="preserve">
@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="pVV340" xml:space="preserve">
         <source>You don’t have any deliveries.</source>
-        <target>Sie haben keine Lieferungen.</target>
+        <target>Du hast keine Lieferungen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="qohQd8" xml:space="preserve">
@@ -275,7 +275,7 @@
       </trans-unit>
       <trans-unit id="xPZO7D" xml:space="preserve">
         <source>There was an error loading your data.</source>
-        <target>Beim Laden der Daten ist ein Fehler aufgetreten.</target>
+        <target>Es gab ein Problem beim Laden deiner Daten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="xlgvMq" xml:space="preserve">
@@ -541,7 +541,7 @@
       </trans-unit>
       <trans-unit id="/teFm7y:dict/upcomingCount:dict/other:dict/:string" xml:space="preserve">
         <source>Your delivery has %d upcoming packages. They do not have estimated dates.</source>
-        <target>Dein Lieferung hat %d bevorstehende Pakete. Sie haben kein voraussichtliches Lieferdatum.</target>
+        <target>Deine Lieferung hat %d bevorstehende Pakete. Sie haben kein voraussichtliches Lieferdatum.</target>
         <note/>
       </trans-unit>
       <trans-unit id="/yJjRtR:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve" translate="no">
@@ -603,7 +603,7 @@
       </trans-unit>
       <trans-unit id="Packages.Title" xml:space="preserve">
         <source>Packages</source>
-        <target>Paket</target>
+        <target>Pakete</target>
         <note>Title used for a list of packages that can be selected</note>
       </trans-unit>
     </body>
@@ -1019,17 +1019,17 @@
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to add estimated delivery dates to your calendar.</source>
-        <target>Lieferungen braucht Ihre Zustimmung um ein voraussichtliches Lieferdatum ihrem Kalender hinzuzufügen.</target>
+        <target>Lieferungen braucht Ihre Zustimmung, um ein voraussichtliches Lieferdatum Ihrem Kalender hinzuzufügen.</target>
         <note>Calendars usage description</note>
       </trans-unit>
       <trans-unit id="NSCameraUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to use the camera to scan barcodes.</source>
-        <target>Lieferungen braucht Ihre Zustimmung um die Kamera zum Scannen von Barcodes zu verwenden.</target>
+        <target>Lieferungen braucht Ihre Zustimmung, um die Kamera zum Scannen von Barcodes zu verwenden.</target>
         <note>Camera usage description</note>
       </trans-unit>
       <trans-unit id="NSContactsUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to add to your contacts.</source>
-        <target>Lieferungen braucht ihre Erlaubnis um etwas Ihren Kontakten hinzuzufügen.</target>
+        <target>Lieferungen braucht Ihre Erlaubnis, um etwas Ihren Kontakten hinzuzufügen.</target>
         <note>Contacts usage description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
@@ -1038,12 +1038,12 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to save images to your photo library.</source>
-        <target>Lieferungen braucht Ihre Zustimmung um Bilder in ihre Photobibliothek zu speichern.</target>
+        <target>Lieferungen braucht Ihre Zustimmung, um Bilder in Ihre Fotomediathek zu speichern.</target>
         <note>Photo library add-only usage description</note>
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to save images to your photo library.</source>
-        <target>Lieferungen braucht Ihre Zustimmung um Bilder in ihre Photobibliothek zu speichern.</target>
+        <target>Lieferungen braucht Ihre Zustimmung, um Bilder in Ihre Fotomediathek zu speichern.</target>
         <note>Photo library usage description</note>
       </trans-unit>
       <trans-unit id="Scan Barcode" xml:space="preserve">

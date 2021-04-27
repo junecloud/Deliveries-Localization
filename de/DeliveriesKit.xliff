@@ -32,7 +32,7 @@
       </trans-unit>
       <trans-unit id="Add.Edit.Placeholder.Footer" xml:space="preserve">
         <source>A placeholder is a way to manually keep track of deliveries from services we don’t support directly. Enter as much information as you like as a reminder to check on this package later.</source>
-        <target>Ein Platzhalter ist eine Möglichkeit manuell eine Liferung eines Dienstes zu verfolgen, den wir nicht unterstüützen. Fügen Sie so viele Informationen hinzu, wie Sie mögen.</target>
+        <target>Ein Platzhalter ist eine Möglichkeit, manuell eine Lieferung eines Dienstes zu verfolgen, den wir nicht unterstützen. Fügen Sie so viele Informationen hinzu, wie Sie mögen.</target>
         <note>Footer text that appears below settings for a placeholder delivery</note>
       </trans-unit>
       <trans-unit id="Add.Edit.Title" xml:space="preserve">
@@ -47,7 +47,7 @@
       </trans-unit>
       <trans-unit id="Add.Help.Button" xml:space="preserve">
         <source>Learn more ways to add deliveries</source>
-        <target>Lernen Sie weitere Wege um Lieferungen hinzuzufügen</target>
+        <target>Lernen Sie weitere Wege, um Lieferungen hinzuzufügen</target>
         <note>Button that shows helpful information about additional ways to add new deliveries</note>
       </trans-unit>
       <trans-unit id="Add.Import.Header" xml:space="preserve">
@@ -57,7 +57,7 @@
       </trans-unit>
       <trans-unit id="Add.Input.Placeholder" xml:space="preserve">
         <source>Enter a tracking number, web address, shipping company, or other information</source>
-        <target>Füge eine Liefernummer, URL, Lieferfirma oder andere informationen ein</target>
+        <target>Füge eine Liefernummer, URL, Lieferfirma oder andere Informationen ein</target>
         <note>Placeholder text briefly explaining what types of information can be entered in the Add Delivery text field</note>
       </trans-unit>
       <trans-unit id="Add.Manual.Header" xml:space="preserve">
@@ -72,7 +72,7 @@
       </trans-unit>
       <trans-unit id="Add.Multiple.Select.Header" xml:space="preserve">
         <source>Select deliveries to add</source>
-        <target>Lieferungen, zum hinzufügen, auswählen</target>
+        <target>Lieferungen, zum Hinzufügen, auswählen</target>
         <note>Heading for a section where multiple deliveries can be selected to add</note>
       </trans-unit>
       <trans-unit id="Add.Multiple.Title" xml:space="preserve">
@@ -139,7 +139,7 @@
     <body>
       <trans-unit id="Beta.Expired.Message" xml:space="preserve">
         <source>Please visit the site to check for a new version. If a newer version is not available, in most cases you can safely delete the beta version and download the latest version from the Mac App Store.</source>
-        <target>Bitte besuchen Sie die Webseite um zu überprüfen, ob eine neue Version verfügbar ist. Falls es keine neue Version gibt, können Sie in den meisten Fällen einfach die Beta löschen und die aktuelle Version aus dem Mac App Store laden.</target>
+        <target>Bitte besuchen Sie die Webseite, um zu überprüfen, ob eine neue Version verfügbar ist. Falls es keine neue Version gibt, können Sie in den meisten Fällen einfach die Beta löschen und die aktuelle Version aus dem Mac App Store laden.</target>
         <note>Message for an alert explaining that the beta is expired</note>
       </trans-unit>
       <trans-unit id="Beta.Expired.Title" xml:space="preserve">
@@ -156,17 +156,17 @@
     <body>
       <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
         <source>Turn off torch</source>
-        <target>Taschenlampe abschalten</target>
+        <target>Taschenlampe ausschalten</target>
         <note>Button to turn off the torch (flashlight), used by VoiceOver</note>
       </trans-unit>
       <trans-unit id="Camera.Torch.On.VoiceOver" xml:space="preserve">
         <source>Turn on torch</source>
-        <target>Taschenlampe anschalten</target>
+        <target>Taschenlampe einschalten</target>
         <note>Button to turn on the torch (flashlight), used by VoiceOver</note>
       </trans-unit>
       <trans-unit id="Camera.Unavailable.Message" xml:space="preserve">
         <source>Open the Settings app and make sure Camera access is allowed.</source>
-        <target>Bitte überprüfen Sie die Einstellungen app und stellen Sie sicher, dass der Zugriff auf die Kamera erlaubt ist.</target>
+        <target>Bitte überprüfen Sie die Einstellungen App und stellen Sie sicher, dass der Zugriff auf die Kamera erlaubt ist.</target>
         <note>Message shown whem the camera is not available, explaning how to fix the problem</note>
       </trans-unit>
       <trans-unit id="Camera.Unavailable.Multitasking" xml:space="preserve">
@@ -188,7 +188,7 @@
     <body>
       <trans-unit id="Deliveries.ClipboardPrompt.Message" xml:space="preserve">
         <source>It looks like you have a tracking number on your clipboard. Tap to add it.</source>
-        <target>Anscheinend haben Sie eine Liefernummer in ihrem Clipboard. Tippen Sie um sie hinzuzufügen.</target>
+        <target>Anscheinend haben Sie eine Liefernummer in Ihrer Zwischenablage. Tippen Sie, um sie hinzuzufügen.</target>
         <note>Message for a popup alert when a tracking number is detected on the clipboard</note>
       </trans-unit>
       <trans-unit id="Deliveries.ClipboardPrompt.Title.Format" xml:space="preserve">
@@ -198,7 +198,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Message" xml:space="preserve">
         <source>It looks like you have an older version of the app installed. You may run into problems if you keep both versions. To delete the older version, click the Reveal button below, then drag the icon to the Trash.</source>
-        <target>Es scheint, Sie haben eine ältere Version der App installiert. Wenn Sie beide behalten, kann es zu Problemen kommen. Um die ältere Version zu löschen, klicken Sie den Zeigen Button und bewegen das Icon dann in den Papierkorb.</target>
+        <target>Es scheint, als hätten Sie eine ältere Version der App installiert. Wenn Sie beide behalten, kann es zu Problemen kommen. Um die ältere Version zu löschen, klicken Sie den Zeigen Button und bewegen das Icon dann in den Papierkorb.</target>
         <note>Message for an alert explaining that a duplicate copy of the app was detected</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Removed.Message" xml:space="preserve">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Removed.Title" xml:space="preserve">
         <source>Duplicate App Removed</source>
-        <target>Verdoppelte App entfernt</target>
+        <target>Doppelte App entfernt</target>
         <note>Title for an alert explaining that a duplicate copy of the app has been removed</note>
       </trans-unit>
       <trans-unit id="Deliveries.DuplicateApp.Title" xml:space="preserve">
@@ -233,22 +233,22 @@
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.iOS" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Settings, tapping Advanced, then turning off the “Beta service updates” switch.</source>
-        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können den Service resetten, in dem Sie in den Einstellungen unter Erweitert, den Switch für “Beta service updates” abschalten.</target>
+        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können die Dienst Aktualisierungen zurücksetzen, indem Sie in den Einstellungen unter Erweitert, den Schalter für “Beta Dienst Aktualisierungen” ausschalten.</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on iOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Preferences, clicking Advanced, then unchecking the “Beta service updates” box.</source>
-        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können den Service resetten, in dem Sie in den Einstellungen unter Erweitert das Häkchen bei “Beta service updates” entfernen.</target>
+        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können die Dienst Aktualisierungen zurücksetzen, indem Sie in den Einstellungen unter Erweitert das Häkchen bei “Beta Dienst Aktualisierungen” entfernen.</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Title.Format" xml:space="preserve">
         <source>Installed service update %@</source>
-        <target>Service Aktualisierung installier: %@</target>
+        <target>Dienst Aktualisierung installiert: %@</target>
         <note>Title for an alert shown when a beta service update has finished installing: Installed service update {version number}</note>
       </trans-unit>
       <trans-unit id="Deliveries.LimitMessage" xml:space="preserve">
         <source>You’ve reached the maximum number of active deliveries. To add more, archive or delete some of your current deliveries first.</source>
-        <target>Sie haben die maximale Anzahl an aktiven Lieferungen erreicht. Archivieren oder löschen Sie bestehende um weitere hinzufügen zu können.</target>
+        <target>Sie haben die maximale Anzahl an aktiven Lieferungen erreicht. Archivieren oder löschen Sie bestehende, um weitere hinzufügen zu können.</target>
         <note>Message for an alert explaining that the maximum number of active deliveries has been reached, and it will be necessary to archive or delete deliveries before adding more</note>
       </trans-unit>
       <trans-unit id="Deliveries.LimitTitle" xml:space="preserve">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.Search.Archive" xml:space="preserve">
         <source>Archived</source>
-        <target>Archiv</target>
+        <target>Archiviert</target>
         <note>Search filter for only archived deliveries</note>
       </trans-unit>
       <trans-unit id="Deliveries.Title" xml:space="preserve">
@@ -313,7 +313,7 @@
       </trans-unit>
       <trans-unit id="Deliveries.Update.Exception" xml:space="preserve">
         <source>Deliveries is unable to refresh due to a problem with the current service update. Troubleshooting may be able to fix the problem automatically. If not, you can report the problem to Junecloud.</source>
-        <target>Lieferungen konnte aufgrund eines Problems mit dem aktuellen Service update sich nicht aktualisieren. Problembehandlung kann dieses Problem vielleicht automatisch beheben. Falls nicht, können Sie dieses Problem an Junecloud melden.</target>
+        <target>Lieferungen konnte aufgrund eines Problems mit der aktuellen Dienst Aktualisierung sich nicht aktualisieren. Problembehandlung kann dieses Problem vielleicht automatisch beheben. Falls nicht, können Sie dieses Problem an Junecloud melden.</target>
         <note>Message shown when there was a major error updating a delivery</note>
       </trans-unit>
       <trans-unit id="Deliveries.Update.Resume" xml:space="preserve">
@@ -542,7 +542,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.CheckSettings" xml:space="preserve">
         <source>Make sure the information you entered is correct, or check back later. It may take a day or two until tracking information is available.</source>
-        <target>Stellen Sie sicher, das die Informationen korrekt sind oder schauen Sie später erneut nach. Es kann ein bis zwei Tage dauern bis Lieferinformationen vorhanden sind.</target>
+        <target>Stellen Sie sicher, dass die Informationen korrekt sind oder schauen Sie später erneut nach. Es kann ein bis zwei Tage dauern bis Lieferinformationen vorhanden sind.</target>
         <note>Error message used when it is not known whether the tracking number is valid. It's possible the settings may be wrong, or it may be that the tracking system does not have any information yet.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Connection" xml:space="preserve">
@@ -557,7 +557,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Invalid" xml:space="preserve">
         <source>Make sure the information you entered is correct. It’s possible the number was mistyped or the wrong service was selected.</source>
-        <target>Stellen Sie sicher, das die Informationen korrekt sind oder schauen Sie später erneut nach.</target>
+        <target>Stellen Sie sicher, dass die Informationen korrekt sind oder schauen Sie später erneut nach.</target>
         <note>Error message used when the tracking number is not valid or some other setting is incorrect.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.NotAvailable" xml:space="preserve">
@@ -582,7 +582,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.SignIn.Detail" xml:space="preserve">
         <source>Sign in to update this delivery.</source>
-        <target>Melden Sie sich an um diese Lieferung zu aktualisieren.</target>
+        <target>Melden Sie sich an, um diese Lieferung zu aktualisieren.</target>
         <note>More information explaining what to do about a sign in error</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Subscription" xml:space="preserve">
@@ -592,7 +592,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Subscription.Detail" xml:space="preserve">
         <source>Subscribe to update this shipment.</source>
-        <target>Schließen Sie ein Abo ab um Aktualisierungen zu erhalten.</target>
+        <target>Schließen Sie ein Abo ab, um Aktualisierungen zu erhalten.</target>
         <note>Error message used to explain that the delivery cannot be updated without an active subscription</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Unknown" xml:space="preserve">
@@ -704,12 +704,12 @@
       </trans-unit>
       <trans-unit id="Location.Reset.Message.iOS" xml:space="preserve">
         <source>This location was set manually. Tap and hold the pin to adjust it further, or tap “Reset Location” to move it back.</source>
-        <target>Diese Position wurde manuell angepasst. Tippe und halte einen Pin um ihn weiter anzupassen oder tippe „Ort neu setzen“ um die alte Position zu erhalten.</target>
+        <target>Diese Position wurde manuell angepasst. Tippen und halten Sie einen Pin, um ihn weiter anzupassen oder tippen Sie „Ort neu setzen“, um die alte Position zu erhalten.</target>
         <note>Message for an alert explaining that the location was manually adjusted, on iOS</note>
       </trans-unit>
       <trans-unit id="Location.Reset.Message.macOS" xml:space="preserve">
         <source>This location was set manually. Drag the pin to adjust it further, or click “Reset Location” to move it back.</source>
-        <target>Dieser Ort wurde manuell gewählt. Ziehen sie den Pin um ihn weiter anzupassen oder klicken Sie auf „Ort zurücksetzen“ um ihn zurückzusetzen.</target>
+        <target>Dieser Ort wurde manuell gewählt. Ziehen Sie den Pin, um ihn weiter anzupassen oder klicken Sie auf „Ort zurücksetzen“, um ihn zurückzusetzen.</target>
         <note>Message for an alert explaining that the location was manually adjusted, on macOS</note>
       </trans-unit>
       <trans-unit id="Location.Reset.Title" xml:space="preserve">
@@ -751,12 +751,12 @@
       </trans-unit>
       <trans-unit id="Mail.ConfirmOff.Message" xml:space="preserve">
         <source>Shipments sent to your forwarding address will no longer be added to your account. If you turn it back on later, you’ll get a new address.</source>
-        <target>Sendungen, die an ihre Weiterleitungsadresse geschickt werden, werden nicht mehr ihrem Account hinuzugefügt. Falls Sie dies erneut anschalten wollen, erhalten Sie eine neue Adresse.</target>
+        <target>Sendungen, die an Ihre Weiterleitungsadresse geschickt werden, werden nicht mehr Ihrem Account hinuzugefügt. Falls Sie dies erneut einschalten wollen, erhalten Sie eine neue Adresse.</target>
         <note>Message for an alert</note>
       </trans-unit>
       <trans-unit id="Mail.ConfirmOff.Title" xml:space="preserve">
         <source>Turn off Mail to Deliveries?</source>
-        <target>Mail zu Lieferungen abschalten?</target>
+        <target>Mail zu Lieferungen ausschalten?</target>
         <note>Title for an alert</note>
       </trans-unit>
       <trans-unit id="Mail.Contacts.Button" xml:space="preserve">
@@ -766,27 +766,27 @@
       </trans-unit>
       <trans-unit id="Mail.Description" xml:space="preserve">
         <source>Mail to Deliveries allows you to forward emails with tracking information to add them to Deliveries. Your forwarding address is linked to your Junecloud account, so messages sent from any email address will be added to your account.</source>
-        <target>Mail zu Lieferungen erlaubt es Ihnen E-Mails mit Verfolgungsinformationen weiterzuleiten um sie Lieferungen hinzuzufügen. Ihre Weiterleitungsadresse ist mit ihrem Jundecloud Account verlinkt, so dass Nachrichten, die an diese Adresse geschickt werden, ihrem Account hinzugefügt werden.</target>
+        <target>Mail zu Lieferungen erlaubt es Ihnen E-Mails mit Verfolgungsinformationen weiterzuleiten, um sie Lieferungen hinzuzufügen. Ihre Weiterleitungsadresse ist mit ihrem Jundecloud Account verlinkt, so dass Nachrichten, die an diese Adresse geschickt werden, ihrem Account hinzugefügt werden.</target>
         <note>Description of how the Mail to Deliveries feature works</note>
       </trans-unit>
       <trans-unit id="Mail.Off.Button" xml:space="preserve">
         <source>Turn Off Mail to Deliveries</source>
-        <target>Mail zu Lieferungen abschalten?</target>
+        <target>Mail zu Lieferungen ausschalten?</target>
         <note>Message for an alert, explaining how to update Contacts permission</note>
       </trans-unit>
       <trans-unit id="Mail.On.Button" xml:space="preserve">
         <source>Turn On Mail to Deliveries</source>
-        <target>Mail zu Lieferungen anschalten</target>
+        <target>Mail zu Lieferungen einschalten</target>
         <note>Message for an alert, explaining how to update Contacts permission</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.iOS" xml:space="preserve">
         <source>Tap Open Settings and make sure Contacts is on.</source>
-        <target>Berühren Sie Einstellungen öffnen und stellen Sie sicher, das Kontakte an ist.</target>
+        <target>Tippen Sie Einstellungen öffnen und stellen Sie sicher, dass Kontakte erlaubt sind.</target>
         <note>Message for an alert, explaining how to update Contacts permission, on iOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.macOS" xml:space="preserve">
         <source>Click “Open System Preferences” to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
-        <target>Klicken Sie “Öffne Systemeinstellungen” um zu den Systemeinstellungen Sicherheit zu gelangen. Wählen Sie das Datenschutz Tab und wählen Sie Kontakte aus. Stellen Sie sicher, das neben Lieferungen ein Häkchen ist.</target>
+        <target>Klicken Sie “Öffne Systemeinstellungen”, um zu den Systemeinstellungen Sicherheit zu gelangen. Wählen Sie den Datenschutz Tab und wählen Sie Kontakte aus. Stellen Sie sicher, dass neben Lieferungen ein Häkchen ist.</target>
         <note>Message for an alert, explaining how to update Contacts permission, on macOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Title" xml:space="preserve">
@@ -801,7 +801,7 @@
       </trans-unit>
       <trans-unit id="Mail.Success.New.Title" xml:space="preserve">
         <source>“%@” has been added to your contacts</source>
-        <target>“%@” wurde ihren Kontakten hinzugefügt</target>
+        <target>“%@” wurde Ihren Kontakten hinzugefügt</target>
         <note>Title for an alert. %@ will be replaced with the name of the contact, for example “Deliveries”</note>
       </trans-unit>
       <trans-unit id="Mail.Success.Updated.Title" xml:space="preserve">
@@ -821,7 +821,7 @@
       </trans-unit>
       <trans-unit id="Mail.Update.Message.Format" xml:space="preserve">
         <source>Would you like to update the email address of your contact “%@”, or add a new contact?</source>
-        <target>Möchten Sie die E-Mail-Adresse für ihren Kontakt “%@” aktualisieren oder einen neuen hinzufügen?</target>
+        <target>Möchten Sie die E-Mail-Adresse für Ihren Kontakt “%@” aktualisieren oder einen neuen hinzufügen?</target>
         <note>Message for an alert. %@ will be replaced with the name of a contact, for example “Deliveries”</note>
       </trans-unit>
       <trans-unit id="Mail.Update.Title" xml:space="preserve">
@@ -1290,7 +1290,7 @@
       </trans-unit>
       <trans-unit id="Service.WebSite.Label" xml:space="preserve">
         <source>Web Site</source>
-        <target>Web-Site</target>
+        <target>Webseite</target>
         <note>Short label for a web site address</note>
       </trans-unit>
       <trans-unit id="Service.Yamato" xml:space="preserve">
@@ -1312,22 +1312,22 @@
     <body>
       <trans-unit id="Setting.BetaServiceUpdates.Explanation" xml:space="preserve">
         <source>Beta service updates let you try fixes for problems while they’re still being tested. In some cases they may cause unexpected problems.</source>
-        <target>Durch Beta Dienst Updates können Sie Fehlerbehebungen laden, die noch in der Testphase sind. In einzelnen Fällen kann dies zur Problemen führen.</target>
+        <target>Durch Beta Dienst Aktualisierungen können Sie Fehlerbehebungen ausprobieren, die noch in der Testphase sind. In einzelnen Fällen kann dies zur Problemen führen.</target>
         <note>Message explaining why beta service updates may be useful</note>
       </trans-unit>
       <trans-unit id="Setting.BetaServiceUpdates.Label" xml:space="preserve">
         <source>Beta service updates</source>
-        <target>Beta Dienst Updates</target>
+        <target>Beta Dienst Aktualisierungen</target>
         <note>Label for a setting that determines whether beta service updates will be installed</note>
       </trans-unit>
       <trans-unit id="Setting.BetaServiceUpdates.Unavailable" xml:space="preserve">
         <source>Beta service updates are no longer available for this version of Deliveries.</source>
-        <target>Beta Dienst Updates werden nicht mehr für diese Version von Lieferungen bereitgestellt.</target>
+        <target>Beta Dienst Aktualisierungen werden nicht mehr für diese Version von Lieferungen bereitgestellt.</target>
         <note>Message explaining that beta service updates are not available for this version of the app</note>
       </trans-unit>
       <trans-unit id="Setting.Calendar.Error" xml:space="preserve">
         <source>Deliveries needs to access your calendars to add estimated delivery dates to them. Tap Open Settings, then tap Privacy, and make sure Calendars is on.</source>
-        <target>Lieferungen braucht Zugriff auf ihren Kalender um voraussichtliche Lieferdaten hinzuzufügen. Offnen Sie Einstellungen, dann Datenschutz und stellen Sie sicher, dass Kalender angeschaltet ist.</target>
+        <target>Lieferungen braucht Zugriff auf ihren Kalender, um voraussichtliche Lieferdaten hinzuzufügen. Öffnen Sie Einstellungen, dann Datenschutz und stellen Sie sicher, dass Kalender eingeschaltet ist.</target>
         <note>Error message explaining that Deliveries needs access to the user's calendars in order to enable the setting to add events to a calendar automatically</note>
       </trans-unit>
       <trans-unit id="Setting.Calendar.Label" xml:space="preserve">
@@ -1352,7 +1352,7 @@
       </trans-unit>
       <trans-unit id="Setting.ClipboardDetection.Message" xml:space="preserve">
         <source>Deliveries can check your clipboard for tracking information and help you quickly add new deliveries. These checks happen on your device. Your clipboard data is not sent anywhere.</source>
-        <target>Lieferungen kann ihrer Zwischenablage nach Lieferinformationen überprüfen um neue Lieferungen schneller hinzuzufügen. Diese Überprüfung findet auf ihrem Gerät statt. Die Daten ihrer Zwischenablage werden nirgendwo hingeschickt.</target>
+        <target>Lieferungen kann Ihre Zwischenablage nach Lieferinformationen überprüfen, um neue Lieferungen schneller hinzuzufügen. Diese Überprüfung findet auf Ihrem Gerät statt. Die Daten Ihrer Zwischenablage werden nirgendwo hingeschickt.</target>
         <note>Message for an alert asking for permission to check the clipboard for tracking information</note>
       </trans-unit>
       <trans-unit id="Setting.ClipboardDetection.Title" xml:space="preserve">
@@ -1362,7 +1362,7 @@
       </trans-unit>
       <trans-unit id="Setting.Notifications.Background.Footer" xml:space="preserve">
         <source>Background App Refresh is required for notifications. Tap Open Settings and make sure Background App Refresh is on.</source>
-        <target>Hintergrundaktualisierungen werden benötigt um Mitteilungen anzuzeigen. Klicken Sie auf Einstellungen und stellen Sie sicher, dass diese erlaubt sind.</target>
+        <target>Hintergrundaktualisierung wird benötigt, um Mitteilungen anzuzeigen. Klicken Sie auf Einstellungen und stellen Sie sicher, dass diese erlaubt ist.</target>
         <note>Message at the bottom of the Notifications view explaining that Background App Refresh is currently off and must be enabled</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Label" xml:space="preserve">
@@ -1372,12 +1372,12 @@
       </trans-unit>
       <trans-unit id="Setting.Notifications.Options.Footer" xml:space="preserve">
         <source>Tap Open Settings to adjust notification options, including sounds and badges.</source>
-        <target>Klicken Sie auf Einstellungen um Mitteilungseinstellungen, inklusive Töne und Kennzeichen, anzupassen.</target>
+        <target>Klicken Sie auf Einstellungen, um Mitteilungseinstellungen, inklusive Töne und Kennzeichen, anzupassen.</target>
         <note>Message at the bottom of the Notifications view explaining that additional options are available in the Settings app</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Permission.Footer" xml:space="preserve">
         <source>Deliveries needs your permission to display notifications. Tap Open Settings, then tap Notifications, and make sure Allow Notifications is on.</source>
-        <target>Lieferungen braucht ihre Erlaubnis um Mitteilungen anzuzeigen. Tippen Sie auf „Einstellungen öffnen“, dann tippen Sie auf Mitteilungen und stellen Sie dann sicher, dass „Mitteilungen erlauben“ angeschaltet ist.</target>
+        <target>Lieferungen braucht Ihre Erlaubnis, um Mitteilungen anzuzeigen. Tippen Sie auf „Einstellungen öffnen“, dann tippen Sie auf Mitteilungen und stellen Sie sicher, dass „Mitteilungen erlauben“ eingeschaltet ist.</target>
         <note>Message at the bottom of the Notifications view explaining that the app does not have permission to show notifications</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Title" xml:space="preserve">
@@ -1387,7 +1387,7 @@
       </trans-unit>
       <trans-unit id="Setting.ServiceUpdate.Label" xml:space="preserve">
         <source>Installed service update:</source>
-        <target>Installiertes Dienstupdate:</target>
+        <target>Installierte Dienstaktualisierung:</target>
         <note>Label indicating the service update number that is currently installed</note>
       </trans-unit>
       <trans-unit id="Setting.Sort.DeliveryDate" xml:space="preserve">
@@ -1429,7 +1429,7 @@
       </trans-unit>
       <trans-unit id="Extension.Instructions.iOS" xml:space="preserve">
         <source>To subscribe, open Deliveries, tap the Settings icon, then tap Subscription.</source>
-        <target>Um ein Abo abzuschließen, öffne Lieferungen, klicke Settings und klicke Abo.</target>
+        <target>Um ein Abo abzuschließen, öffnen Sie Lieferungen, tippen Sie auf das Einstellungen Icon und tippen Sie auf Abo.</target>
         <note>Brief explanation of how to open the app and find the Subscription view on iOS. This message appears in the Share extension when there's not an active subscription.</note>
       </trans-unit>
       <trans-unit id="Feature.One" xml:space="preserve">
@@ -1444,7 +1444,7 @@
       </trans-unit>
       <trans-unit id="Feature.Three" xml:space="preserve">
         <source>Quickly add shipments from web sites, emails, barcodes, and more</source>
-        <target>Schnelles Hinzufügen von Lieferungen aus Webseiten, Emails, Barcodes und vielem mehr</target>
+        <target>Schnelles Hinzufügen von Lieferungen aus Webseiten, E-Mails, Barcodes und vielem mehr</target>
         <note>Item in a list of subscription features</note>
       </trans-unit>
       <trans-unit id="Feature.Three.Legacy" xml:space="preserve">
@@ -1464,17 +1464,17 @@
       </trans-unit>
       <trans-unit id="Subscribe.FinePrint" xml:space="preserve">
         <source>Your subscription will renew automatically. You can cancel at any time. Shipping services may be added or removed at any time, and Junecloud LLC makes no guarantees about the availability of a particular service. For more information see our [Terms of Service](deliveries://legal/terms) and [Privacy Policy](deliveries://legal/privacy).</source>
-        <target>Ihr Abo verlängert sich automatisch. Sie können es jederzeit kündigen. Lieferdiense können jederzeit hinzukommen oder entfallen und Jundecloud LLC übernimmt keine Garantien für die Verfügbarkeit bestimmter Dienste. Mehr Informationen finden Sie in unseren [AGB](deliveries://legal/terms) und [Datenschutzbestimmungen](deliveries://legal/privacy) (beide nur auf Englisch verfügbar).</target>
+        <target>Ihr Abo verlängert sich automatisch. Sie können es jederzeit kündigen. Lieferdienste können jederzeit hinzukommen oder entfallen und Jundecloud LLC übernimmt keine Garantien für die Verfügbarkeit bestimmter Dienste. Mehr Informationen finden Sie in unseren [AGB](deliveries://legal/terms) und [Datenschutzbestimmungen](deliveries://legal/privacy) (beide nur auf Englisch verfügbar).</target>
         <note>Details at the bottom of the subscription view. Text in brackets will be automatically converted to links using Markdown formatting.</note>
       </trans-unit>
       <trans-unit id="Subscribe.Message" xml:space="preserve">
         <source>Subscribe to unlock all the features of Deliveries for iPhone, iPad, Apple Watch, and Mac.</source>
-        <target>Schließen Sie ein Abo ab um alle Funktionen von Lieferungen für iPhone, iPad, Apple Watch und Mac zu erhalten.</target>
+        <target>Schließen Sie ein Abo ab, um alle Funktionen von Lieferungen für iPhone, iPad, Apple Watch und Mac zu erhalten.</target>
         <note>Subscribe message</note>
       </trans-unit>
       <trans-unit id="Subscribe.Message.Legacy" xml:space="preserve">
         <source>Since you previously purchased Deliveries, you can continue to use most features from earlier versions, and many new ones.</source>
-        <target>Da sie eine vorherige Version von Lieferungen gekauft haben, können Sie die meisten Funktionen der früheren Versionen weiter nutzen - und viele neue.</target>
+        <target>Da Sie eine vorherige Version von Lieferungen gekauft haben, können Sie die meisten Funktionen der früheren Versionen weiter nutzen - und viele neue.</target>
         <note>Subscribe legacy message</note>
       </trans-unit>
       <trans-unit id="Subscribe.Title" xml:space="preserve">
@@ -1489,21 +1489,21 @@
       </trans-unit>
       <trans-unit id="ThankYou.Message.Beta" xml:space="preserve">
         <source>Thank you for being a beta tester.</source>
-        <target>Danke, das Sie ein Beta Tester sind.</target>
+        <target>Danke, dass Sie ein Beta Tester sind.</target>
         <note>Thank you message for beta testers</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message.Exception" xml:space="preserve">
         <source>We were unable to verify your subscription status. Since this was our mistake, you’ve been given a temporary subscription for a short time while we sort out the problem.</source>
-        <target>Wir könnten Ihren Abo Status nicht verifizieren. Da dies unser Fehler ist, haben wir für Sie ein vorübergehendes Abo freigeschaltet, während wir das Problem lösen.</target>
+        <target>Wir konnten Ihren Abo Status nicht verifizieren. Da dies unser Fehler ist, haben wir für Sie ein vorübergehendes Abo freigeschaltet, während wir das Problem lösen.</target>
         <note>In some cases a temporary subscription may be granted if there's an error checking the subscription status. This is a message shown to explain what happened.</note>
       </trans-unit>
       <trans-unit id="ThankYou.Message.Legacy" xml:space="preserve">
         <source>Deliveries is changing to a subscription service. Since you previously purchased the app, most of the features you’re used to will remain unlocked. You have also been given a complimentary subscription based on your purchase date.
 
 When your complimentary subscription expires, you’ll need to pay for a subscription to use Junecloud sync. We also plan to add new features in the future that will require a subscription. If you decide not to purchase a subscription, you’ll still be able to add new deliveries, use iCloud sync, and more.</source>
-        <target>Lieferungen wird zu einem Abo Dienst. Da Sie die App gekauft hatten, bleiben die meisten Funktionen freigeschaltet. Sie haben außerdem ein kostenloses Abo basierend auf ihrem Kaufdatum erhalten.
+        <target>Lieferungen wird zu einem Abo Dienst. Da Sie die App gekauft hatten, bleiben die meisten Funktionen freigeschaltet. Sie haben außerdem ein kostenloses Abo basierend auf Ihrem Kaufdatum erhalten.
 
-Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Junecloud Sync weiter zu nutzen. Wir planen weitere Funktionen, welche das Abo benötigen werden. Falls Sie sich gegen ein Abo entscheiden können Sie weiter Lieferungen hinzufügen, den iCloud Sync und viele andere Funktionen verwenden.</target>
+Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Junecloud Sync weiter zu nutzen. Wir planen weitere Funktionen, welche das Abo benötigen werden. Falls Sie sich gegen ein Abo entscheiden, können Sie weiter Lieferungen hinzufügen, den iCloud Sync und viele andere Funktionen verwenden.</target>
         <note>Subscription thank you message for legacy purchases</note>
       </trans-unit>
       <trans-unit id="com.junecloud.Deliveries.sub.legacy" xml:space="preserve">
@@ -1540,12 +1540,12 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Juneclou
     <body>
       <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
         <source>The problem was most likely a temporary issue with the shipping service, or something we fixed in the latest service update.</source>
-        <target>Das Problem war vermutlich vorübergehend ein Problem mit dem Lieferdienst oder wir haben es mit unserem letzten Dienstupdate behoben.</target>
+        <target>Das Problem war vermutlich vorübergehend ein Problem mit dem Lieferdienst oder wir haben es mit unserer letzten Dienstaktualisierung behoben.</target>
         <note>Message shown when troubleshooting is complete, and the problem appears to have been fixed</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Complete.Message.ServiceUpdate" xml:space="preserve">
         <source>It looks like this problem was fixed in the latest service update.</source>
-        <target>Anscheinend wurde das Problem mit dem letzten Dienstupdate behoben.</target>
+        <target>Anscheinend wurde das Problem mit der letzten Dienstaktualisierung behoben.</target>
         <note>Message shown when troubleshooting is complete, and the problem was fixed by downloading a new service update</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Complete.Title" xml:space="preserve">
@@ -1555,7 +1555,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Juneclou
       </trans-unit>
       <trans-unit id="Troubleshoot.Error.Message" xml:space="preserve">
         <source>Try again later.</source>
-        <target>Bitte versuchen Sie es später.</target>
+        <target>Bitte versuchen Sie es später erneut.</target>
         <note>A generic error message used when no other information is available</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Error.Title" xml:space="preserve">
@@ -1580,7 +1580,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Juneclou
       </trans-unit>
       <trans-unit id="Troubleshoot.Report.Message" xml:space="preserve">
         <source>Review the information below before you send it. Select Comments to add additional information. In some cases personal information may be sent—select Logs to view and edit that information if you prefer. Your data will be sent securely via HTTPS.</source>
-        <target>Überprüfen Sie die Information, bevor sie gesendet werden. Wählen Sie Kommentare um weitere Informationen hinzuzufügen. In manchen Fällen können persönliche Daten mitgesendet werden - wählen Sie Logs um die Informationen anzuzeigen und diese zu bearbeiten. Ihre Daten werden über eine gesicherte HTTPS Verbindung gesendet.</target>
+        <target>Überprüfen Sie die Information, bevor sie gesendet werden. Wählen Sie Kommentare, um weitere Informationen hinzuzufügen. In manchen Fällen können persönliche Daten mitgesendet werden - wählen Sie Logs um die Informationen anzuzeigen und diese zu bearbeiten. Ihre Daten werden über eine gesicherte HTTPS Verbindung gesendet.</target>
         <note>Message shown above a list of all the troubleshooting report data that has been collected</note>
       </trans-unit>
       <trans-unit id="Troubleshoot.Report.Title" xml:space="preserve">
@@ -1714,7 +1714,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen um Juneclou
     <body>
       <trans-unit id="CheckDelivery.Description" xml:space="preserve">
         <source>Check on your next expected package, or one you select. The medium size includes a summary of other upcoming deliveries.</source>
-        <target>Zeigen Sie ihre nächste Lieferung oder eine bestimmte an. Die mittlere Größe enthalte eine Zusammenfassung ihrer nächsten Lieferungen.</target>
+        <target>Zeigen Sie ihre nächste Lieferung oder eine bestimmte an. Die mittlere Größe enthalte eine Zusammenfassung Ihrer nächsten Lieferungen.</target>
         <note>Description of a widget that shows upcoming deliveries</note>
       </trans-unit>
       <trans-unit id="CheckDelivery.Title" xml:space="preserve">

@@ -51,7 +51,7 @@
       </trans-unit>
       <trans-unit id="13oLIK" xml:space="preserve">
         <source>There was an error loading your data.</source>
-        <target>There was an error loading your data.</target>
+        <target>Es gab ein Problem beim Laden deiner Daten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="22pFJo" xml:space="preserve">
@@ -212,12 +212,12 @@
       </trans-unit>
       <trans-unit id="jhTnZF" xml:space="preserve">
         <source>Packages</source>
-        <target>Paket</target>
+        <target>Pakete</target>
         <note/>
       </trans-unit>
       <trans-unit id="k78Kwn" xml:space="preserve">
         <source>Just to confirm, you wanted “${package}”?</source>
-        <target>Nur zur Bestätigung, Sie wollten “${package}”?</target>
+        <target>Nur zur Bestätigung, du wolltest “${package}”?</target>
         <note/>
       </trans-unit>
       <trans-unit id="mFbeBx" xml:space="preserve">
@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="pVV340" xml:space="preserve">
         <source>You don’t have any deliveries.</source>
-        <target>Sie haben keine Lieferungen.</target>
+        <target>Du hast keine Lieferungen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="qohQd8" xml:space="preserve">
@@ -275,7 +275,7 @@
       </trans-unit>
       <trans-unit id="xPZO7D" xml:space="preserve">
         <source>There was an error loading your data.</source>
-        <target>Beim Laden der Daten ist ein Fehler aufgetreten.</target>
+        <target>Lieferungen öffnen und einen Barcode scannen.</target>
         <note/>
       </trans-unit>
       <trans-unit id="xlgvMq" xml:space="preserve">
@@ -373,7 +373,7 @@
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to add estimated delivery dates to your calendar.</source>
-        <target>Lieferungen braucht Ihre Zustimmung um ein voraussichtliches Lieferdatum ihrem Kalender hinzuzufügen.</target>
+        <target>Lieferungen braucht Ihre Zustimmung, um ein voraussichtliches Lieferdatum Ihrem Kalender hinzuzufügen.</target>
         <note>Calendars usage description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">
@@ -1079,12 +1079,12 @@
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to add estimated delivery dates to your calendar.</source>
-        <target>Lieferungen braucht Ihre Zustimmung um ein voraussichtliches Lieferdatum ihrem Kalender hinzuzufügen.</target>
+        <target>Lieferungen braucht Ihre Zustimmung, um ein voraussichtliches Lieferdatum Ihrem Kalender hinzuzufügen.</target>
         <note>Calendars usage description</note>
       </trans-unit>
       <trans-unit id="NSContactsUsageDescription" xml:space="preserve">
         <source>Deliveries needs your permission to suggest email addresses as you type, or to update your contacts.</source>
-        <target>Lieferungen braucht ihre Erlaubnis um E-Mail-Adressen vorzuschlagen, während Sie tippen oder um ihre Kontakte zu aktualisieren.</target>
+        <target>Lieferungen braucht Ihre Erlaubnis, um E-Mail-Adressen vorzuschlagen, während Sie tippen oder um Ihre Kontakte zu aktualisieren.</target>
         <note>Contacts usage description</note>
       </trans-unit>
       <trans-unit id="NSHumanReadableCopyright" xml:space="preserve" translate="no">

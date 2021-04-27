@@ -156,7 +156,7 @@
       </trans-unit>
       <trans-unit id="Data.DeleteArchive.Message" xml:space="preserve">
         <source>Are you sure you want to delete your archive? All of your archived items will be permanently deleted.</source>
-        <target>Sind Sie sicher, dass Sie ihr Archiv löschen wollen? Alle archivierten Lieferungen werden endgültig gelöscht.</target>
+        <target>Sind Sie sicher, dass Sie Ihr Archiv löschen wollen? Alle archivierten Lieferungen werden endgültig gelöscht.</target>
         <note>Message for an alert confirming whether to delete all archived items</note>
       </trans-unit>
       <trans-unit id="Data.DeleteArchive.Title" xml:space="preserve">
@@ -181,14 +181,17 @@
       </trans-unit>
       <trans-unit id="Data.DeleteLocationCache.Button" xml:space="preserve">
         <source>Delete Location Cache</source>
+        <target>Standort Cache löschen</target>
         <note>Button to delete cached location data, used for the map view</note>
       </trans-unit>
       <trans-unit id="Data.DeleteLocationCache.Success.Message" xml:space="preserve">
         <source>Your location cache has been cleared.</source>
+        <target>Ihr Standort Cache wurde geleert.</target>
         <note>Message for an alert shown when location cache data is successfully deleted</note>
       </trans-unit>
       <trans-unit id="Data.DeleteLocationCache.Title" xml:space="preserve">
         <source>Delete Location Cache</source>
+        <target>Standort Cache löschen</target>
         <note>Title for an alert related to deleting location cache data</note>
       </trans-unit>
       <trans-unit id="Data.DeletePasswords.Button" xml:space="preserve">
@@ -208,7 +211,7 @@
       </trans-unit>
       <trans-unit id="Data.DeletePasswords.Message" xml:space="preserve">
         <source>Are you sure you want to delete your saved passwords?</source>
-        <target>Sind Sie sicher, dass Sie ihr gespeichertes Passwort löschen wollen?</target>
+        <target>Sind Sie sicher, dass Sie Ihr gespeichertes Passwort löschen wollen?</target>
         <note>Message for an alert confirming that saved passwords should be deleted</note>
       </trans-unit>
       <trans-unit id="Data.DeletePasswords.Success.All.Message" xml:space="preserve">
@@ -258,7 +261,7 @@
       </trans-unit>
       <trans-unit id="Data.Reset.Error.Message" xml:space="preserve">
         <source>There was a problem resetting your data. You may want to try again, or delete and reinstall the app. If you continue to have problems, contact us at junecloud.com/support for help.</source>
-        <target>Beim zurücksetzen ihrer Daten ist ein Problem aufgetreten. Bitte versuchen Sie es erneut oder löschen Sie die App und installieren diese neu. Falls Sie diesen Fehler weiterhin erhalten, versuchen Sie bitte ihre Daten zurückzusetzen oder besuchen Sie junecloud.com/support für weitere Hilfe.</target>
+        <target>Beim Zurücksetzen Ihrer Daten ist ein Problem aufgetreten. Bitte versuchen Sie es erneut oder löschen Sie die App und installieren diese neu. Falls Sie diesen Fehler weiterhin erhalten, versuchen Sie bitte ihre Daten zurückzusetzen oder besuchen Sie junecloud.com/support für weitere Hilfe.</target>
         <note>Message for an alert explaining that the database could not be reset</note>
       </trans-unit>
       <trans-unit id="Data.Reset.Error.Title" xml:space="preserve">
@@ -268,7 +271,7 @@
       </trans-unit>
       <trans-unit id="Data.Reset.Message" xml:space="preserve">
         <source>This will delete all of your data and preferences. If your data is not synced with iCloud or Junecloud, it will be lost. If you’re not sure, contact us at junecloud.com/support for help.</source>
-        <target>Dies löscht ihre Daten und Einstellungen. Falls ihre Daten nicht mit iCloud oder Junecloud synchronisiert werden, verlieren Sie diese. Falls Sie sich nicht sicher sind, kontaktieren Sie uns unter junecloud.com/support</target>
+        <target>Dies löscht Ihre Daten und Einstellungen. Falls Ihre Daten nicht mit iCloud oder Junecloud synchronisiert werden, verlieren Sie diese. Falls Sie sich nicht sicher sind, kontaktieren Sie uns unter junecloud.com/support</target>
         <note>Message for an alert confirming whether the database should be reset, with an explanation that data will be lost if it is not synced online, and a URL for help</note>
       </trans-unit>
       <trans-unit id="Data.Reset.Success.Message" xml:space="preserve">
@@ -293,12 +296,12 @@
       </trans-unit>
       <trans-unit id="Data.ResetCloudKit.Message" xml:space="preserve">
         <source>If you’re having problems with iCloud syncing, you may need to reset it. This will delete the app’s sync data from iCloud, then re-sync everything in the app back to iCloud.</source>
-        <target>Falls Sie Probleme mit iCloud Sync haben, müssen Sie diesen eventuell resetten. Dies löscht die synchronisierten Daten von iCloud und synct diese erneut aus der App zu iCloud.</target>
+        <target>Falls Sie Probleme mit iCloud Sync haben, müssen Sie diesen eventuell zurücksetzen. Dies löscht die synchronisierten Daten von iCloud und synchronisiert diese erneut aus der App zu iCloud.</target>
         <note>Message for an alert confirming whether iCloud sync data should be reset, explaining what will happen</note>
       </trans-unit>
       <trans-unit id="Data.ResetCloudKit.Title" xml:space="preserve">
         <source>Reset iCloud Sync</source>
-        <target>iCloud Sync resetten</target>
+        <target>iCloud Sync zurücksetzen</target>
         <note>Title for an alert confirming whether iCloud sync data should be reset</note>
       </trans-unit>
     </body>
@@ -392,7 +395,7 @@
       </trans-unit>
       <trans-unit id="Setting.CloudKit.Help.Button" xml:space="preserve">
         <source>Learn How to Enable iCloud</source>
-        <target>Erfahren Sie, wie Sie iCloud anschalten können</target>
+        <target>Erfahren Sie, wie Sie iCloud aktivieren können</target>
         <note>Button to open a view that explains how to enable iCloud</note>
       </trans-unit>
       <trans-unit id="Setting.CloudKitSettings.Button" xml:space="preserve">
@@ -497,12 +500,12 @@
       </trans-unit>
       <trans-unit id="Setting.JunecloudSync.Register.Message" xml:space="preserve">
         <source>Create a new Junecloud account.</source>
-        <target>Erstellen Sie einen neuen Junecloud account.</target>
+        <target>Erstellen Sie einen neuen Junecloud Account.</target>
         <note>Message shown above a form to create a new Junecloud account</note>
       </trans-unit>
       <trans-unit id="Setting.JunecloudSync.SignIn.Message" xml:space="preserve">
         <source>Sign in to your Junecloud account.</source>
-        <target>Melden Sie sich mit ihrem Junecloud account an.</target>
+        <target>Melden Sie sich mit Ihrem Junecloud Account an.</target>
         <note>Message shown above a form to sign in to a Junecloud account</note>
       </trans-unit>
       <trans-unit id="Setting.JunecloudSync.Title" xml:space="preserve">
@@ -522,22 +525,22 @@
       </trans-unit>
       <trans-unit id="Setting.Logs.Enable.Label" xml:space="preserve">
         <source>Enable logging</source>
-        <target>Logging anschalten</target>
+        <target>Logging aktivieren</target>
         <note>Label for a setting to enable logging</note>
       </trans-unit>
       <trans-unit id="Setting.Logs.Enable.Watch.Label" xml:space="preserve">
         <source>Enable logging on Apple Watch</source>
-        <target>Logging für die Apple Watch anschalten</target>
+        <target>Logging für die Apple Watch aktivieren</target>
         <note>Label for a setting to enable logging on Apple Watch</note>
       </trans-unit>
       <trans-unit id="Setting.Logs.Message.iOS" xml:space="preserve">
         <source>If something isn’t working right, turn on logs and recreate the problem. Then return here, tap Share Logs, then “Send to Junecloud”.</source>
-        <target>Falls etwas nicht korrekt funktioniert, schalten Sie die Logs an und stellen Sie das Problem nach. Kehren Sie dann hierher zurück, klicken Sie “Logs teilen” und “An Junecloud senden”.</target>
+        <target>Falls etwas nicht korrekt funktioniert, aktivieren Sie die Logs und stellen Sie das Problem nach. Kehren Sie dann hierher zurück, tippen Sie “Logs teilen” und “An Junecloud senden”.</target>
         <note>Message explaining when debug logs might be useful and how to share them, used on iOS</note>
       </trans-unit>
       <trans-unit id="Setting.Logs.Message.macOS" xml:space="preserve">
         <source>If something isn’t working right, turn on logs and recreate the problem. Then return here, click Show Logs, and send the files to us.</source>
-        <target>Falls etwas nicht korrekt funktioniert, schalten Sie die Logs an und stellen Sie das Problem nach. Kehren Sie dann hierher zurück, klicken Sie “Logs teilen” und “An Junecloud senden”.</target>
+        <target>Falls etwas nicht korrekt funktioniert, aktivieren Sie die Logs und stellen Sie das Problem nach. Kehren Sie dann hierher zurück, klicken Sie “Logs teilen” und “An Junecloud senden”.</target>
         <note>Message explaining when debug logs might be useful and how to share them, used on macOS</note>
       </trans-unit>
       <trans-unit id="Setting.Logs.Share.Button" xml:space="preserve">
@@ -562,7 +565,7 @@
       </trans-unit>
       <trans-unit id="Setting.Logs.Unavailable.Message" xml:space="preserve">
         <source>Currently there aren’t any logs to send. Make sure logs are enabled, use the app to recreate your problem, and then try again later.</source>
-        <target>Aktuell gibt es keine Logs zum verschicken. Stellen Sie sicher, das die Logs angeschaltet sind und stellen Sie das Problem nach. Kehren Sie dann hierher zurück.</target>
+        <target>Aktuell gibt es keine Logs zum Verschicken. Stellen Sie sicher, dass die Logs aktiviert sind und stellen Sie das Problem nach. Kehren Sie dann hierher zurück.</target>
         <note>Message for an alert explaining that no log files have been created yet</note>
       </trans-unit>
       <trans-unit id="Setting.Logs.Unavailable.Title" xml:space="preserve">
@@ -667,7 +670,7 @@
       </trans-unit>
       <trans-unit id="Setting.Restore.Message" xml:space="preserve">
         <source>Confirm your settings to continue.</source>
-        <target>Bestätigen Sie ihre Einstellung um fortzufahren.</target>
+        <target>Bestätigen Sie ihre Einstellung, um fortzufahren.</target>
         <note>Message for a view where previously used settings can be restored</note>
       </trans-unit>
       <trans-unit id="Setting.Restore.Title" xml:space="preserve">
@@ -799,7 +802,7 @@
       </trans-unit>
       <trans-unit id="MissingReceipt.Message" xml:space="preserve">
         <source>Your purchase could not be verified. Install the latest version from the Mac App Store and open it at least once to make your receipt available.</source>
-        <target>Ihr Kauf konnte nicht verifiziert werden. Installieren Sie die aktuellste Version aus dem Mac App Store und öffnen Sie diese mindestens einmal um ihren Beleg verfügbar zu machen.</target>
+        <target>Ihr Kauf konnte nicht verifiziert werden. Installieren Sie die aktuellste Version aus dem Mac App Store und öffnen Sie diese mindestens einmal um Ihren Beleg verfügbar zu machen.</target>
         <note>Missing receipt message</note>
       </trans-unit>
       <trans-unit id="MissingReceipt.Title" xml:space="preserve">
@@ -859,12 +862,12 @@
       </trans-unit>
       <trans-unit id="State.None" xml:space="preserve">
         <source>None</source>
-        <target>Keiner</target>
+        <target>Keines</target>
         <note>Subscription state: none, no subscription</note>
       </trans-unit>
       <trans-unit id="State.Pending" xml:space="preserve">
         <source>Pending</source>
-        <target>Schwebend</target>
+        <target>Ausstehend</target>
         <note>Subscription state: pending, recently purchased but not finalized</note>
       </trans-unit>
       <trans-unit id="Subscribe.Button" xml:space="preserve">
@@ -904,7 +907,7 @@
       </trans-unit>
       <trans-unit id="Unavailable.Internet.Message" xml:space="preserve">
         <source>App Store purchases are not available. Make sure you have a working internet connection, or try again later.</source>
-        <target>App Store Käufe sind nicht möglich. Stellen Sie sicher, das ihre Internetverbindung geht und probieren Sie es erneut.</target>
+        <target>App Store Käufe sind nicht möglich. Stellen Sie sicher, dass Ihre Internetverbindung funktioniert und probieren Sie es erneut.</target>
         <note>Subscriptions unavailable message, possibly due to internet connection</note>
       </trans-unit>
       <trans-unit id="Unavailable.Message" xml:space="preserve">
@@ -951,7 +954,7 @@
       </trans-unit>
       <trans-unit id="Update.Error.Confirm.Format" xml:space="preserve">
         <source>A message has been sent to %@ to confirm your address. Check your email and follow the instructions to activate your Junecloud Sync account.</source>
-        <target>Eine Nachricht wurde an %@ gesendet um ihre Adresse zu bestätigen. Überprüfen Sie ihre E-Mails und befolgen Sie die Anleitung um ihren Junecloud Sync account zu aktivieren.</target>
+        <target>Eine Nachricht wurde an %@ gesendet, um Ihre Adresse zu bestätigen. Überprüfen Sie ihre E-Mails und befolgen Sie die Anleitung, um Ihren Junecloud Sync Account zu aktivieren.</target>
         <note>Message indicating an email has been sent with instructions for confirming a Junecloud sync account. %@ will be replaced with the email address</note>
       </trans-unit>
       <trans-unit id="Update.Error.Connection" xml:space="preserve">
@@ -966,7 +969,7 @@
       </trans-unit>
       <trans-unit id="Update.Preparing" xml:space="preserve">
         <source>One moment…</source>
-        <target>Ein Moment …</target>
+        <target>Einen Moment …</target>
         <note>Short message indicating loading is in progress</note>
       </trans-unit>
       <trans-unit id="Update.Unavailable.CloudKit" xml:space="preserve">
