@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Button.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Button.Add" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="../Strings/en.lproj/Crash.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Crash.AlwaysSend.Button" xml:space="preserve">
@@ -141,7 +141,7 @@
   </file>
   <file original="../Strings/en.lproj/Data.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Data.DeleteArchive.Button" xml:space="preserve">
@@ -304,11 +304,16 @@
         <target>iCloud Sync zurücksetzen</target>
         <note>Title for an alert confirming whether iCloud sync data should be reset</note>
       </trans-unit>
+      <trans-unit id="Data.UpdateRequired" xml:space="preserve">
+        <source>Open the app to update your data</source>
+        <target>Open the app to update your data</target>
+        <note>Message shown when the database needs to be updated to use the latest version of the app</note>
+      </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Date.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Date.Countdown.Day" xml:space="preserve">
@@ -375,7 +380,7 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Setting.About.Title" xml:space="preserve">
@@ -767,7 +772,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Active" xml:space="preserve">
@@ -795,6 +800,18 @@
         <target>Läuft am %@ ab</target>
         <note>Subscription status: Expires on {date}</note>
       </trans-unit>
+      <trans-unit id="IntroOffer.Format" xml:space="preserve">
+        <source>%@ for the first year
+then %@ per year</source>
+        <target>%@ for the first year
+then %@ per year</target>
+        <note>Label for a button to purchase a subscription that includes an introductory offer: {initial price} for the first year, then {regular price} per year</note>
+      </trans-unit>
+      <trans-unit id="IntroOffer.Notice" xml:space="preserve">
+        <source>This is a limited-time introductory offer.</source>
+        <target>This is a limited-time introductory offer.</target>
+        <note>Message explaining that an introductory offer is only available for a limited time</note>
+      </trans-unit>
       <trans-unit id="LearnMore.Alternate.Button" xml:space="preserve">
         <source>Learn More About Subscriptions</source>
         <target>Erfahren Sie mehr über Abos</target>
@@ -804,6 +821,11 @@
         <source>Learn More</source>
         <target>Mehr erfahren</target>
         <note>Button to open a view with additional information about subscriptions</note>
+      </trans-unit>
+      <trans-unit id="LegacyAccess.Active" xml:space="preserve">
+        <source>Previous Purchase Found</source>
+        <target>Previous Purchase Found</target>
+        <note>Short message indicating that a previous purchase was found, unlocking additional features</note>
       </trans-unit>
       <trans-unit id="Manage.Button" xml:space="preserve">
         <source>Manage Subscription</source>
@@ -934,7 +956,7 @@
   </file>
   <file original="../Strings/en.lproj/Update.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Update.Busy" xml:space="preserve">
@@ -1001,7 +1023,7 @@
   </file>
   <file original="../Strings/en.lproj/Web.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Web.Action.OpenInSafari" xml:space="preserve">

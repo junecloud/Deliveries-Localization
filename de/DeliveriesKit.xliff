@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Add.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Add.Barcode.Header" xml:space="preserve">
@@ -129,7 +129,7 @@
   </file>
   <file original="../Strings/en.lproj/Beta.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Beta.Expired.Message" xml:space="preserve">
@@ -146,7 +146,7 @@
   </file>
   <file original="../Strings/en.lproj/Camera.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
@@ -178,9 +178,14 @@
   </file>
   <file original="../Strings/en.lproj/Deliveries.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
+      <trans-unit id="Deliveries.Add.Button" xml:space="preserve">
+        <source>Add to Deliveries</source>
+        <target>Zu Lieferungen hinzufügen</target>
+        <note>Button to add a shared delivery</note>
+      </trans-unit>
       <trans-unit id="Deliveries.ClipboardPrompt.Message" xml:space="preserve">
         <source>It looks like you have a tracking number on your clipboard. Tap to add it.</source>
         <target>Anscheinend haben Sie eine Liefernummer in Ihrer Zwischenablage. Tippen Sie, um sie hinzuzufügen.</target>
@@ -301,6 +306,16 @@
         <target>Archiviert</target>
         <note>Search filter for only archived deliveries</note>
       </trans-unit>
+      <trans-unit id="Deliveries.SharedDelivery.Disclaimer" xml:space="preserve">
+        <source>This information was entered by the person that shared it with you.</source>
+        <target>This information was entered by the person that shared it with you.</target>
+        <note>Notice shown when adding a shared delivery</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.SharedDelivery.Error" xml:space="preserve">
+        <source>This delivery cannot be added</source>
+        <target>This delivery cannot be added</target>
+        <note>Title for an error shown when a shared delivery cannot be added</note>
+      </trans-unit>
       <trans-unit id="Deliveries.Title" xml:space="preserve">
         <source>Deliveries</source>
         <target>Lieferungen</target>
@@ -325,7 +340,7 @@
   </file>
   <file original="../Strings/en.lproj/Delivery.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
@@ -507,7 +522,7 @@
   </file>
   <file original="../Strings/en.lproj/DeliveryStatus.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="DeliveryStatus.Busy" xml:space="preserve">
@@ -669,7 +684,7 @@
   </file>
   <file original="../Strings/en.lproj/Location.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Location.Adjust" xml:space="preserve">
@@ -726,7 +741,7 @@
   </file>
   <file original="../Strings/en.lproj/Mail.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Mail.AddNew.Button" xml:space="preserve">
@@ -828,9 +843,14 @@
   </file>
   <file original="../Strings/en.lproj/Menu.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
+      <trans-unit id="Menu.Close" xml:space="preserve">
+        <source>Close</source>
+        <target>Schließen</target>
+        <note>Menu item to close the current window</note>
+      </trans-unit>
       <trans-unit id="Menu.Export" xml:space="preserve">
         <source>Export…</source>
         <target>Exportieren …</target>
@@ -910,7 +930,7 @@
   </file>
   <file original="../Strings/en.lproj/Service.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Service.Adobe" xml:space="preserve">
@@ -1036,11 +1056,6 @@
       <trans-unit id="Service.DHLDE" xml:space="preserve">
         <source>DHL – Germany</source>
         <target>DHL – Deutschland</target>
-        <note>Name of a shipping service</note>
-      </trans-unit>
-      <trans-unit id="Service.DHLExpress" xml:space="preserve">
-        <source>DHL – Express</source>
-        <target>DHL – Express</target>
         <note>Name of a shipping service</note>
       </trans-unit>
       <trans-unit id="Service.DHLUSGlobalMail" xml:space="preserve">
@@ -1307,7 +1322,7 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Setting.Advanced.Title" xml:space="preserve">
@@ -1444,7 +1459,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Title" xml:space="preserve">
@@ -1560,7 +1575,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Juneclo
   </file>
   <file original="../Strings/en.lproj/Troubleshoot.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
@@ -1657,7 +1672,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Juneclo
   </file>
   <file original="../Strings/en.lproj/Validate.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="Validate.Error.Database" xml:space="preserve">
@@ -1734,7 +1749,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Juneclo
   </file>
   <file original="../Strings/en.lproj/Widget.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Description" xml:space="preserve">
@@ -1747,11 +1762,21 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Juneclo
         <target>Nächste Lieferungen</target>
         <note>Title for a widget that shows upcoming deliveries</note>
       </trans-unit>
+      <trans-unit id="OtherPackages.Title" xml:space="preserve">
+        <source>Other upcoming packages</source>
+        <target>Other upcoming packages</target>
+        <note>Title for a section that shows a list of additional upcoming packages</note>
+      </trans-unit>
+      <trans-unit id="Upgrade.Message" xml:space="preserve">
+        <source>Tap to learn how to add our new widget on iOS 14 or later.</source>
+        <target>Tap to learn how to add our new widget on iOS 14 or later.</target>
+        <note>Message that opens a link explaining how to add widgets on iOS 14 or later</note>
+      </trans-unit>
     </body>
   </file>
   <file original="en.lproj/Localizable.strings" datatype="plaintext" source-language="en" target-language="de">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5" build-num="12E262"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Description" xml:space="preserve">
@@ -1761,6 +1786,10 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Juneclo
       <trans-unit id="CheckDelivery.Title" xml:space="preserve">
         <source>CheckDelivery.Title</source>
         <note>Title for a widget that shows upcoming deliveries</note>
+      </trans-unit>
+      <trans-unit id="OtherPackages.Title" xml:space="preserve">
+        <source>OtherPackages.Title</source>
+        <note>Title for a section that shows a list of additional upcoming packages</note>
       </trans-unit>
     </body>
   </file>
