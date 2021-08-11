@@ -226,15 +226,15 @@
         <target>保存したパスワードを削除</target>
         <note>Title for an alert related to deleting saved passwords</note>
       </trans-unit>
-      <trans-unit id="Data.Error.Loading.Title" xml:space="preserve">
+      <trans-unit id="Data.Error.Loading" xml:space="preserve">
         <source>There was an error loading your data</source>
         <target>データの読み込みにエラーが発生しました</target>
-        <note>Title for a database error while loading</note>
+        <note>Message shown when there's an error loading the database</note>
       </trans-unit>
-      <trans-unit id="Data.Error.Saving.Title" xml:space="preserve">
+      <trans-unit id="Data.Error.Saving" xml:space="preserve">
         <source>There was an error saving your data</source>
         <target>データの保存にエラーが発生しました</target>
-        <note>Title for a database error while saving</note>
+        <note>Message shown when there's an error saving the database</note>
       </trans-unit>
       <trans-unit id="Data.Error.Suggestion.iOS" xml:space="preserve">
         <source>If you continue to see this error, please try deleting and reinstalling the app, or visit junecloud.com/support for help.</source>
