@@ -275,7 +275,7 @@
       </trans-unit>
       <trans-unit id="xPZO7D" xml:space="preserve">
         <source>There was an error loading your data.</source>
-        <target>Lieferungen öffnen und einen Barcode scannen.</target>
+        <target>Es gab ein Problem beim Laden deiner Daten.</target>
         <note/>
       </trans-unit>
       <trans-unit id="xlgvMq" xml:space="preserve">
