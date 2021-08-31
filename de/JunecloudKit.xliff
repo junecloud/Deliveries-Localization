@@ -306,7 +306,7 @@
       </trans-unit>
       <trans-unit id="Data.UpdateRequired" xml:space="preserve">
         <source>Open the app to update your data</source>
-        <target>Open the app to update your data</target>
+        <target>Öffne die App um die Daten zu aktualisieren</target>
         <note>Message shown when the database needs to be updated to use the latest version of the app</note>
       </trans-unit>
     </body>
@@ -803,13 +803,13 @@
       <trans-unit id="IntroOffer.Format" xml:space="preserve">
         <source>%@ for the first year
 then %@ per year</source>
-        <target>%@ for the first year
-then %@ per year</target>
+        <target>%@ für das erste Jahr
+dann %@ pro Jahr</target>
         <note>Label for a button to purchase a subscription that includes an introductory offer: {initial price} for the first year, then {regular price} per year</note>
       </trans-unit>
       <trans-unit id="IntroOffer.Notice" xml:space="preserve">
         <source>This is a limited-time introductory offer.</source>
-        <target>This is a limited-time introductory offer.</target>
+        <target>Dies ist ein zeitlich begrenztes Kennenlernangebot.</target>
         <note>Message explaining that an introductory offer is only available for a limited time</note>
       </trans-unit>
       <trans-unit id="LearnMore.Alternate.Button" xml:space="preserve">
@@ -824,7 +824,7 @@ then %@ per year</target>
       </trans-unit>
       <trans-unit id="LegacyAccess.Active" xml:space="preserve">
         <source>Previous Purchase Found</source>
-        <target>Previous Purchase Found</target>
+        <target>Vorheriger Kauf gefunden</target>
         <note>Short message indicating that a previous purchase was found, unlocking additional features</note>
       </trans-unit>
       <trans-unit id="Manage.Button" xml:space="preserve">

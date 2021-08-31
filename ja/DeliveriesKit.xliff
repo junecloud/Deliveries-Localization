@@ -1058,9 +1058,9 @@
         <target>DHL – ドイツ</target>
         <note>Name of a shipping service</note>
       </trans-unit>
-      <trans-unit id="Service.DHLUSGlobalMail" xml:space="preserve">
-        <source>DHL – US GlobalMail</source>
-        <target>DHL – アメリカ GlobalMail</target>
+      <trans-unit id="Service.DHLECommerce" xml:space="preserve">
+        <source>DHL eCommerce</source>
+        <target>DHL eCommerce</target>
         <note>Name of a shipping service</note>
       </trans-unit>
       <trans-unit id="Service.DPD" xml:space="preserve">

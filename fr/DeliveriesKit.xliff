@@ -308,12 +308,12 @@
       </trans-unit>
       <trans-unit id="Deliveries.SharedDelivery.Disclaimer" xml:space="preserve">
         <source>This information was entered by the person that shared it with you.</source>
-        <target>This information was entered by the person that shared it with you.</target>
+        <target>Cette information a été entrée par la personne qui l'a partagée avec vous.</target>
         <note>Notice shown when adding a shared delivery</note>
       </trans-unit>
       <trans-unit id="Deliveries.SharedDelivery.Error" xml:space="preserve">
         <source>This delivery cannot be added</source>
-        <target>This delivery cannot be added</target>
+        <target>Cette livraison ne peut pas être ajoutée</target>
         <note>Title for an error shown when a shared delivery cannot be added</note>
       </trans-unit>
       <trans-unit id="Deliveries.Title" xml:space="preserve">
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Invalid" xml:space="preserve">
         <source>Make sure the information you entered is correct. It’s possible the number is incorrect or the wrong service was selected.</source>
-        <target>Assurez-vous que les informations que vous avez saisies sont correctes, ou vérifiez-les plus tard.</target>
+        <target>Assurez-vous que les informations saisies sont correctes. Il est possible que le numéro ne soit pas correct ou que le mauvais service a été sélectionné.</target>
         <note>Error message used when the tracking number is not valid or some other setting is incorrect.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.NotAvailable" xml:space="preserve">
@@ -1058,9 +1058,9 @@
         <target>DHL – Allemagne</target>
         <note>Name of a shipping service</note>
       </trans-unit>
-      <trans-unit id="Service.DHLUSGlobalMail" xml:space="preserve">
-        <source>DHL – US GlobalMail</source>
-        <target>DHL – US GlobalMail</target>
+      <trans-unit id="Service.DHLECommerce" xml:space="preserve">
+        <source>DHL eCommerce</source>
+        <target>DHL eCommerce</target>
         <note>Name of a shipping service</note>
       </trans-unit>
       <trans-unit id="Service.DPD" xml:space="preserve">
@@ -1764,12 +1764,12 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
       </trans-unit>
       <trans-unit id="OtherPackages.Title" xml:space="preserve">
         <source>Other upcoming packages</source>
-        <target>Other upcoming packages</target>
+        <target>Autres colis en route</target>
         <note>Title for a section that shows a list of additional upcoming packages</note>
       </trans-unit>
       <trans-unit id="Upgrade.Message" xml:space="preserve">
         <source>Tap to learn how to add our new widget on iOS 14 or later.</source>
-        <target>Tap to learn how to add our new widget on iOS 14 or later.</target>
+        <target>Touchez pour savoir comment ajouter notre nouveau widget sur iOS14 ou toute version ultérieure.</target>
         <note>Message that opens a link explaining how to add widgets on iOS 14 or later</note>
       </trans-unit>
     </body>
