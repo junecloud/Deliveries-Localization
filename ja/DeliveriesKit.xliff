@@ -308,12 +308,12 @@
       </trans-unit>
       <trans-unit id="Deliveries.SharedDelivery.Disclaimer" xml:space="preserve">
         <source>This information was entered by the person that shared it with you.</source>
-        <target>This information was entered by the person that shared it with you.</target>
+        <target>この情報は、あなたと共有した人が入力したものです。</target>
         <note>Notice shown when adding a shared delivery</note>
       </trans-unit>
       <trans-unit id="Deliveries.SharedDelivery.Error" xml:space="preserve">
         <source>This delivery cannot be added</source>
-        <target>This delivery cannot be added</target>
+        <target>この荷物を追加することはできません。</target>
         <note>Title for an error shown when a shared delivery cannot be added</note>
       </trans-unit>
       <trans-unit id="Deliveries.Title" xml:space="preserve">
@@ -567,7 +567,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.Invalid" xml:space="preserve">
         <source>Make sure the information you entered is correct. It’s possible the number is incorrect or the wrong service was selected.</source>
-        <target>入力された情報が正しいことを確認するか、後で確認してください。</target>
+        <target>入力した情報が正しいかどうか確認してください。番号が間違っていたり、選択したサービスが間違っている可能性があります。</target>
         <note>Error message used when the tracking number is not valid or some other setting is incorrect.</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.Error.NotAvailable" xml:space="preserve">
@@ -1764,12 +1764,12 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
       </trans-unit>
       <trans-unit id="OtherPackages.Title" xml:space="preserve">
         <source>Other upcoming packages</source>
-        <target>Other upcoming packages</target>
+        <target>その他の今後の荷物</target>
         <note>Title for a section that shows a list of additional upcoming packages</note>
       </trans-unit>
       <trans-unit id="Upgrade.Message" xml:space="preserve">
         <source>Tap to learn how to add our new widget on iOS 14 or later.</source>
-        <target>Tap to learn how to add our new widget on iOS 14 or later.</target>
+        <target>タップすると、iOS 14以降で新しいウィジェットを追加する方法が表示されます。</target>
         <note>Message that opens a link explaining how to add widgets on iOS 14 or later</note>
       </trans-unit>
     </body>
