@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Button.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
     </header>
     <body>
       <trans-unit id="Button.Add" xml:space="preserve">
@@ -109,7 +109,7 @@
   </file>
   <file original="../Strings/en.lproj/Crash.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
     </header>
     <body>
       <trans-unit id="Crash.AlwaysSend.Button" xml:space="preserve">
@@ -141,7 +141,7 @@
   </file>
   <file original="../Strings/en.lproj/Data.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
     </header>
     <body>
       <trans-unit id="Data.DeleteArchive.Button" xml:space="preserve">
@@ -310,7 +310,7 @@
   </file>
   <file original="../Strings/en.lproj/Date.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
     </header>
     <body>
       <trans-unit id="Date.Countdown.Day" xml:space="preserve">
@@ -366,7 +366,7 @@
       <trans-unit id="Date.Elapsed.Format" xml:space="preserve">
         <source>%@ ago</source>
         <target>%@前</target>
-        <note>{time period} ago, for example '3 minutes ago' or '1 hour ago'</note>
+        <note>{time period} ago, for example '3 minutes ago' or '1 hour ago'. Note: this is currently only used on macOS 10.14.</note>
       </trans-unit>
       <trans-unit id="Date.Elapsed.Moment" xml:space="preserve">
         <source>a moment ago</source>
@@ -375,9 +375,96 @@
       </trans-unit>
     </body>
   </file>
+  <file original="../Strings/en.lproj/Menu.strings" source-language="en" target-language="ja" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+    </header>
+    <body>
+      <trans-unit id="Menu.Close" xml:space="preserve">
+        <source>Close</source>
+        <target>閉じる</target>
+        <note>Menu item to close the current window</note>
+      </trans-unit>
+      <trans-unit id="Menu.Export" xml:space="preserve">
+        <source>Export…</source>
+        <target>書き出す…</target>
+        <note>Menu item to export an object</note>
+      </trans-unit>
+      <trans-unit id="Menu.Export.All" xml:space="preserve">
+        <source>Export All…</source>
+        <target>すべてを書き出す…</target>
+        <note>Menu item to export all objects (rather than just the selected objects)</note>
+      </trans-unit>
+      <trans-unit id="Menu.Export.Selection" xml:space="preserve">
+        <source>Export Selection…</source>
+        <target>選択した項目を書き出す…</target>
+        <note>Menu item used to export the selected objects (rather than exporting all objects)</note>
+      </trans-unit>
+      <trans-unit id="Menu.Find" xml:space="preserve">
+        <source>Find…</source>
+        <target>検索…</target>
+        <note>Menu item to start a search</note>
+      </trans-unit>
+      <trans-unit id="Menu.GenericBrowser" xml:space="preserve">
+        <source>Browser</source>
+        <target>ブラウザ</target>
+        <note>Generic name for a web browser used when the actual name is unknown</note>
+      </trans-unit>
+      <trans-unit id="Menu.New" xml:space="preserve">
+        <source>New…</source>
+        <target>新規…</target>
+        <note>Menu item to add a new object</note>
+      </trans-unit>
+      <trans-unit id="Menu.Next" xml:space="preserve">
+        <source>Next</source>
+        <target>次へ</target>
+        <note>Menu item to select the next object in a list</note>
+      </trans-unit>
+      <trans-unit id="Menu.Open" xml:space="preserve">
+        <source>Open…</source>
+        <target>開く…</target>
+        <note>Menu item to open a file</note>
+      </trans-unit>
+      <trans-unit id="Menu.OpenLink" xml:space="preserve">
+        <source>Open Link</source>
+        <target>リンクを開く</target>
+        <note>Menu to open a link in a web browser</note>
+      </trans-unit>
+      <trans-unit id="Menu.PageSetup" xml:space="preserve">
+        <source>Page Setup…</source>
+        <target>ページ設定…</target>
+        <note>Menu item to open Page Setup to change print settings</note>
+      </trans-unit>
+      <trans-unit id="Menu.Paste" xml:space="preserve">
+        <source>Paste</source>
+        <target>ペースト</target>
+        <note>Menu item to paste the clipboard contents</note>
+      </trans-unit>
+      <trans-unit id="Menu.Previous" xml:space="preserve">
+        <source>Previous</source>
+        <target>前へ</target>
+        <note>Menu item to select the previous object in a list</note>
+      </trans-unit>
+      <trans-unit id="Menu.Print" xml:space="preserve">
+        <source>Print…</source>
+        <target>プリント…</target>
+        <note>Menu item to print</note>
+      </trans-unit>
+      <trans-unit id="Menu.SendFeedback" xml:space="preserve">
+        <source>Send Feedback</source>
+        <target>フィードバックを送信</target>
+        <note>Menu item to open a window to send feedback</note>
+      </trans-unit>
+      <trans-unit id="Menu.Share.More" xml:space="preserve">
+        <source>More…</source>
+        <target>その他…</target>
+        <note>Menu item at the bottom of the Share menu that opens System Preferences &gt; Extensions &gt; Share Menu, so more Share options can be added. Only used on macOS.</note>
+      </trans-unit>
+    </body>
+  </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
     </header>
     <body>
       <trans-unit id="Setting.About.Title" xml:space="preserve">
@@ -430,6 +517,22 @@
         <target>配達日</target>
         <note>Label for a date setting</note>
       </trans-unit>
+      <trans-unit id="Setting.DeleteAccount.Button" xml:space="preserve">
+        <source>Delete Your Account</source>
+        <note>Button to open a view for deleting an account</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteAccount.Continue.Button" xml:space="preserve">
+        <source>Continue</source>
+        <note>Button to continue the process of deleting an account</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteAccount.Message" xml:space="preserve">
+        <source>Deleting your account will remove all of your data from Junecloud sync. Your data will not be removed from any Junecloud apps installed on your devices.</source>
+        <note>Message for an alert confirming that an account should be deleted</note>
+      </trans-unit>
+      <trans-unit id="Setting.DeleteAccount.Title.Format" xml:space="preserve">
+        <source>Delete Account %@</source>
+        <note>Title for an alert confirming that an account should be deleted</note>
+      </trans-unit>
       <trans-unit id="Setting.DeleteArchive.Format" xml:space="preserve">
         <source>After %@ Days</source>
         <target>%@日後に削除</target>
@@ -463,7 +566,7 @@
       <trans-unit id="Setting.DeleteArchive.Year" xml:space="preserve">
         <source>After One Year</source>
         <target>1年後に削除</target>
-        <note>Value for deleting archived items: after a year</note>
+        <note>Value for deleting archived items: after one year</note>
       </trans-unit>
       <trans-unit id="Setting.Demo.Unavailable" xml:space="preserve">
         <source>This feature is not available in demo mode.</source>
@@ -769,7 +872,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Active" xml:space="preserve">
@@ -828,16 +931,6 @@ then %@ per year</source>
         <source>Manage Subscription</source>
         <target>サブスクリプションを管理</target>
         <note>Button to open a view in the App Store where subscriptions can be changed or canceled</note>
-      </trans-unit>
-      <trans-unit id="MissingReceipt.Message" xml:space="preserve">
-        <source>Your purchase could not be verified. Install the latest version from the Mac App Store and open it at least once to make your receipt available.</source>
-        <target>お客様の購入が確認できませんでした。Mac App Storeから最新版をインストールして、一度は開いてレシートを利用できるようにしてください。</target>
-        <note>Missing receipt message</note>
-      </trans-unit>
-      <trans-unit id="MissingReceipt.Title" xml:space="preserve">
-        <source>Missing Receipt</source>
-        <target>レシートが見つかりません</target>
-        <note>Missing receipt title</note>
       </trans-unit>
       <trans-unit id="Period.PerMonth" xml:space="preserve">
         <source> / month</source>
@@ -909,11 +1002,6 @@ then %@ per year</source>
         <target> </target>
         <note>A character that appears between two sentences, for example a space. This may be used to combine Expired.Message, Subscribe.Message.Legacy, and Subscribe.Message.</note>
       </trans-unit>
-      <trans-unit id="Subscribed.Title" xml:space="preserve">
-        <source>Subscribed</source>
-        <target>講読済み</target>
-        <note>Title for the subscription view when a subscription is active</note>
-      </trans-unit>
       <trans-unit id="Title" xml:space="preserve">
         <source>Subscription</source>
         <target>サブスクリプション</target>
@@ -953,7 +1041,7 @@ then %@ per year</source>
   </file>
   <file original="../Strings/en.lproj/Update.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
     </header>
     <body>
       <trans-unit id="Update.Busy" xml:space="preserve">
@@ -1020,7 +1108,7 @@ then %@ per year</source>
   </file>
   <file original="../Strings/en.lproj/Web.strings" source-language="en" target-language="ja" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="12.5.1" build-num="12E507"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
     </header>
     <body>
       <trans-unit id="Web.Action.OpenInSafari" xml:space="preserve">
