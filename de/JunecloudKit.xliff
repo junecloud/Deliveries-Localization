@@ -522,18 +522,22 @@
       </trans-unit>
       <trans-unit id="Setting.DeleteAccount.Button" xml:space="preserve">
         <source>Delete Your Account</source>
+        <target>Account löschen</target>
         <note>Button to open a view for deleting an account</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteAccount.Continue.Button" xml:space="preserve">
         <source>Continue</source>
+        <target>Weiter</target>
         <note>Button to continue the process of deleting an account</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteAccount.Message" xml:space="preserve">
         <source>Deleting your account will remove all of your data from Junecloud sync. Your data will not be removed from any Junecloud apps installed on your devices.</source>
+        <target>Wenn Sie ihren Account löschen, werden all ihre Daten aus dem Junecloud Sync entfernt. Die Daten werden nicht aus den Junecloud apps auf ihren Geräten entfernt.</target>
         <note>Message for an alert confirming that an account should be deleted</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteAccount.Title.Format" xml:space="preserve">
         <source>Delete Account %@</source>
+        <target>Lösche Account %@ </target>
         <note>Title for an alert confirming that an account should be deleted</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteArchive.Format" xml:space="preserve">

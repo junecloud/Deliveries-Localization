@@ -22,6 +22,7 @@
       </trans-unit>
       <trans-unit id="Add.Edit.Manual.Footer" xml:space="preserve">
         <source>Tracking information for this service is not available in Deliveries, but you can use the “view online” button to check the latest information. The date will not update automatically, but you can enter one manually to help you keep track of this shipment.</source>
+        <target>Lieferinformationen für diesen Dienst können leider nicht in Lieferungen angzeigt werden. Sie können aber über den Button “Online anzeigen” die aktuellen Infromationen erhalten. Das Lieferdatum wird nicht automatisch aktualisiert, aber Sie können eins manuell eintragen.</target>
         <note>Footer text that appears below settings for a delivery that will not update automatically</note>
       </trans-unit>
       <trans-unit id="Add.Edit.Password.Footer" xml:space="preserve">
@@ -671,6 +672,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.ManualDate.Detail" xml:space="preserve">
         <source>This delivery date was entered manually, and will not update automatically.</source>
+        <target>Dieses Lieferdatum wurde manuell eingetragen und wird darum nicht automatisch aktualisiert.</target>
         <note>Message explaining that the date shown will not update automatically</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.NoMore" xml:space="preserve">
@@ -700,6 +702,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.ViewOnline.Detail" xml:space="preserve">
         <source>Use the “view online” button to check the latest information.</source>
+        <target>Benutzen Sie den “Online anzeigen” Button um die aktuellen Informationen anzuzeigen.</target>
         <note>Message explaining how to check the status of a delivery from an unsupported service</note>
       </trans-unit>
     </body>
