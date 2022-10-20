@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Button.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Button.Add" xml:space="preserve">
@@ -62,8 +62,13 @@
       </trans-unit>
       <trans-unit id="Button.OpenSystemPreferences" xml:space="preserve">
         <source>Open System Preferences</source>
-        <target>Ouvrir les préférences système</target>
-        <note>Button to show related settings in the System Preferences app on macOS</note>
+        <target>Ouvrir Préférences Système</target>
+        <note>Button to show related settings in the System Preferences app on macOS 12 or earlier</note>
+      </trans-unit>
+      <trans-unit id="Button.OpenSystemSettings" xml:space="preserve">
+        <source>Open System Settings</source>
+        <target>Ouvrir Réglages du système</target>
+        <note>Button to show related settings in the System Settings app on macOS 13 or later</note>
       </trans-unit>
       <trans-unit id="Button.Quit" xml:space="preserve">
         <source>Quit</source>
@@ -109,7 +114,7 @@
   </file>
   <file original="../Strings/en.lproj/Crash.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Crash.AlwaysSend.Button" xml:space="preserve">
@@ -141,7 +146,7 @@
   </file>
   <file original="../Strings/en.lproj/Data.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Data.DeleteArchive.Button" xml:space="preserve">
@@ -310,7 +315,7 @@
   </file>
   <file original="../Strings/en.lproj/Date.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Date.Countdown.Day" xml:space="preserve">
@@ -377,7 +382,7 @@
   </file>
   <file original="../Strings/en.lproj/Menu.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Menu.Close" xml:space="preserve">
@@ -440,6 +445,11 @@
         <target>Coller</target>
         <note>Menu item to paste the clipboard contents</note>
       </trans-unit>
+      <trans-unit id="Menu.Preferences" xml:space="preserve">
+        <source>Preferences…</source>
+        <target>Préférences…</target>
+        <note>Menu item to open the Preferences, on macOS 12 or earlier</note>
+      </trans-unit>
       <trans-unit id="Menu.Previous" xml:space="preserve">
         <source>Previous</source>
         <target>Précédent</target>
@@ -455,6 +465,11 @@
         <target>Envoyer un feedback</target>
         <note>Menu item to open a window to send feedback</note>
       </trans-unit>
+      <trans-unit id="Menu.Settings" xml:space="preserve">
+        <source>Settings…</source>
+        <target>Réglages…</target>
+        <note>Menu item to open the Settings, on macOS 13 or later</note>
+      </trans-unit>
       <trans-unit id="Menu.Share.More" xml:space="preserve">
         <source>More…</source>
         <target>Plus…</target>
@@ -464,7 +479,7 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Setting.About.Title" xml:space="preserve">
@@ -519,22 +534,22 @@
       </trans-unit>
       <trans-unit id="Setting.DeleteAccount.Button" xml:space="preserve">
         <source>Delete Your Account</source>
-        <target state="translated">Supprimer votre compte</target>
+        <target>Supprimer votre compte</target>
         <note>Button to open a view for deleting an account</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteAccount.Continue.Button" xml:space="preserve">
         <source>Continue</source>
-        <target state="translated">Poursuivre</target>
+        <target>Poursuivre</target>
         <note>Button to continue the process of deleting an account</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteAccount.Message" xml:space="preserve">
         <source>Deleting your account will remove all of your data from Junecloud sync. Your data will not be removed from any Junecloud apps installed on your devices.</source>
-        <target state="translated">La suppression de votre compte entraînera la suppression de toutes vos données de la synchronisation Junecloud. Vos données ne seront pas supprimées dans les applications Junecloud installées sur vos appareils.</target>
+        <target>La suppression de votre compte entraînera la suppression de toutes vos données de la synchronisation Junecloud. Vos données ne seront pas supprimées dans les applications Junecloud installées sur vos appareils.</target>
         <note>Message for an alert confirming that an account should be deleted</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteAccount.Title.Format" xml:space="preserve">
         <source>Delete Account %@</source>
-        <target state="translated">Supprimer le compte %@</target>
+        <target>Supprimer le compte %@</target>
         <note>Title for an alert confirming that an account should be deleted</note>
       </trans-unit>
       <trans-unit id="Setting.DeleteArchive.Format" xml:space="preserve">
@@ -780,7 +795,7 @@
       <trans-unit id="Setting.Preferences.Title" xml:space="preserve">
         <source>Preferences</source>
         <target>Préférences</target>
-        <note>Title for the preferences window on macOS</note>
+        <note>Title for the preferences window on macOS 12 and earlier</note>
       </trans-unit>
       <trans-unit id="Setting.ResetPassword.Button" xml:space="preserve">
         <source>Reset Your Password</source>
@@ -876,7 +891,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="BetaAccess.Active" xml:space="preserve">
@@ -1045,7 +1060,7 @@ puis %@ par an</target>
   </file>
   <file original="../Strings/en.lproj/Update.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Update.Busy" xml:space="preserve">
@@ -1112,7 +1127,7 @@ puis %@ par an</target>
   </file>
   <file original="../Strings/en.lproj/Web.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Web.Action.OpenInSafari" xml:space="preserve">

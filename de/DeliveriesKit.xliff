@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Add.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Add.Barcode.Header" xml:space="preserve">
@@ -134,7 +134,7 @@
   </file>
   <file original="../Strings/en.lproj/Beta.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Beta.Expired.Message" xml:space="preserve">
@@ -151,7 +151,7 @@
   </file>
   <file original="../Strings/en.lproj/Camera.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
@@ -183,7 +183,7 @@
   </file>
   <file original="../Strings/en.lproj/Deliveries.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Deliveries.Add.Button" xml:space="preserve">
@@ -247,6 +247,11 @@
         <note>Message for an alert shown when a beta service update has finished installing, used on iOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS" xml:space="preserve">
+        <source>Let us know if you continue to have problems. You can reset service updates by opening the Settings, clicking Advanced, then unchecking the “Beta service updates” box.</source>
+        <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können die Dienst Aktualisierungen zurücksetzen, indem Sie in den Einstellungen unter Erweitert das Häkchen bei “Beta Dienst Aktualisierungen” entfernen.</target>
+        <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS.Legacy" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Preferences, clicking Advanced, then unchecking the “Beta service updates” box.</source>
         <target>Lassen Sie es uns wissen, falls Sie weiterhin Probleme haben. Sie können die Dienst Aktualisierungen zurücksetzen, indem Sie in den Einstellungen unter Erweitert das Häkchen bei “Beta Dienst Aktualisierungen” entfernen.</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
@@ -350,7 +355,7 @@
   </file>
   <file original="../Strings/en.lproj/Delivery.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
@@ -532,7 +537,7 @@
   </file>
   <file original="../Strings/en.lproj/DeliveryStatus.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="DeliveryStatus.Busy" xml:space="preserve">
@@ -709,7 +714,7 @@
   </file>
   <file original="../Strings/en.lproj/Location.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Location.Adjust" xml:space="preserve">
@@ -766,7 +771,7 @@
   </file>
   <file original="../Strings/en.lproj/Mail.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Mail.AddNew.Button" xml:space="preserve">
@@ -820,9 +825,14 @@
         <note>Message for an alert, explaining how to update Contacts permission, on iOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.macOS" xml:space="preserve">
+        <source>Click “Open System Settings” and make sure the switch next to Deliveries is on.</source>
+        <target>Klicken Sie auf “Systemeinstellungen öffnen” und überprüfen Sie, dass der Schalter neben Lieferungen aktiviert ist.</target>
+        <note>Message for an alert, explaining how to update Contacts permission, on macOS 13 and later</note>
+      </trans-unit>
+      <trans-unit id="Mail.Permission.Message.macOS.Legacy" xml:space="preserve">
         <source>Click “Open System Preferences” to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
-        <target>Klicken Sie “Öffne Systemeinstellungen”, um zu den Systemeinstellungen Sicherheit zu gelangen. Wählen Sie den Datenschutz Tab und wählen Sie Kontakte aus. Stellen Sie sicher, dass neben Lieferungen ein Häkchen ist.</target>
-        <note>Message for an alert, explaining how to update Contacts permission, on macOS</note>
+        <target>Klicken Sie “Systemeinstellungen öffnen”, um zu den Systemeinstellungen Sicherheit zu gelangen. Wählen Sie den Datenschutz Tab und wählen Sie Kontakte aus. Stellen Sie sicher, dass neben Lieferungen ein Häkchen ist.</target>
+        <note>Message for an alert, explaining how to update Contacts permission, on macOS 12 and earlier</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Title" xml:space="preserve">
         <source>Deliveries needs permission to access your contacts</source>
@@ -868,7 +878,7 @@
   </file>
   <file original="../Strings/en.lproj/Service.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Service.Adobe" xml:space="preserve">
@@ -1260,7 +1270,7 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Setting.Advanced.Title" xml:space="preserve">
@@ -1387,7 +1397,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Extension.Instructions.iOS" xml:space="preserve">
@@ -1493,7 +1503,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Juneclo
   </file>
   <file original="../Strings/en.lproj/Troubleshoot.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
@@ -1590,7 +1600,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Juneclo
   </file>
   <file original="../Strings/en.lproj/Validate.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Validate.Error.Database" xml:space="preserve">
@@ -1667,7 +1677,7 @@ Wenn dieses kostenlose Abo abläuft, müssen Sie für ein Abo zahlen, um Juneclo
   </file>
   <file original="../Strings/en.lproj/Widget.strings" source-language="en" target-language="de" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Description" xml:space="preserve">

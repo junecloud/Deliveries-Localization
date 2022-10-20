@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Strings/en.lproj/Add.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Add.Barcode.Header" xml:space="preserve">
@@ -22,7 +22,7 @@
       </trans-unit>
       <trans-unit id="Add.Edit.Manual.Footer" xml:space="preserve">
         <source>Tracking information for this service is not available in Deliveries, but you can use the “view online” button to check the latest information. The date will not update automatically, but you can enter one manually to help you keep track of this shipment.</source>
-        <target state="translated">Le suivi d'information pour ce service n’est pas disponible dans Livraisons, mais vous pouvez utiliser le bouton « Afficher en ligne » pour consulter les dernières informations. La date ne sera pas mise à jour automatiquement, mais vous pouvez la saisir manuellement pour vous aider à suivre cette expédition.</target>
+        <target>Le suivi d'information pour ce service n’est pas disponible dans Livraisons, mais vous pouvez utiliser le bouton « Afficher en ligne » pour consulter les dernières informations. La date ne sera pas mise à jour automatiquement, mais vous pouvez la saisir manuellement pour vous aider à suivre cette expédition.</target>
         <note>Footer text that appears below settings for a delivery that will not update automatically</note>
       </trans-unit>
       <trans-unit id="Add.Edit.Password.Footer" xml:space="preserve">
@@ -134,7 +134,7 @@
   </file>
   <file original="../Strings/en.lproj/Beta.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Beta.Expired.Message" xml:space="preserve">
@@ -151,7 +151,7 @@
   </file>
   <file original="../Strings/en.lproj/Camera.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Camera.Torch.Off.VoiceOver" xml:space="preserve">
@@ -183,7 +183,7 @@
   </file>
   <file original="../Strings/en.lproj/Deliveries.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Deliveries.Add.Button" xml:space="preserve">
@@ -247,6 +247,11 @@
         <note>Message for an alert shown when a beta service update has finished installing, used on iOS</note>
       </trans-unit>
       <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS" xml:space="preserve">
+        <source>Let us know if you continue to have problems. You can reset service updates by opening the Settings, clicking Advanced, then unchecking the “Beta service updates” box.</source>
+        <target>Faites-nous savoir si les problèmes persistent. Vous pouvez réinitialiser les mises à jour du service en cliquant sur Réglages, puis sur Avancés et en décochant la case « Mises à jour du service Beta ».</target>
+        <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
+      </trans-unit>
+      <trans-unit id="Deliveries.InstalledServiceUpdate.Message.macOS.Legacy" xml:space="preserve">
         <source>Let us know if you continue to have problems. You can reset service updates by opening the Preferences, clicking Advanced, then unchecking the “Beta service updates” box.</source>
         <target>Faites-nous savoir si les problèmes persistent. Vous pouvez réinitialiser les mises à jour du service en cliquant sur Préférences, puis sur Avancés et en décochant la case « Mises à jour du service Beta ».</target>
         <note>Message for an alert shown when a beta service update has finished installing, used on macOS</note>
@@ -350,7 +355,7 @@
   </file>
   <file original="../Strings/en.lproj/Delivery.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Delivery.Action.Archive" xml:space="preserve">
@@ -532,7 +537,7 @@
   </file>
   <file original="../Strings/en.lproj/DeliveryStatus.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="DeliveryStatus.Busy" xml:space="preserve">
@@ -672,7 +677,7 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.ManualDate.Detail" xml:space="preserve">
         <source>This delivery date was entered manually, and will not update automatically.</source>
-        <target state="translated">Cette date de livraison a été saisie manuellement et ne sera pas mise à jour automatiquement.</target>
+        <target>Cette date de livraison a été saisie manuellement et ne sera pas mise à jour automatiquement.</target>
         <note>Message explaining that the date shown will not update automatically</note>
       </trans-unit>
       <trans-unit id="DeliveryStatus.NoMore" xml:space="preserve">
@@ -702,14 +707,14 @@
       </trans-unit>
       <trans-unit id="DeliveryStatus.ViewOnline.Detail" xml:space="preserve">
         <source>Use the “view online” button to check the latest information.</source>
-        <target state="translated">Utilisez le bouton « Afficher en ligne » pour consulter les dernières informations.</target>
+        <target>Utilisez le bouton « Afficher en ligne » pour consulter les dernières informations.</target>
         <note>Message explaining how to check the status of a delivery from an unsupported service</note>
       </trans-unit>
     </body>
   </file>
   <file original="../Strings/en.lproj/Location.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Location.Adjust" xml:space="preserve">
@@ -766,7 +771,7 @@
   </file>
   <file original="../Strings/en.lproj/Mail.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Mail.AddNew.Button" xml:space="preserve">
@@ -820,9 +825,14 @@
         <note>Message for an alert, explaining how to update Contacts permission, on iOS</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.macOS" xml:space="preserve">
+        <source>Click “Open System Settings” and make sure the switch next to Deliveries is on.</source>
+        <target>Cliquez sur « Ouvrir Réglages du système » et assurez-vous que Livraisons est activé.</target>
+        <note>Message for an alert, explaining how to update Contacts permission, on macOS 13 and later</note>
+      </trans-unit>
+      <trans-unit id="Mail.Permission.Message.macOS.Legacy" xml:space="preserve">
         <source>Click “Open System Preferences” to open the Security &amp; Privacy pane of System Preferences. Select the Privacy tab, then select Contacts. Find Deliveries in the list, and make sure the box next to it is checked.</source>
-        <target>Cliquez sur « Ouvrir les préférences système » afin d’ouvrir le panneau Sécurité et confidentialité des préférences système. Sélectionnez l’onglet Confidentialité, puis Contacts. Cherchez Livraisons dans la liste et assurez-vous que la case à côté est cochée.</target>
-        <note>Message for an alert, explaining how to update Contacts permission, on macOS</note>
+        <target>Cliquez sur « Ouvrir Préférences Système » afin d’ouvrir le panneau Sécurité et confidentialité des préférences système. Sélectionnez l’onglet Confidentialité, puis Contacts. Cherchez Livraisons dans la liste et assurez-vous que la case à côté est cochée.</target>
+        <note>Message for an alert, explaining how to update Contacts permission, on macOS 12 and earlier</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Title" xml:space="preserve">
         <source>Deliveries needs permission to access your contacts</source>
@@ -868,7 +878,7 @@
   </file>
   <file original="../Strings/en.lproj/Service.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Service.Adobe" xml:space="preserve">
@@ -1260,7 +1270,7 @@
   </file>
   <file original="../Strings/en.lproj/Setting.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Setting.Advanced.Title" xml:space="preserve">
@@ -1300,7 +1310,7 @@
       </trans-unit>
       <trans-unit id="Setting.Calendar.Error" xml:space="preserve">
         <source>Deliveries needs to access your calendars to add estimated delivery dates to them. Tap Open Settings, then tap Privacy, and make sure Calendars is on.</source>
-        <target>Livraisons doit avoir accès à vos calendriers pour y ajouter les dates de livraisons estimées. Appuyez sur Ouvrir les réglages, puis Confidentialité et assurez-vous que les calendriers sont activés.</target>
+        <target>Livraisons doit avoir accès à vos calendriers pour y ajouter les dates de livraisons estimées. Appuyez sur Ouvrir Réglages, puis Confidentialité et assurez-vous que les calendriers sont activés.</target>
         <note>Error message explaining that Deliveries needs access to the user's calendars in order to enable the setting to add events to a calendar automatically</note>
       </trans-unit>
       <trans-unit id="Setting.Calendar.Label.iOS" xml:space="preserve">
@@ -1330,7 +1340,7 @@
       </trans-unit>
       <trans-unit id="Setting.Notifications.Background.Footer" xml:space="preserve">
         <source>Background App Refresh is required for notifications. Tap Open Settings and make sure Background App Refresh is on.</source>
-        <target>L’actualisation en arrière-plan est nécessaire pour avoir accès aux notifications. Appuyez sur Ouvrir les réglages et assurez-vous que l’actualisation en arrière-plan est activée.</target>
+        <target>L’actualisation en arrière-plan est nécessaire pour avoir accès aux notifications. Appuyez sur Ouvrir Réglages et assurez-vous que l’actualisation en arrière-plan est activée.</target>
         <note>Message at the bottom of the Notifications view explaining that Background App Refresh is currently off and must be enabled</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Label" xml:space="preserve">
@@ -1340,7 +1350,7 @@
       </trans-unit>
       <trans-unit id="Setting.Notifications.Options.Footer" xml:space="preserve">
         <source>Tap Open Settings to adjust notification options, including sounds and badges.</source>
-        <target>Appuyez sur Ouvrir réglages pour ajuster les options de notifications, y compris les sons et badges.</target>
+        <target>Appuyez sur Ouvrir Réglages pour ajuster les options de notifications, y compris les sons et badges.</target>
         <note>Message at the bottom of the Notifications view explaining that additional options are available in the Settings app</note>
       </trans-unit>
       <trans-unit id="Setting.Notifications.Permission.Footer" xml:space="preserve">
@@ -1387,7 +1397,7 @@
   </file>
   <file original="../Strings/en.lproj/Subscription.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Extension.Instructions.iOS" xml:space="preserve">
@@ -1493,7 +1503,7 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
   </file>
   <file original="../Strings/en.lproj/Troubleshoot.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Troubleshoot.Complete.Message" xml:space="preserve">
@@ -1590,7 +1600,7 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
   </file>
   <file original="../Strings/en.lproj/Validate.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Validate.Error.Database" xml:space="preserve">
@@ -1667,7 +1677,7 @@ When your complimentary subscription expires, you’ll need to pay for a subscri
   </file>
   <file original="../Strings/en.lproj/Widget.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Description" xml:space="preserve">

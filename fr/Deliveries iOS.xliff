@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="../Common/Intents/Base.lproj/Intents.intentdefinition" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="0OU61a" xml:space="preserve" translate="no">
@@ -301,7 +301,7 @@
   </file>
   <file original="../Common/Intents/en.lproj/Intents.stringsdict" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="/0OU61a:dict/NSStringLocalizedFormatKey:dict/:string" xml:space="preserve" translate="no">
@@ -573,7 +573,7 @@
   </file>
   <file original="../Common/Strings/en.lproj/Siri.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CheckDelivery.Phrase" xml:space="preserve">
@@ -610,7 +610,7 @@
   </file>
   <file original="Deliveries Add/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -626,7 +626,7 @@
   </file>
   <file original="Deliveries Intents UI/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -641,7 +641,7 @@
   </file>
   <file original="Deliveries Intents/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -656,7 +656,7 @@
   </file>
   <file original="Deliveries Notification/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -671,7 +671,7 @@
   </file>
   <file original="Deliveries Quick Look/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -686,7 +686,7 @@
   </file>
   <file original="Deliveries Spotlight/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -701,7 +701,7 @@
   </file>
   <file original="Deliveries Stickers/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -713,7 +713,7 @@
   </file>
   <file original="Deliveries Stickers/en.lproj/Package Pals.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Happy Package Pal" xml:space="preserve">
@@ -735,7 +735,7 @@
   </file>
   <file original="Deliveries Today/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -749,26 +749,9 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Deliveries Watch Extension/en.lproj/ckcomplication.strings" source-language="en" target-language="fr" datatype="plaintext">
-    <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
-    </header>
-    <body>
-      <trans-unit id=": iPad Pro…" xml:space="preserve">
-        <source>: iPad Pro…</source>
-        <target>: iPad Pro…</target>
-        <note>Sample text for Apple Watch complication preview</note>
-      </trans-unit>
-      <trans-unit id="iPad Pro 9.7, Apple Pencil" xml:space="preserve">
-        <source>iPad Pro 9.7", Apple Pencil</source>
-        <target>iPad Pro 9,7 pouces, Apple Pencil</target>
-        <note>Sample text for Apple Watch complication preview</note>
-      </trans-unit>
-    </body>
-  </file>
   <file original="Deliveries Watch Extension/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -781,41 +764,51 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Deliveries Watch Extension/en.lproj/Localizable.strings" source-language="en" target-language="fr" datatype="plaintext">
+  <file original="Deliveries Watch Extension/en.lproj/Placeholder.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
-      <trans-unit id="Watch.Complication.Format" xml:space="preserve">
-        <source>%@: %@</source>
-        <target>%@: %@</target>
-        <note>Format used to separate two pieces of information in an Apple Watch complication: {item name}: {expected delivery date}, for example 'Running Shoes: Tomorrow'</note>
+      <trans-unit id=": iPad Pro…" xml:space="preserve">
+        <source>: iPad Pro…</source>
+        <target>: iPad Pro…</target>
+        <note>Sample text for Apple Watch complication preview</note>
       </trans-unit>
-      <trans-unit id="Watch.Delivered" xml:space="preserve">
-        <source>Delivered!</source>
-        <target>Livré !</target>
-        <note>Short message shown in an Apple Watch complication when an item has been delivered</note>
+      <trans-unit id="Package.DaysNumber" xml:space="preserve">
+        <source>3</source>
+        <target>3</target>
+        <note>Example days number for Apple Watch complication preview</note>
       </trans-unit>
-      <trans-unit id="Watch.None" xml:space="preserve">
-        <source>None upcoming</source>
-        <target>Rien à venir</target>
-        <note>Short message shown in an Apple Watch complication when there are no upcoming deliveries</note>
+      <trans-unit id="Package.DaysText" xml:space="preserve">
+        <source>days</source>
+        <target>jours</target>
+        <note>Example days text for Apple Watch complication preview</note>
       </trans-unit>
-      <trans-unit id="Watch.Today" xml:space="preserve">
-        <source>Today</source>
-        <target>Aujourd’hui</target>
-        <note>Date display used in larger Apple Watch complications for deliveries expected today</note>
+      <trans-unit id="Package.Label" xml:space="preserve">
+        <source>3 days</source>
+        <target>3 days</target>
+        <note>Example days number and text for Apple Watch complication preview</note>
       </trans-unit>
-      <trans-unit id="Watch.Tomorrow" xml:space="preserve">
-        <source>Tomorrow</source>
-        <target>Demain</target>
-        <note>Date display used in larger Apple Watch complications for deliveries expected tomorrow</note>
+      <trans-unit id="Package.Status" xml:space="preserve">
+        <source>Origin Scan: Plainfield, IN, United States</source>
+        <target>Arrivé au centre de tri: Corbeil-Essonnes, FR</target>
+        <note>Example shipment status for Apple Watch complication preview</note>
+      </trans-unit>
+      <trans-unit id="Package.Title" xml:space="preserve">
+        <source>iPad Pro 9.7</source>
+        <target>iPad Pro 9,7 pouces</target>
+        <note>Example item name for Apple Watch complication preview</note>
+      </trans-unit>
+      <trans-unit id="iPad Pro 9.7, Apple Pencil" xml:space="preserve">
+        <source>iPad Pro 9.7", Apple Pencil</source>
+        <target>iPad Pro 9,7 pouces, Apple Pencil</target>
+        <note>Sample text for Apple Watch complication preview</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Watch Intents/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -828,61 +821,24 @@
       </trans-unit>
     </body>
   </file>
-  <file original="Deliveries Watch/Base.lproj/Interface.storyboard" source-language="en" target-language="fr" datatype="plaintext">
+  <file original="Deliveries Watch Widget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
-      <trans-unit id="8Qn-rf-Uxk.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "8Qn-rf-Uxk"; Note = "no-translate";</note>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Deliveries Watch Widget</source>
+        <note>Bundle display name</note>
       </trans-unit>
-      <trans-unit id="88K-oy-WRx.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "88K-oy-WRx"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="IqB-CN-0EV.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "IqB-CN-0EV"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="R0m-Ld-hE5.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "R0m-Ld-hE5"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="SDw-82-hwO.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "SDw-82-hwO"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="XkS-y5-khE.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "XkS-y5-khE"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="b5E-0S-I26.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "b5E-0S-I26"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="h05-YQ-mIR.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "h05-YQ-mIR"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="psS-ye-Ndu.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "psS-ye-Ndu"; Note = "no-translate";</note>
-      </trans-unit>
-      <trans-unit id="rYh-1W-j2X.title" xml:space="preserve">
-        <source>Deliveries</source>
-        <target>Livraisons</target>
-        <note>Class = "string"; title = "Deliveries"; ObjectID = "rYh-1W-j2X";</note>
-      </trans-unit>
-      <trans-unit id="wCT-Af-Sr6.text" xml:space="preserve" translate="no">
-        <source> </source>
-        <note>Class = "WKInterfaceLabel"; text = " "; ObjectID = "wCT-Af-Sr6"; Note = "no-translate";</note>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Deliveries Watch Widget</source>
+        <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
   <file original="Deliveries Watch/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -894,7 +850,7 @@
   </file>
   <file original="Deliveries Widget/en.lproj/InfoPlist.strings" datatype="plaintext" source-language="en" target-language="fr">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve" translate="no">
@@ -909,7 +865,7 @@
   </file>
   <file original="Deliveries/en.lproj/InfoPlist.strings" source-language="en" target-language="fr" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.0" build-num="14A5294g"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="14.1" build-num="14B47"/>
     </header>
     <body>
       <trans-unit id="Add Delivery" xml:space="preserve">
