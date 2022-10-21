@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="Button.OpenSystemSettings" xml:space="preserve">
         <source>Open System Settings</source>
-        <target>Ouvrir Réglages du système</target>
+        <target>Ouvrir Réglages Système</target>
         <note>Button to show related settings in the System Settings app on macOS 13 or later</note>
       </trans-unit>
       <trans-unit id="Button.Quit" xml:space="preserve">

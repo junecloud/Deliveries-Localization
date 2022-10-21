@@ -826,7 +826,7 @@
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.macOS" xml:space="preserve">
         <source>Click “Open System Settings” and make sure the switch next to Deliveries is on.</source>
-        <target>Cliquez sur « Ouvrir Réglages du système » et assurez-vous que Livraisons est activé.</target>
+        <target>Cliquez sur « Ouvrir Réglages Système » et assurez-vous que Livraisons est activé.</target>
         <note>Message for an alert, explaining how to update Contacts permission, on macOS 13 and later</note>
       </trans-unit>
       <trans-unit id="Mail.Permission.Message.macOS.Legacy" xml:space="preserve">
