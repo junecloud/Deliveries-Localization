@@ -453,6 +453,11 @@
         <target>Fehlersuche …</target>
         <note>Action to troubleshoot a delivery, used in a menu on macOS</note>
       </trans-unit>
+      <trans-unit id="Delivery.Action.View" xml:space="preserve">
+        <source>View</source>
+        <target>Anzeigen</target>
+        <note>Action to open a delivery in the main app, used in notifications</note>
+      </trans-unit>
       <trans-unit id="Delivery.Action.ViewOnline" xml:space="preserve">
         <source>View Online</source>
         <target>Online anzeigen</target>
