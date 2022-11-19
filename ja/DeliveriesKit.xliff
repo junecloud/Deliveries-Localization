@@ -480,7 +480,7 @@
       </trans-unit>
       <trans-unit id="Delivery.Share.Credit" xml:space="preserve">
         <source>Shared with Deliveries for %@, available on the App Store</source>
-        <target>App Storeで利用可能な%@用のデリバリと共有</target>
+        <target>デリバリーズから共有しました、App Storeで「デリバリーズ」で検索</target>
         <note>Message included when sharing a delivery, explaining where the shared content came from</note>
       </trans-unit>
       <trans-unit id="Delivery.Share.Title.Format" xml:space="preserve">
